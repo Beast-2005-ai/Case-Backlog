@@ -21,7 +21,7 @@ The system consists of:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Beast-2005-ai/Case-Backlog.git
    cd "Case Backlog System"
    ```
 
