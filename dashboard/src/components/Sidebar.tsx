@@ -1,13 +1,14 @@
 import { useState } from 'react';
-import { Scale, BarChart3, PanelLeftClose, PanelLeftOpen } from 'lucide-react';
+import { Scale, BarChart3, PanelLeftClose, PanelLeftOpen, Terminal } from 'lucide-react';
 
 interface SidebarProps {
   collapsed: boolean;
   setCollapsed: (collapsed: boolean) => void;
+  activePage: string;
+  setActivePage: (page: string) => void;
 }
 
-export function Sidebar({ collapsed, setCollapsed }: SidebarProps) {
-  // Aceternity style: expands on hover if it is currently collapsed
+export function Sidebar({ collapsed, setCollapsed, activePage, setActivePage }: SidebarProps) {
   const [isHovered, setIsHovered] = useState(false);
   const isExpanded = !collapsed || isHovered;
 
@@ -36,13 +37,26 @@ export function Sidebar({ collapsed, setCollapsed }: SidebarProps) {
 
       <nav className="flex-1 px-4 py-8 space-y-2 overflow-hidden">
         <button
-          className={`w-full flex items-center rounded-lg p-3 text-sm font-medium transition-all group bg-[#222222] text-white border border-[#333]`}
+          onClick={() => setActivePage('Dashboard')}
+          className={`w-full flex items-center rounded-lg p-3 text-sm font-medium transition-all group ${activePage === 'Dashboard' ? 'bg-[#222222] text-white border border-[#333]' : 'border border-transparent hover:bg-[#1a1a1a] text-gray-500 hover:text-gray-300'}`}
         >
-          <BarChart3 className={`shrink-0 transition-all text-white ${isExpanded ? 'mr-4' : 'mr-0'}`} size={18} />
-          
+          <BarChart3 className={`shrink-0 transition-all ${activePage === 'Dashboard' ? 'text-white' : 'text-gray-500'} ${isExpanded ? 'mr-4' : 'mr-0'}`} size={18} />
           {isExpanded && (
             <div className="flex flex-col items-start whitespace-nowrap overflow-hidden">
-              <span>DashBoard</span>
+              <span>Dashboard</span>
+            </div>
+          )}
+        </button>
+
+        {/* NEW: Audit Logs Navigation Button */}
+        <button
+          onClick={() => setActivePage('Logs')}
+          className={`w-full flex items-center rounded-lg p-3 text-sm font-medium transition-all group ${activePage === 'Logs' ? 'bg-[#222222] text-white border border-[#333]' : 'border border-transparent hover:bg-[#1a1a1a] text-gray-500 hover:text-gray-300'}`}
+        >
+          <Terminal className={`shrink-0 transition-all ${activePage === 'Logs' ? 'text-white' : 'text-gray-500'} ${isExpanded ? 'mr-4' : 'mr-0'}`} size={18} />
+          {isExpanded && (
+            <div className="flex flex-col items-start whitespace-nowrap overflow-hidden">
+              <span>Audit Logs</span>
             </div>
           )}
         </button>

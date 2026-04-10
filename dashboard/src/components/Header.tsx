@@ -1,14 +1,15 @@
 import { useState, useRef, useEffect } from 'react';
-import { Search, FileText, UploadCloud, Loader2 } from 'lucide-react';
+import { Search, FileText, UploadCloud, Loader2, Settings2 } from 'lucide-react';
 import type { Case } from '../types';
 
 interface HeaderProps {
   cases: Case[];
   onCaseSelect: (caseData: Case) => void;
   isSystemActive: boolean;
+  onOpenConfig: () => void; // Added this line to accept the function
 }
 
-export function Header({ cases, onCaseSelect, isSystemActive }: HeaderProps) {
+export function Header({ cases, onCaseSelect, isSystemActive, onOpenConfig }: HeaderProps) {
   const [searchQuery, setSearchQuery] = useState('');
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [isUploading, setIsUploading] = useState(false);
@@ -38,7 +39,6 @@ export function Header({ cases, onCaseSelect, isSystemActive }: HeaderProps) {
     setIsDropdownOpen(false);
   };
 
-  // NEW: File Upload Handler
   const handleFileUpload = async (event: React.ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0];
     if (!file) return;
@@ -53,14 +53,16 @@ export function Header({ cases, onCaseSelect, isSystemActive }: HeaderProps) {
         body: formData,
       });
       
-      if (response.ok) {
-        // Clear the input so you can upload the same file again if needed
-        event.target.value = '';
-        // The UI will auto-refresh via App.tsx polling, Watchdog will score it instantly
+      const data = await response.json();
+      
+      if (data.status === "error") {
+        alert(`❌ Import Failed:\n${data.message}`);
       }
     } catch (error) {
       console.error("Upload failed:", error);
+      alert("❌ Critical Error: Could not connect to backend API.");
     } finally {
+      event.target.value = '';
       setIsUploading(false);
     }
   };
@@ -104,8 +106,9 @@ export function Header({ cases, onCaseSelect, isSystemActive }: HeaderProps) {
         )}
       </div>
 
-      <div className="flex items-center space-x-6 ml-8">
-        {/* NEW: Import Button */}
+      <div className="flex items-center space-x-4 ml-8">
+        
+        {/* Import Case Button */}
         <label className={`cursor-pointer bg-[#161616] border border-[#2a2a2a] hover:bg-[#222222] text-gray-300 hover:text-white px-4 py-2 rounded-lg text-sm font-medium transition-colors flex items-center space-x-2 ${isUploading ? 'opacity-50 pointer-events-none' : ''}`}>
           {isUploading ? <Loader2 size={16} className="animate-spin" /> : <UploadCloud size={16} />}
           <span>{isUploading ? 'Parsing...' : 'Import Case'}</span>
@@ -117,7 +120,15 @@ export function Header({ cases, onCaseSelect, isSystemActive }: HeaderProps) {
           />
         </label>
 
-        <div className="h-6 w-px bg-[#2a2a2a]"></div>
+        {/* The New Settings Button */}
+        <button 
+          onClick={onOpenConfig} 
+          className="bg-[#161616] border border-[#2a2a2a] hover:bg-[#222222] text-gray-300 hover:text-white p-2 rounded-lg transition-colors"
+        >
+          <Settings2 size={18} />
+        </button>
+
+        <div className="h-6 w-px bg-[#2a2a2a] mx-2"></div>
 
         <div className="flex items-center space-x-3">
           <div className="relative">
