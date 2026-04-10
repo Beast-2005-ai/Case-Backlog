@@ -49,7 +49,6 @@ def get_dynamic_keywords():
                 
                 for c in data.get("configs", []):
                     if c["id"] in active_ids:
-                        # Adds new custom words or overwrites base scores if identical
                         combined_keywords.update(c["keywords"])
     except:
         pass
@@ -61,13 +60,25 @@ def triage_silent(case_json_path):
             new_case = json.load(f)
     except: return
     
-    # Load the merged keywords!
     active_keywords = get_dynamic_keywords()
     
     search_text = new_case.get('summary', '')[:500]
     results = collection.query(query_texts=[search_text], n_results=1)
     distances = results.get('distances', [])
     
+    # --- NEW: EXTRACT THE ACTUAL PRECEDENT FROM CHROMADB ---
+    precedent_id = "No exact match found"
+    precedent_text = "Vector database returned no close precedents."
+    
+    if results and 'ids' in results and len(results['ids']) > 0 and len(results['ids'][0]) > 0:
+        precedent_id = results['ids'][0][0]
+        # Try to get the document text to show the clerk
+        docs = results.get('documents')
+        if docs and len(docs) > 0 and len(docs[0]) > 0 and docs[0][0]:
+            precedent_text = docs[0][0][:150] + '...'
+        else:
+            precedent_text = "Historical precedent matched in vector space."
+            
     r_score = float(rule_score(new_case, distances, active_keywords))
     justification_str = f"SCORE LOGIC: Rule Score {r_score}"
     final_score = r_score
@@ -98,6 +109,8 @@ def triage_silent(case_json_path):
         justification_data = {
             "rule_score": round(r_score, 2),
             "ml_score": round(ml_score, 2),
+            "precedent_id": precedent_id,         # NEW
+            "precedent_text": precedent_text,     # NEW
             "xai": xai_breakdown
         }
         justification_str = f"XAI_DATA: {json.dumps(justification_data)}"
