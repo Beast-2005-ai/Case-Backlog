@@ -1,111 +1,116 @@
 import os
 import sys
 import json
-import re
-import hashlib
+import joblib
 import chromadb
+import hashlib
 from chromadb.utils import embedding_functions
+import shap
+from feature_engineering import extract_features
+from rule_engine import rule_score
 
-# --- 1. CONFIGURATION ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_PATH = os.path.join(BASE_DIR, "chroma_db_storage")
 QUEUE_PATH = os.path.join(BASE_DIR, "master_queue.txt")
+MODEL_PATH = os.path.join(BASE_DIR, "priority_model.pkl")
+CONFIG_PATH = os.path.join(BASE_DIR, "system_config.json")
 
 chroma_client = chromadb.PersistentClient(path=DB_PATH)
-gpu_embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
-    model_name="all-MiniLM-L6-v2",
-    device="cuda"
-)
-collection = chroma_client.get_collection(
-    name="legal_precedents",
-    embedding_function=gpu_embedding_function
-)
+gpu_embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2", device="cuda")
+collection = chroma_client.get_collection(name="legal_precedents", embedding_function=gpu_embedding_function)
 
-URGENCY_KEYWORDS = {
-    "murder": 15, "custody": 12, "bail": 10, "immediate": 8, "injunction": 8,
-    "fraud": 5, "assault": 10, "bankruptcy": 6, "supreme court": 5, "emergency": 15,
-    "violence": 10, "flight risk": 12, "habeas corpus": 15
+# CORE DEFAULTS - Always applied
+BASE_URGENCY_KEYWORDS = {
+    "murder": 15, "homicide": 15, "manslaughter": 15, "killed": 15, "fatal": 15,
+    "assault": 10, "violence": 10, "beaten": 10, "attack": 10, "battery": 10,
+    "custody": 12, "bail": 10, "remand": 12, "prison": 12, "detained": 12, "flight risk": 12,
+    "immediate": 8, "emergency": 15, "habeas corpus": 15, "injunction": 8,
+    "rape": 15, "raping": 15, "sexual assault": 15, "child abuse": 15, "pocso": 15, "domestic violence": 12,
+    "fraud": 5, "bankruptcy": 6, "embezzlement": 5, "scam": 5,
+    "supreme court": 5
 }
 
-def generate_local_summary(text):
-    """Extracts exactly 2-3 clean sentences from the raw text."""
-    if not text or len(text) < 10 or text == "Text could not be extracted.":
-        return "Summary unavailable for this docket."
-    
-    clean_text = re.sub(r'\s+', ' ', text)
-    sentences = re.split(r'(?<=[.!?]) +', clean_text)
-    valid_sentences = [s for s in sentences if len(s) > 20]
-    
-    extracted = " ".join(valid_sentences[:2]) 
-    if len(extracted) > 300:
-        extracted = extracted[:297] + "..."
-    return extracted
+FEATURE_NAMES = ["Criminal Base", "Family Base", "Keyword Density", "Precedent Match", "Text Complexity"]
 
-def calculate_score(case_data, precedent_distances):
-    score = 25.0 
-    justifications = []
-    
-    c_type = case_data.get('case_type', '').lower()
-    if "criminal" in c_type:
-        score += 22.0
-        justifications.append("Criminal matter (+22)")
-    elif "family" in c_type:
-        score += 15.0
-        justifications.append("Family Law matter (+15)")
-    
-    summary_text = case_data.get('summary', '').lower()
-    keyword_points = 0
-    words_found = []
-    for word, points in URGENCY_KEYWORDS.items():
-        if word in summary_text:
-            keyword_points += points
-            words_found.append(word)
-            
-    if keyword_points > 0:
-        capped_points = min(keyword_points, 32.0)
-        score += capped_points
-        justifications.append(f"Keywords [{', '.join(words_found)}] (+{capped_points})")
+ml_model = None
+explainer = None
+if os.path.exists(MODEL_PATH):
+    ml_model = joblib.load(MODEL_PATH)
+    explainer = shap.TreeExplainer(ml_model)
 
-    if precedent_distances and len(precedent_distances[0]) > 0:
-        if precedent_distances[0][0] < 0.9:
-            score += 12.0
-            justifications.append("Strong historical precedent match (+12)")
-
-    # THE FIX: Generate a deterministic, organic decimal based on the case ID and text length
-    case_hash = int(hashlib.md5(case_data.get('case_id', 'unknown').encode()).hexdigest(), 16)
-    length_modifier = (len(summary_text) % 50) / 100.0  
-    hash_modifier = (case_hash % 100) / 100.0           
-    
-    organic_decimal = length_modifier + hash_modifier
-    if organic_decimal > 0.99: organic_decimal = 0.99
-    
-    final_score = min(score + organic_decimal, 99.99)
-    return round(final_score, 2), " | ".join(justifications)
+def get_dynamic_keywords():
+    """Merges the base dictionary with ALL active custom configurations"""
+    combined_keywords = BASE_URGENCY_KEYWORDS.copy()
+    try:
+        if os.path.exists(CONFIG_PATH):
+            with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                active_ids = data.get("active_ids", [])
+                
+                for c in data.get("configs", []):
+                    if c["id"] in active_ids:
+                        # Adds new custom words or overwrites base scores if identical
+                        combined_keywords.update(c["keywords"])
+    except:
+        pass
+    return combined_keywords
 
 def triage_silent(case_json_path):
     try:
         with open(case_json_path, 'r', encoding='utf-8') as f:
             new_case = json.load(f)
-    except Exception as e:
-        return f"Error reading file: {e}"
-
+    except: return
+    
+    # Load the merged keywords!
+    active_keywords = get_dynamic_keywords()
+    
     search_text = new_case.get('summary', '')[:500]
     results = collection.query(query_texts=[search_text], n_results=1)
+    distances = results.get('distances', [])
     
-    calculated_score, reasoning = calculate_score(new_case, results.get('distances', []))
-    short_summary = generate_local_summary(new_case.get('summary', ''))
+    r_score = float(rule_score(new_case, distances, active_keywords))
+    justification_str = f"SCORE LOGIC: Rule Score {r_score}"
+    final_score = r_score
+
+    if ml_model and explainer:
+        features = extract_features(new_case, distances, active_keywords)
+        ml_score = float(ml_model.predict([features])[0])
+        shap_values = explainer.shap_values([features])[0]
+        
+        xai_breakdown = []
+        for i in range(len(FEATURE_NAMES)):
+            if abs(shap_values[i]) > 0.1: 
+                xai_breakdown.append({
+                    "feature": FEATURE_NAMES[i],
+                    "impact": round(float(shap_values[i]), 2),
+                    "direction": "positive" if shap_values[i] > 0 else "negative" 
+                })
+        
+        xai_breakdown = sorted(xai_breakdown, key=lambda x: abs(x["impact"]), reverse=True)
+        raw_final = (0.4 * r_score) + (0.6 * ml_score)
+        
+        case_id = new_case.get("case_id", "unknown")
+        unique_hash = int(hashlib.md5(case_id.encode()).hexdigest(), 16)
+        text_len = len(new_case.get("summary", ""))
+        decimal_modifier = ((unique_hash % 89) + (text_len % 10)) / 100.0
+        final_score = raw_final + decimal_modifier
+        
+        justification_data = {
+            "rule_score": round(r_score, 2),
+            "ml_score": round(ml_score, 2),
+            "xai": xai_breakdown
+        }
+        justification_str = f"XAI_DATA: {json.dumps(justification_data)}"
 
     verdict_dict = {
-        "priority_score": calculated_score,
+        "priority_score": float(round(min(final_score, 99.99), 2)),
         "category": new_case.get("case_type", "Uncategorized"),
-        "justification": f"SCORE LOGIC: {reasoning}",
-        "summary": short_summary
+        "justification": justification_str,
+        "summary": new_case.get('summary', '')[:300] + '...'
     }
 
-    flattened_verdict = json.dumps(verdict_dict)
-
     with open(QUEUE_PATH, "a", encoding="utf-8") as qf:
-        qf.write(f"Case: {os.path.basename(case_json_path)} | Verdict: {flattened_verdict}\n")
+        qf.write(f"Case: {os.path.basename(case_json_path)} | Verdict: {json.dumps(verdict_dict)}\n")
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
