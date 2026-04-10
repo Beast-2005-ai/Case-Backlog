@@ -19,7 +19,6 @@ chroma_client = chromadb.PersistentClient(path=DB_PATH)
 gpu_embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2", device="cuda")
 collection = chroma_client.get_collection(name="legal_precedents", embedding_function=gpu_embedding_function)
 
-# CORE DEFAULTS - Always applied
 BASE_URGENCY_KEYWORDS = {
     "murder": 15, "homicide": 15, "manslaughter": 15, "killed": 15, "fatal": 15,
     "assault": 10, "violence": 10, "beaten": 10, "attack": 10, "battery": 10,
@@ -39,19 +38,16 @@ if os.path.exists(MODEL_PATH):
     explainer = shap.TreeExplainer(ml_model)
 
 def get_dynamic_keywords():
-    """Merges the base dictionary with ALL active custom configurations"""
     combined_keywords = BASE_URGENCY_KEYWORDS.copy()
     try:
         if os.path.exists(CONFIG_PATH):
             with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 active_ids = data.get("active_ids", [])
-                
                 for c in data.get("configs", []):
                     if c["id"] in active_ids:
                         combined_keywords.update(c["keywords"])
-    except:
-        pass
+    except: pass
     return combined_keywords
 
 def triage_silent(case_json_path):
@@ -63,28 +59,37 @@ def triage_silent(case_json_path):
     active_keywords = get_dynamic_keywords()
     
     search_text = new_case.get('summary', '')[:500]
-    results = collection.query(query_texts=[search_text], n_results=1)
-    distances = results.get('distances', [])
     
-    # --- NEW: EXTRACT THE ACTUAL PRECEDENT FROM CHROMADB ---
+    # FIX 2: Prevent ChromaDB crash on empty summaries
+    if not search_text.strip():
+        search_text = new_case.get('case_type', 'Legal Document')
+        
+    results = collection.query(query_texts=[search_text], n_results=2)
+    
+    # FIX 1: Keep raw_distances as a 2D array for your ML/Rule files
+    raw_distances = results.get('distances', [[]])
+    distances_1d = raw_distances[0] if len(raw_distances) > 0 else []
+    
     precedent_id = "No exact match found"
     precedent_text = "Vector database returned no close precedents."
     
-    if results and 'ids' in results and len(results['ids']) > 0 and len(results['ids'][0]) > 0:
-        precedent_id = results['ids'][0][0]
-        # Try to get the document text to show the clerk
-        docs = results.get('documents')
-        if docs and len(docs) > 0 and len(docs[0]) > 0 and docs[0][0]:
-            precedent_text = docs[0][0][:150] + '...'
-        else:
-            precedent_text = "Historical precedent matched in vector space."
+    if results and 'ids' in results and len(results['ids'][0]) > 0:
+        match_idx = 1 if len(distances_1d) > 1 and distances_1d[0] < 0.05 else 0
+        
+        if match_idx < len(results['ids'][0]):
+            precedent_id = results['ids'][0][match_idx]
+            docs = results.get('documents')
+            if docs and len(docs[0]) > match_idx and docs[0][match_idx]:
+                precedent_text = docs[0][match_idx][:150] + '...'
+            else:
+                precedent_text = "Historical precedent matched in vector space."
             
-    r_score = float(rule_score(new_case, distances, active_keywords))
-    justification_str = f"SCORE LOGIC: Rule Score {r_score}"
+    # We now pass `raw_distances` (2D) to satisfy your feature extractor
+    r_score = float(rule_score(new_case, raw_distances, active_keywords))
     final_score = r_score
 
     if ml_model and explainer:
-        features = extract_features(new_case, distances, active_keywords)
+        features = extract_features(new_case, raw_distances, active_keywords)
         ml_score = float(ml_model.predict([features])[0])
         shap_values = explainer.shap_values([features])[0]
         
@@ -109,11 +114,13 @@ def triage_silent(case_json_path):
         justification_data = {
             "rule_score": round(r_score, 2),
             "ml_score": round(ml_score, 2),
-            "precedent_id": precedent_id,         # NEW
-            "precedent_text": precedent_text,     # NEW
+            "precedent_id": precedent_id,         
+            "precedent_text": precedent_text,     
             "xai": xai_breakdown
         }
         justification_str = f"XAI_DATA: {json.dumps(justification_data)}"
+    else:
+        justification_str = f"SCORE LOGIC: Rule Score {r_score}"
 
     verdict_dict = {
         "priority_score": float(round(min(final_score, 99.99), 2)),

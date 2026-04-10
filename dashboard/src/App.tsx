@@ -5,7 +5,8 @@ import { StatsCards } from './components/StatsCards';
 import { CaseTable } from './components/CaseTable';
 import { CaseDetailPanel } from './components/CaseDetailPanel';
 import { SystemLogs } from './components/SystemLogs';
-import { ConfigurationModal } from './components/ConfigurationModel'; // IMPORTED MODAL
+import { ConfigurationModal } from './components/ConfigurationModal';
+import { AnalyticsDashboard } from './components/AnalyticsDashboard';
 import { DollarSign, IndianRupee } from 'lucide-react';
 import type { Case, Stats } from './types';
 
@@ -106,6 +107,8 @@ function App() {
             
             {activePage === 'Logs' ? (
               <SystemLogs />
+            ) : activePage === 'Analytics' ? (
+              <AnalyticsDashboard cases={cases} />
             ) : (
               <>
                 <div className="flex justify-between items-end mb-8">
@@ -135,7 +138,7 @@ function App() {
                 <StatsCards stats={stats} />
 
                 <div className="flex items-center space-x-4 mb-6">
-                  <span className="text-gray-500 text-3x2 font-medium">Filter View:</span>
+                  <span className="text-gray-500 text-3xl font-medium">Filter View:</span>
                   <div className="flex space-x-2 bg-[#161616] p-1 rounded-xl border border-[#2a2a2a] w-fit">
                     {tabs.map(tab => (
                       <button
