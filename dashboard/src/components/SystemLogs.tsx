@@ -2,13 +2,14 @@ import { useState, useEffect } from 'react';
 import { Trash2, Terminal } from 'lucide-react';
 
 export function SystemLogs() {
+  const apiBase = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000';
   const [logs, setLogs] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
 
   const fetchLogs = async () => {
     try {
-      const response = await fetch('http://localhost:8000/logs');
+      const response = await fetch(`${apiBase}/logs`);
       
       // NEW: Check if the response is actually OK before trying to parse it
       if (!response.ok) {
@@ -38,7 +39,7 @@ export function SystemLogs() {
     if (!window.confirm("Are you sure you want to permanently delete all system logs?")) return;
     
     try {
-      await fetch('http://localhost:8000/logs', { method: 'DELETE' });
+      await fetch(`${apiBase}/logs`, { method: 'DELETE' });
       fetchLogs(); // Refresh the empty list
     } catch (error) {
       console.error("Failed to clear logs:", error);

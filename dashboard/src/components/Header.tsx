@@ -10,6 +10,7 @@ interface HeaderProps {
 }
 
 export function Header({ cases, onCaseSelect, isSystemActive, onOpenConfig }: HeaderProps) {
+  const apiBase = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000';
   const [searchQuery, setSearchQuery] = useState('');
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [isUploading, setIsUploading] = useState(false);
@@ -48,7 +49,7 @@ export function Header({ cases, onCaseSelect, isSystemActive, onOpenConfig }: He
     formData.append("file", file);
 
     try {
-      const response = await fetch('http://localhost:8000/upload', {
+      const response = await fetch(`${apiBase}/upload`, {
         method: 'POST',
         body: formData,
       });

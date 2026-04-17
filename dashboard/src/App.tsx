@@ -29,7 +29,8 @@ function App() {
 
   const fetchQueue = async () => {
     try {
-      const response = await fetch('http://localhost:8000/queue');
+      const apiBase = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000';
+      const response = await fetch(`${apiBase}/queue`);
       const data = await response.json();
       
       const liveCases: Case[] = data.map((item: any) => ({

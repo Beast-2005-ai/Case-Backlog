@@ -8,6 +8,7 @@ interface ConfigModalProps {
 }
 
 export function ConfigurationModal({ isOpen, onClose }: ConfigModalProps) {
+  const apiBase = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000';
   const [configData, setConfigData] = useState<any>(null);
   const [newProfileName, setNewProfileName] = useState("");
   const [newKeywords, setNewKeywords] = useState<{word: string, weight: number | string}>([{word: "", weight: 10}]);
@@ -15,7 +16,7 @@ export function ConfigurationModal({ isOpen, onClose }: ConfigModalProps) {
 
   const fetchConfigs = async () => {
     try {
-      const res = await fetch('http://localhost:8000/config');
+      const res = await fetch(`${apiBase}/config`);
       if (res.ok) {
         const data = await res.json();
         setConfigData(data);
@@ -31,7 +32,7 @@ export function ConfigurationModal({ isOpen, onClose }: ConfigModalProps) {
 
   const handleToggleActive = async (id: string) => {
     try {
-      await fetch(`http://localhost:8000/config/toggle/${id}`, { method: 'PUT' });
+      await fetch(`${apiBase}/config/toggle/${id}`, { method: 'PUT' });
       fetchConfigs();
     } catch (error) {
       console.error("Failed to toggle config:", error);
@@ -41,7 +42,7 @@ export function ConfigurationModal({ isOpen, onClose }: ConfigModalProps) {
   const handleDeleteProfile = async (id: string) => {
     if (!window.confirm("Delete this custom AI scoring profile permanently?")) return;
     try {
-      await fetch(`http://localhost:8000/config/${id}`, { method: 'DELETE' });
+      await fetch(`${apiBase}/config/${id}`, { method: 'DELETE' });
       fetchConfigs();
     } catch (error) {
       console.error("Failed to delete config:", error);
@@ -83,7 +84,7 @@ export function ConfigurationModal({ isOpen, onClose }: ConfigModalProps) {
     setIsSaving(true);
 
     try {
-      await fetch('http://localhost:8000/config', {
+      await fetch(`${apiBase}/config`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ name: newProfileName, keywords: formattedKeywords })

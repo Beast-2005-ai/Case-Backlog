@@ -8,12 +8,17 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm install
 
+# Install serve for production
+RUN npm install -g serve
+
 # Copy the rest of the frontend code
 COPY . .
 
-# Expose the standard React/Vite development ports
-EXPOSE 3000 5173
+# Build the app
+RUN npm run build
 
-# Start the development server
-CMD ["npm", "run", "dev"] 
-# Note: Change "dev" to "start" if you are using Create React App instead of Vite.
+# Expose the port
+EXPOSE 3000
+
+# Serve the built app
+CMD ["serve", "-s", "dist", "-l", "3000"]
