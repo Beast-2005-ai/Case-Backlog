@@ -2,6 +2,7 @@ import os
 import sys
 import json
 import joblib
+import torch
 import chromadb
 import hashlib
 from chromadb.utils import embedding_functions

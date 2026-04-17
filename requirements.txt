@@ -4,6 +4,7 @@ python-multipart
 watchdog
 chromadb
 sentence-transformers
+torch
 xgboost
 shap
 scikit-learn
