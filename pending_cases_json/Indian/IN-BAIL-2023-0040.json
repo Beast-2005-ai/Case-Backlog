@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0040",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0040",
+    "summary": "The petitioner, aged 19 and a student, is the third accused in a case involving alleged sexual offenses. The incident allegedly occurred in April 2013, but the complaint was lodged only in November 2014.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

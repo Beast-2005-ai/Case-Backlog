@@ -1,0 +1,14 @@
+{
+    "active_ids": [
+        "config_41a432ee"
+    ],
+    "configs": [
+        {
+            "id": "config_41a432ee",
+            "name": "test",
+            "keywords": {
+                "dummy": 10.0
+            }
+        }
+    ]
+}

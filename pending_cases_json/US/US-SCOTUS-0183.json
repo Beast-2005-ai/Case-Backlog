@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0183",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0183",
+    "summary": "1 The federal question which survives proceedings in the Florida state courts is whether renewal notes representing the purchase price of goods sold and delivered are uncollectible if it is found that the vendor violated the Robinson-Patman Act, 49 Stat. 2 Bruce is a canner and, over a period of ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

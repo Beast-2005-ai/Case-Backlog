@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0187",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0187",
+    "summary": "1 A problem arising under the Bankruptcy Act, 11 U.S.C.A. \u00a7 1 et seq., is presented by the unique facts of this case.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0212",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0212",
+    "summary": "The Government charged all of the defendants with conspiring to defraud by depriving it of the faithful services of an Army officer. The defendant Radovich, the officer in question, admits receipt of money from the other defendants and admits the questioned actions but denies the conspiracy, clai...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

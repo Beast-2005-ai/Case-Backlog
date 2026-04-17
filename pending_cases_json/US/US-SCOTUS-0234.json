@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0234",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0234",
+    "summary": "Everagra is owned by the United States and managed in its behalf by the respondents as General Agents. (For the relevant portions of the contract and for full consideration of it in relation to issues other than those here involved, reference is made to Hust v.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

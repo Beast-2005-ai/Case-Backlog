@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0254",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0254",
+    "summary": "1 Broadly the question is whether Indiana has power to regulate sales of natural gas made by an interstate pipe-line carrier direct to industrial consumers in Indiana. More narrowly we are asked to decide whether the commerce clause, Const.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

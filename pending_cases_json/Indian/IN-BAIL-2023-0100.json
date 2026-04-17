@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0100",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0100",
+    "summary": "Ramjan Khan was accused in a motorcycle theft case and sought anticipatory bail under Section 438 CrPC. The case was based solely on a co-accused\u2019s confessional statement under Section 27 of the Evidence Act.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

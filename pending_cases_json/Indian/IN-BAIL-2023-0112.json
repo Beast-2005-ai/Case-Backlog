@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0112",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0112",
+    "summary": "The accused Sanni Malik was implicated in a kidnapping case where the victim, Kapil Gupta, was abducted and a ransom of Rs.5 crores was demanded. The victim later returned and gave statements identifying the accused.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

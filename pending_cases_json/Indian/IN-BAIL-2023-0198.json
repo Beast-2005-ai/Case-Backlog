@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0198",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0198",
+    "summary": "Inayath @ Immu was accused of murdering Manjula, with whom he allegedly had an illicit relationship. He had previously been convicted under Section 307 IPC for an earlier attempt to kill the same woman and was out on bail.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

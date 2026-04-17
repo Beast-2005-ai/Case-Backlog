@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0224",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0224",
+    "summary": "1 This case presents a problem arising out of contracts for public building construction and repair. The rights inter sese of contractor, surety, assignees and government have been productive of much litigation, but we have not heretofore had to decide whether percentages retained pursuant to con...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

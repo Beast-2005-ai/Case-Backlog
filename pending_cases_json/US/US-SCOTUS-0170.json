@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0170",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0170",
+    "summary": "413, this Court had occasion to consider the effect of the full faith and credit clause of the Constitution of the United States, U.S.Const. 4, \u00a7 1, where awards are sought under the workmen's compensation laws of two states.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

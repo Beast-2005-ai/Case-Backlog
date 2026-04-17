@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0214",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0214",
+    "summary": "1 On the merits this appeal presents substantial questions concerning the constitutional validity of ordinances of the City of Los Angeles governing the solicitation of contributions for charity. First and Fourteenth Amendment grounds are urged as nullifying them chiefly in the view that they imp...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

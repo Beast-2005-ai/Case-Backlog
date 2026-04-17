@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0281",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0281",
+    "summary": "1 This is a patent infringement suit brought by respondent. The charge of infringement is limited to certain product claims1 of Patent No.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

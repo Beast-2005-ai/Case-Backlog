@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0014",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0014",
+    "summary": "The applicant, arrested in 2016, was accused in three NDPS cases involving conspiracy to traffic charas. No contraband was recovered from him, and his arrest was based solely on statements recorded under Section 67 of the NDPS Act.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

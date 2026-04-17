@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0184",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0184",
+    "summary": "1 An ordinance of Saddle River Township, New Jersey, forbids carrying on the business of storing goods for hire except upon the payment of an annual license tax.1 Independent Warehouses, Inc., and Thompson, an agent of that company, have been convicted and fined for conducting such a business wit...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

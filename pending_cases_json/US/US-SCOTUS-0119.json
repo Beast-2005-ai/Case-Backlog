@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0119",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0119",
+    "summary": "That court followed the same procedure here as it did in Samuels' case; it reversed the District Court which had dismissed the writ of habeas corpus brought on behalf of Horozitz, and remanded the cause to the District Court with directions to discharge him from military custody. 2 It appears tha...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

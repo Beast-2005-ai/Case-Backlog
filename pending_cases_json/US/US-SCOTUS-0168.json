@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0168",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0168",
+    "summary": "1 The questions are whether the United States District Court has inherent power to dismiss a suit pursuant to the doctrine of forum non conveniens and, if so, whether that power was abused in this case. 2 The respondent-plaintiff brought this action in the Southern District of New York, but resid...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

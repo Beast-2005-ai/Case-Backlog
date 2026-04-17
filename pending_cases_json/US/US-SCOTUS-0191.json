@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0191",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0191",
+    "summary": "1 Appellants filed complaints in the United States District Court for the Southern District of Indiana seeking a temporary stay, an interlocutory injunction and a permanent injunction against the enforcement of an order of the Interstate Commerce Commission, dated July 9, 1945. This order had bee...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

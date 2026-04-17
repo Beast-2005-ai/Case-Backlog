@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0158",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0158",
+    "summary": "1 On March 6, 1940, the National Labor Relations Board, on finding that the Donnelly Garment Company had engaged in labor practices condemned as 'unfair' by the Wagner Act, issued an order against the Company 'to effectuate the policies' of the Act. The Circuit Court of Appeals for the Eighth Cir...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

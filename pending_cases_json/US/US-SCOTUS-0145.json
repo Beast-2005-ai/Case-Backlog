@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0145",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0145",
+    "summary": "1 In conformity with Michigan procedure, petitioner moved for leave to file a delayed motion for new trial in the court in which he had been convicted of first degree murder. Serious impairment of his constitutional rights at the arraignment and trial were asserted as grounds for the motion.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

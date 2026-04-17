@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0163",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0163",
+    "summary": "1 Porello, a longshoreman, was injured in 1942 while working in the hold of the U.S.S. Thomas Stone, a public vessel of the United States.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

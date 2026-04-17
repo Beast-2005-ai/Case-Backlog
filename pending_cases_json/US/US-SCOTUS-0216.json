@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0216",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0216",
+    "summary": "a, of the Bankruptcy Act1 confers upon all bankruptcy courts 'such jurisdiction at law and in equity as will enable them to exercise original jurisdiction in proceedings under this Act * * * to * * * (7) Cause the estates of bankrupts to be collected, reduced to money and distributed, and determi...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

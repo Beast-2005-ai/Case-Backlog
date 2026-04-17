@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0058",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0058",
+    "summary": "The petitioners, including Waseem Akram and Sahil Choudhary, sought anticipatory bail in relation to FIR No. 351/2021 for offenses including cruelty and later gang rape.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

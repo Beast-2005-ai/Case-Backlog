@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0264",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0264",
+    "summary": "Bernard Rodgers, both of Canton, Ohio, for respondent. 1 Petitioner was convicted in an Ohio court of murder in the first degree and sentenced to life imprisonment.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

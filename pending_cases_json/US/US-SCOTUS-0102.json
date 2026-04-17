@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0102",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0102",
+    "summary": "1 Petitioners are members of a Mormon sect, known as Fundamentalists. They not only believe in polygamy; unlike other Mormons,1 they practice it.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

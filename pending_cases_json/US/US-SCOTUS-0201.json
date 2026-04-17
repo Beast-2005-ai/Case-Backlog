@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0201",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0201",
+    "summary": "1 This appeal brings before us \u00a7 301(h) of the Federal Food, Drug and Cosmetic Act of 1938, 52 Stat. \u00a7 331(h), which prohibits the giving of a false guaranty that any food, drug, device or cosmetic is not adulterated or misbranded within the meaning of the Act.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

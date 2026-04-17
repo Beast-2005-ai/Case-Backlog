@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0006",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0006",
+    "summary": "Hardeep Singh @ Dipi, a juvenile, was implicated in a gang-related robbery and murder based on co-accused confessions. He had been in a juvenile protection home for almost a year.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

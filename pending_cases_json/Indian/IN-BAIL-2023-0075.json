@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0075",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0075",
+    "summary": "Jhaj granted bail in an NDPS matter involving 3 kg of opium, ignoring the fact that an earlier bail application had been rejected by another judge. No reasons were recorded for deviating from the earlier decision.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

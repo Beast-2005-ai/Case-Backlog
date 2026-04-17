@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0007",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0007",
+    "summary": "Bharath Kumar was accused of conspiring to murder Harish by paying 'supari' to co-accused. He was absconding after his anticipatory bail was denied and surrendered only months later.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

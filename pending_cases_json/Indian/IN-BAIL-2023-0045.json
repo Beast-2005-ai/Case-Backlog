@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0045",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0045",
+    "summary": "The applicant was accused under IPC sections related to kidnapping and rape, as well as POCSO and SC/ST Acts. The prosecutrix initially did not name the applicant and refused medical examination.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

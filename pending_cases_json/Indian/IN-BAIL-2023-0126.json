@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0126",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0126",
+    "summary": "The petitioner, accused of separate instances of sexual assault on a minor girl within a 24-hour period along with co-accused, was arrested on 08.03.2023. The victim claimed multiple assaults by different individuals.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

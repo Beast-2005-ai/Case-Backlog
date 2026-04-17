@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0150",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0150",
+    "summary": "1 A New Jersey statute authorizes its local school districts to make rules and contracts for the transportation of children to and from schools.1 The appellee, a township board of education, acting pursuant to this statute authorized reimbursement to parents of money expended by them for the bus ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

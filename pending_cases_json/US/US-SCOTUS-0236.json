@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0236",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0236",
+    "summary": "Fahey, individually and as Federal Home Loan Bank Commissioner, and A. Amman, individually and as Conservator for the Long Beach Federal Savings and Loan Association, invokes the original jurisdiction of this Court.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

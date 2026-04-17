@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0242",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0242",
+    "summary": "1 Petitioner is detained by respondent under a deportation order, the validity of which is challenged by a petition for a writ of habeas corpus. The District Court granted the petition and discharged petitioner.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0085",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0085",
+    "summary": "Pradeep Kumar Nehra was detained under the COFEPOSA Act for allegedly smuggling 2.4 kg of gold from Sharjah to Jaipur by concealing it in his sandals. He admitted to previous smuggling instances and connections with others in Dubai and Hyderabad.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

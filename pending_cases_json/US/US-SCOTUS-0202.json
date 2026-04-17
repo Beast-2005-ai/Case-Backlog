@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0202",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0202",
+    "summary": "1 Petitioners were adjudged guilty of constructive criminal contempt by the County Court of Neuces County, Texas, and sentenced to jail for three days. They sought to challenge the legality of their confinement by applying to the Court of Criminal Appeals for a writ of habeas corpus.1 That court ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

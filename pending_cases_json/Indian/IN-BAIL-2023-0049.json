@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0049",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0049",
+    "summary": "The applicant was convicted under IPC Section 376(2)(n) and Sections 4 and 6 of the POCSO Act and sentenced to 20 years of rigorous imprisonment. He applied for suspension of sentence and bail pending appeal.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

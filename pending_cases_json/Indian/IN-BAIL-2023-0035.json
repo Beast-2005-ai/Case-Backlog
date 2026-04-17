@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0035",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0035",
+    "summary": "The applicant was accused of assisting in transporting the prosecutrix in a case involving sexual assault under POCSO and IPC sections. The FIR alleged that he helped facilitate her travel with the main accused.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

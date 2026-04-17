@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0003",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0003",
+    "summary": "Hyderali, a government contractor, was accused in a large-scale economic fraud involving forged petroleum bills used to claim government money. Fake bills allegedly prepared by the first accused were used by various officials and contractors, including Hyderali, to claim crores from the exchequer.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

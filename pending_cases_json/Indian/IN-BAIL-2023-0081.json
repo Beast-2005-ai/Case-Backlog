@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0081",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0081",
+    "summary": "Khalid, was arrested on 17.04.2013 for illegal arms possession. Recovery included multiple pistols, foreign arms parts, and forged licenses.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

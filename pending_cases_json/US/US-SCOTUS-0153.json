@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0153",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0153",
+    "summary": "1 Petitioners brought this action in the Court of Claims under the Act of June 28, 1938, 52 Stat. 593, to recover compensation for lands made available to them by an 1875 Executive Order of the President and sub-sequently taken from them by the United States.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

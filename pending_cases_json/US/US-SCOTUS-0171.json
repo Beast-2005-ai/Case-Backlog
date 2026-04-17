@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0171",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0171",
+    "summary": "1 The Halveys were married in 1937 and lived together in New York until 1944. Halvey, without her husband's consent, left home with the child, went to Florida, and established her residence there.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

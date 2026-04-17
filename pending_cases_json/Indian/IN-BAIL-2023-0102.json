@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0102",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0102",
+    "summary": "The accused, Nagaraja, along with others, allegedly kidnapped a 17-year-old girl and subjected her to rape. The victim made a statement under Section 164 CrPC, corroborating the allegations.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

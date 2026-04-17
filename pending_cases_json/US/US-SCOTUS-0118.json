@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0118",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0118",
+    "summary": "964, because it raises questions of importance in the administration of the Agricultural Marketing Agreement Act of 1937. The general scheme of the Act and its operation have been before us in a series of cases.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

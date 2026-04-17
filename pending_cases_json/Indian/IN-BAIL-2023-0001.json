@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0001",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0001",
+    "summary": "Jibangshu Paul was apprehended carrying Rs. 32,11,000 in cash, suspected to be intended for the DHD(J) militant group.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

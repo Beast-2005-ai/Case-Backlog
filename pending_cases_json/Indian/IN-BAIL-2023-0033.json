@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0033",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0033",
+    "summary": "The applicant was booked under IPC and POCSO sections for allegedly sexually harassing a minor. The FIR was filed 5 days after the alleged incident.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

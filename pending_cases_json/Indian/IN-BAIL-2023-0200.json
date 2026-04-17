@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0200",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0200",
+    "summary": "Himanshu Sharma was granted regular bail by the Madhya Pradesh High Court in a case involving forgery and fraud based on co-accused statements. Later, a different judge of the same court cancelled the bail citing national security risks due to misuse of fake documents.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

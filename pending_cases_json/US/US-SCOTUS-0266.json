@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0266",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0266",
+    "summary": "1 This case involves a question of procedure under the due process clause of the Fourteenth Amendment of the United States Constitution. Does a defendant in a state criminal proceeding lose the right to contend that a confession was coerced because of his testimony that the confession was in fact...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

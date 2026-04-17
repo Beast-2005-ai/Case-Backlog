@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0109",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0109",
+    "summary": "1 The Alien Registration Act of 1940, 54 Stat. \u00a7 451 et seq., required aliens, with certain exceptions, to register pursuant to regulations of the Commissioner of Immigration and Naturalization.1 Among the disclosures required was whether during the preceding five years th alien had been 'affilia...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0259",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0259",
+    "summary": "1 This case presents the question whether an acquittal of conspiracy to defraud the United States precludes a subsequent prosecution for commission of the substantive offense, on the particular facts here involved. 2 Two indictments were returned against petitioner and others.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0142",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0142",
+    "summary": "1 This is a suit for a declaratory judgment (Judicial Code \u00a7 274d, 28 U.S.C. \u00a7 400) and an injunction, instituted by respondent for the determination of the legality and enforceability of a provision of a patent license agreement.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

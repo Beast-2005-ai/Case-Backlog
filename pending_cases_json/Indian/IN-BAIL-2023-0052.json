@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0052",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0052",
+    "summary": "A 15-year-old girl was repeatedly raped and sexually assaulted by multiple accused between May 2017 and January 2018. The assaults were committed under threats involving a video.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

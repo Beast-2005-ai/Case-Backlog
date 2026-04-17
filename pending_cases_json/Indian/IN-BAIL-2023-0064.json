@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0064",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0064",
+    "summary": "The applicant was arrested in a case involving theft and sale of vehicles with forged engine and chassis numbers. The prosecution alleged that the applicant, who owned a garage, played a role in modifying the vehicle identification numbers.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

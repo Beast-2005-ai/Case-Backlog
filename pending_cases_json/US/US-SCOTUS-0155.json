@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0155",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0155",
+    "summary": "1 The petitioner brought this action in a South Carolina state court. Upon motion of respondent, it was removed to the Federal District Court because of diversity of citizenship of the parties.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

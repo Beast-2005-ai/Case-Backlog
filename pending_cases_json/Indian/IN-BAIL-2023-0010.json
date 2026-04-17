@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0010",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0010",
+    "summary": "The petitioner was arrested with 6.71 grams of heroin along with two others during a police chase. The heroin was confirmed by a forensic report.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

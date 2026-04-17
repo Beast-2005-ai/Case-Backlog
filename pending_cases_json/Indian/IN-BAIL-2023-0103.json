@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0103",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0103",
+    "summary": "Budhisatta Das, a bank manager, was stabbed multiple times late at night and later died. The prosecution alleged that Omar Sharif and co-accused ambushed and fatally assaulted the victim with sharp weapons.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

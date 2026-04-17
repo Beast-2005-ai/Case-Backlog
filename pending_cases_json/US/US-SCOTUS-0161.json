@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0161",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0161",
+    "summary": "1 Section 205(e)1 of the Emergency Price Control Act provides that a buyer of goods above the prescribed ceiling price may sue the seller 'in any court of competent jurisdiction' for not more than three times the amount of the overcharge plus costs and a reasonable attorney's fee. Section 205(c)2...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

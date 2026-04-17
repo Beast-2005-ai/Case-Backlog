@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0092",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0092",
+    "summary": "The accused, Redaul Hussain Khan, was arrested in connection with an NIA case involving illegal funding for a banned terrorist organization, DHD(J). He was accused of helping arrange large sums of money for arms procurement.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

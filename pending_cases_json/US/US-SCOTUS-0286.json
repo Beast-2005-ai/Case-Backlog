@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0286",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0286",
+    "summary": "1 The petitioners were convicted of a felony in an Arkansas state court and sentenced to serve one year in the state penitentiary. The State Supreme Court affirmed, one judge dissenting on the ground that the evidence was insufficient to sustain the convictions.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

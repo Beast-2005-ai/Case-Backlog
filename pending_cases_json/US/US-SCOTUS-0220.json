@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0220",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0220",
+    "summary": "1 The proper construction of provisions of the Internal Revenue Code relating to corporate reorganizations is involved in both these cases. While there are differences in detail to which we shall refer, the two cases may be disposed of in one opinion.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

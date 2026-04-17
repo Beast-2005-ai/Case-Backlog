@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0108",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0108",
+    "summary": "1 In May, 1940, the individual respondents filed claims for unemployment benefits with the Unemployment Compensation Commission of the Territory of Alaska. After an initial determination by an examiner and after decision by a referee the Commission held that the claimants were disqualified from r...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

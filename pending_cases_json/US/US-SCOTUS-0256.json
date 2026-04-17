@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0256",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0256",
+    "summary": "2 The stipulated facts show that on March 16, 1936, the respondent taxpayer filed with the Collector of Internal Revenue a joint individual income tax return for himself and his wife for the calendar year 1935. This disclosed a tax liability of $8,017.01, which was duly paid.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

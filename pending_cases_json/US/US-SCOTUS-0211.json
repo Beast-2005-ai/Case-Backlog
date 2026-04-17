@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0211",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0211",
+    "summary": "1 Appellants are testamentary trustees of George H. His will was duly probated in that state and letters testamentary issued to appellants as executors.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

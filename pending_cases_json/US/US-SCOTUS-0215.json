@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0215",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0215",
+    "summary": "1 This is an action to recover damages for injury to goods in the course of an export shipment by rail. The Westinghouse Electric and Manufacturing Company delivered to the Pennsylvania Railroad Company in Sharon, Pennsylvania, goods ultimately destined for the Mexican Light and Power Company.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

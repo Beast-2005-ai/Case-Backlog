@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0251",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0251",
+    "summary": "1 Respondent brought this suit to reclaim property which the Alien Property Custodian,1 acting under \u00a7 5(b) of the Trading With the Enemy Act, 40 Stat. \u00a7 1 et seq., 50 U.S.C.A.Appendix, \u00a7 1 et seq., as amended by the First War Powers Act of 1941, \u00a7 301, 55 Stat.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

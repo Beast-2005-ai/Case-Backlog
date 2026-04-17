@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0206",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0206",
+    "summary": "1 This action for damages alleged to have been caused to the petitioner by the respondent's use, in violation of the Safety Appliance Acts,1 of a railroad freight car not equipped with efficient hand brakes, presents the question whether the evidence at the trial, with the inferences that the jur...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

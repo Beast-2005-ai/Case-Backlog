@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0229",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0229",
+    "summary": "1 The United States filed a complaint in the federal district court below pursuant to \u00a7 4 of the Sherman Anti-Trust Act, 26 Stat. \u00a7 4, to prevent and restrain the appellees from violating \u00a7\u00a7 1 and 2 of the Act, 15 U.S.C.A.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

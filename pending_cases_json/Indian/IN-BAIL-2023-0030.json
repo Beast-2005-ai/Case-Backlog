@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0030",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0030",
+    "summary": "The applicant was accused under IPC and POCSO sections for allegedly sexually assaulting a minor. The FIR included grave charges, but the defense argued the accused was cooperating and posed no flight risk.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

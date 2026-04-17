@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0146",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0146",
+    "summary": "The accused was charged with kidnapping and sexually assaulting a 15-year-old girl over two months. The girl and her mother later denied the accusations, testifying that the girl had gone away voluntarily.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

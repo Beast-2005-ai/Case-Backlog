@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0293",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0293",
+    "summary": "1 This is an action brought in a United States District Court to enjoin interference with a business, and the question is whether the complaint subjects that court to the limitations imposed by the Norris-LaGuardia Act upon its equity jurisdiction. 2 This is the substance of the complaint.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

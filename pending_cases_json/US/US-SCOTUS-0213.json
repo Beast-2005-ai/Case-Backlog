@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0213",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0213",
+    "summary": "1 Alvina Wagner, a resident of California, died in 1942, leaving real and personl property situate there. By a will dated December 23, 1941, and admitted to probate in a California court in 1942, she bequeathed her entire estate to four relatives who are nationals and residents of Germany.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

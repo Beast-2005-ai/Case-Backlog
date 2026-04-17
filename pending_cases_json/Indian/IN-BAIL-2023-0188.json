@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0188",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0188",
+    "summary": "Parvez was accused of raping a 4-year-old girl in 2009 and initially tried under adult criminal law. After years of incarceration, he was declared a juvenile based on his age at the time of the offense.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

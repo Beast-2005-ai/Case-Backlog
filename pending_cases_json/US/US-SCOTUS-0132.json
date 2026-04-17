@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0132",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0132",
+    "summary": "Pecot, of Franklin, La., for respondents. The petitioner, Willie Francis, is a colored citizen of Louisiana.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

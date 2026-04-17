@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0012",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0012",
+    "summary": "The case involved two murders linked to political rivalry in Gujarat. The accused, Jayrajsinh Jadeja, an MLA, was named in both FIRs involving brutal killings using firearms.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

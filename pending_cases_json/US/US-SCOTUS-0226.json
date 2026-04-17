@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0226",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0226",
+    "summary": "1 The District Court dismissed a criminal information filed against the respondent, James C. Petrillo, on the ground that the statute on which the information was founded was unconstitutional.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

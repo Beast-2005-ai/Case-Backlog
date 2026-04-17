@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0133",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0133",
+    "summary": "1 These are seven cases in which petitioner sued to recover stock assessments from shareholders of the Banco Kentucky Co. They were started in 1936 in the Eastern District of Kentucky and were stayed by agreement while the principal case upon which these depended, Anderson v.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0072",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0072",
+    "summary": "Abdul Wahid Alias Saddam was accused of facilitating smuggling of high-quality fake Indian currency from Dubai to India. He allegedly arranged visas and tickets for couriers, funded logistics, and maintained transaction records.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

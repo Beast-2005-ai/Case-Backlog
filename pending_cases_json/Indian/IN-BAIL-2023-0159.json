@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0159",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0159",
+    "summary": "The petitioner was caught in a nakabandi with 199 bottles of Wincerex cough syrup containing Codeine Phosphate and Triprolidine Hydrochloride. The prosecution argued that the quantity exceeded the threshold for commercial quantity under the NDPS Act.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

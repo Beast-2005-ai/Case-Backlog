@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0231",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0231",
+    "summary": "1 Not often since the decision in Erie R. 1487, is this Court asked to create a new substantive legal liability without legislative aid and as at the common law.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

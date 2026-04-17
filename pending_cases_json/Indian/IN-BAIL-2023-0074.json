@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0074",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0074",
+    "summary": "Durgalal Vijay was arrested after an altercation with an official. He was granted bail by the Magistrate but was not released, and subsequently re-arrested under Section 151 CrPC.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0144",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0144",
+    "summary": "The petitioner was accused of kidnapping the informant's brother with intent to murder or secretly confine him. An earlier anticipatory bail plea had been rejected, and despite parity arguments, the Court found no grounds to revisit its prior decision.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

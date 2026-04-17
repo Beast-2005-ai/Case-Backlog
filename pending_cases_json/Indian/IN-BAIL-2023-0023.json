@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0023",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0023",
+    "summary": "Siddappa was arrested after marrying a 17-year-old minor who became pregnant. The marriage was arranged under familial pressure.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

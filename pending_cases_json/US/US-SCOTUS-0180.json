@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0180",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0180",
+    "summary": "1 This is a suit for tax refund which the District Court allowed. Inc., was incorporated in Louisiana in 1907 with a paid in capital of $100,000.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

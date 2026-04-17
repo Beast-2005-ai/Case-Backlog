@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0082",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0082",
+    "summary": "The accused, Nanha, was booked along with three co-accused under Section 302 IPC. Earlier bail applications of Nanha and some co-accused were rejected.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

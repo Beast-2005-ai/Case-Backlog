@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0108",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0108",
+    "summary": "The petitioner was accused of attempting to kidnap and rape a girl near her aunt\u2019s house. The girl was later rescued by relatives.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

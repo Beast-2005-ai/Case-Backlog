@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0218",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0218",
+    "summary": "1 We consider together the above two cases. Both involve suits to recover sums exacted from businesses by the Commissioner of Internal Revenue as employment taxes on employers under the Social Security Act.1 In both instances the taxes were collected on assessments made administratively by the Co...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

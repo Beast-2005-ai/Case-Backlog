@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0084",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0084",
+    "summary": "Omprakash Pal was arrested for allegedly abducting and raping a minor girl. The FIR included charges under IPC Sections 363, 366, and 376.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

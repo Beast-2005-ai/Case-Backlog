@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0147",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0147",
+    "summary": "The appellant was convicted for defrauding compensation meant for 1984 riot victims by creating fictitious accounts and diverting funds. He was sentenced to 5 years rigorous imprisonment under various IPC sections for conspiracy, cheating, and forgery.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

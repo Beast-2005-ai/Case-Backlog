@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0143",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0143",
+    "summary": "1 The question here is whether the Government is obligated to pay interest in connection with the following land purchase arrangements and condemnation proceedings. The Government made separate contracts with the petitioners to buy certain lands from them to be used for a public purpose.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0090",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0090",
+    "summary": "On 8th September 2006, multiple bomb blasts in Malegaon killed 31 and injured over 312 people. Initially, SIMI members were accused and later released.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

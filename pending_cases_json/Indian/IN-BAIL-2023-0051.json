@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0051",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0051",
+    "summary": "Navinkumar Pandu Jatot and others were arrested with 41.1 kg of ganja in a vehicle. The charge sheet was filed within 180 days but without the CA (Chemical Analyzer) report.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0107",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0107",
+    "summary": "1 This case is here for the second time. It involves the indictment and conviction of respondents for using, and conspiring to use, the mails t defraud.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

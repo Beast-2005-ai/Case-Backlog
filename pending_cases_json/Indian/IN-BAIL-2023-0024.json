@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0024",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0024",
+    "summary": "Usman was accused of abducting and sexually assaulting a minor girl. The FIR was filed two days after the alleged incident, and the victim later made a statement suggesting she implicated Usman out of fear of her father.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

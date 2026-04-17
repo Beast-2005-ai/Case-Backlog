@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0125",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0125",
+    "summary": "1 The question here is whether the defendant, in a suit to recover royalties only under a terminated patent license agreement containing price-fixing provisions, can challenge the validity of the patent despite a covenant in the license contract that he would not do so. 2 The petitioner, Edward K...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

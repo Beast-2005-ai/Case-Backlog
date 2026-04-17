@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0050",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0050",
+    "summary": "Rhea Chakraborty was arrested under multiple NDPS Act sections for allegedly procuring and financing drug use for Sushant Singh Rajput. NCB alleged she facilitated and financed drug procurement via intermediaries.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

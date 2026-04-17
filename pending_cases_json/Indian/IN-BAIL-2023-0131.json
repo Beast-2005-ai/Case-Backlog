@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0131",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0131",
+    "summary": "The accused was alleged to have sexually assaulted a 12-year-old girl. The victim alleged forced undressing, threats, and sexual abuse.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

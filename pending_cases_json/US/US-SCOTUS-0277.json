@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0277",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0277",
+    "summary": "Mission Soledad, a steam tanker owned and operated by the United States. He was on the main deck rounding in two blocks, an operation which followed the cradling of the boom.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

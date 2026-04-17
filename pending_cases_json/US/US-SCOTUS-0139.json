@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0139",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0139",
+    "summary": "1 Petitioners are tenants of a New York apartment house. Their landlords applied for a certificate from the New York Area Rent Director authorizing eviction proceedings in the State courts.1 Section 6 of the Rent Regulations for New York City, issued by the Price Administrator under authority of ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0185",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0185",
+    "summary": "Sullivan Drydock & Repair Corporation, 328 U.S. 1105, presents a problem in the seniority standing of a reemployed veteran.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

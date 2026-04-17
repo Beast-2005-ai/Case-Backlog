@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0063",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0063",
+    "summary": "The accused was arrested on 14.08.2020 for housebreaking and theft under IPC Sections 379 and 457. The State opposed bail citing eight prior similar theft cases against him.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

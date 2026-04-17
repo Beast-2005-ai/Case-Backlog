@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0177",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0177",
+    "summary": "Was it reversible error for the Circuit Court of Appeals, 2 Cir., 152 F.2d 619, to deny petitione \u00a7 motion to dismiss the appeal, made on the ground that the appeal had not been docketed and the transcript of record had not been filed within the time specified in Rule 73(g) of the Federal Rules o...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0115",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0115",
+    "summary": "Naresh Kumar was accused of kidnapping and sexually assaulting a minor girl who allegedly eloped with him. She was recovered after being kept in illegal confinement for several days, during which she stated she was sexually assaulted.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

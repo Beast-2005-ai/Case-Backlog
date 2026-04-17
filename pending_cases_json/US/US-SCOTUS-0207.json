@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0207",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0207",
+    "summary": "1 The United States in this case sought writs of mandamus and prohibition from the Court of Appeals directed to the judges of the District Court for the Middle District of Pennsylvania to require that an order by which a new trial was granted to one John Memolo be vacated. 2 Memolo was convicted ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

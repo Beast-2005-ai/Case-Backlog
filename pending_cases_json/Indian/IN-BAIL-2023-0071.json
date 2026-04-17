@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0071",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0071",
+    "summary": "The accused, Kotari Amboji, was booked under IPC Section 376AB and POCSO Act for sexually assaulting a five-year-old girl. He was granted regular bail by the Special Court.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

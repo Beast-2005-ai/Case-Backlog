@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0205",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0205",
+    "summary": "1146, we held that the shareholders of BancoKentucky Company, a bank-stockholding company, were liable under 12 U.S.C. \u00a7\u00a7 63, 64, for an assessment on shares on an insolvent national bank held in the portfolio of the holding company.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

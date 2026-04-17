@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0179",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0179",
+    "summary": "Kulwant Singh was accused of snatching a mobile phone and cash using a knife. While his bail application was pending in the High Court, he filed and obtained bail from the Sessions Court without disclosing the pending application.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

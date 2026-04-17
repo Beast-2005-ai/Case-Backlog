@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0232",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0232",
+    "summary": "1 A specially constituted three-judge District Court has summarily, without trial, entered final judgment ousting a Conservator who, on orders of the Federal Home Loan Bank Commissioner, had taken pssession o f the Long Beach Federal Savings and Loan Association. It granted this and other relief ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

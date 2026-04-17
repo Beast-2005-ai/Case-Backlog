@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0116",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0116",
+    "summary": "1 This case represents an effort, thus far successful, to obtain advantage by way of recoupment of a claim for tax refund long since barred by the statute of limitations. The facts of this singular situation are not in dispute.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

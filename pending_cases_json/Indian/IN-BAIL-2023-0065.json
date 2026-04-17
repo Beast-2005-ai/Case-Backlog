@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0065",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0065",
+    "summary": "On 11.07.2021, police based on information raided the house of accused Ashak Miah and recovered 1068 kg of dried ganja in 27 containers. Accused was not present during the raid.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

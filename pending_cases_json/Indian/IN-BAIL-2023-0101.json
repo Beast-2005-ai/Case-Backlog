@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0101",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0101",
+    "summary": "The case involves multiple murder incidents across different FIRs in which groups of accused were released on bail by the same Sessions Judge despite earlier rejection of their bail applications by another Sessions Judge and even the High Court. In some cases, the bail was granted without any new...",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

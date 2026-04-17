@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0198",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0198",
+    "summary": "1 Petitioner was convicted on sixteen counts of an indictment1 charging the unlawful possession, concealment and alteration of certain Notice of Classification Cards and Registration Certificates in violation of \u00a7 11 of the Selective Raining and Service Act of 1940,2 and of \u00a7 48 of the Criminal C...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

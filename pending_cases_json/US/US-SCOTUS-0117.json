@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0117",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0117",
+    "summary": "1 This case presents another phase of the Indiana Gross Income Tax Act of 1933, which has been before this Court in a series of cases beginning with Adams Mfg. The Act imposes a tax upon 'the receipt of the entire gross income' of residents and domiciliaries of Indiana but excepts from its scope ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

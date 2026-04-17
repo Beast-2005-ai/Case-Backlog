@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0101",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0101",
+    "summary": "2,156,519, and the other respondents, licensees under the patent, brought this suit in a federal district court alleging that petitioner, Halliburton Oil Well Cementing Company, had infringed certain of the claims of the Walker patent. The district court held the claims in issue valid and infring...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

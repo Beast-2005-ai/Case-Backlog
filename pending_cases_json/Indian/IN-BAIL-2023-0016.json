@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0016",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0016",
+    "summary": "Rahul Dutta, an Australian citizen, was accused by his wife of dowry harassment during their time in Australia. She filed an FIR after returning to India.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

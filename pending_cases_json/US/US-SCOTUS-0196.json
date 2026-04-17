@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0196",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0196",
+    "summary": "1 This employee suit was brought in the District Court to recover overtime compensation, liquidated damages, and a reasonable attorney's fee pursuant to \u00a7\u00a7 7(a) and 16(b) of the Fair Labor Standards Act of 1938.1 Recovery was allowed in the District Court, 65 F.Supp. 385, and that judgment was af...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

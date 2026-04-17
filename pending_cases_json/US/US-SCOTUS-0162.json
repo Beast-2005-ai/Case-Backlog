@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0162",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0162",
+    "summary": "1 This action for death benefits under the Workmen's Compensation Law of Tennessee (Tenn. Code Ann.1934, \u00a7 6851 et seq.) was commenced in 1945 by plaintiff-respondent in the Chancery Court of Hawkins County, Tennessee.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

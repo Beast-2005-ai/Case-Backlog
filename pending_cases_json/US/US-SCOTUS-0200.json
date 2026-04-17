@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0200",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0200",
+    "summary": "The United States began the present proceedings by a petition, filed in the District Court, to quiet title in it to a group of islets in the Pacific, long known as Palmyra Island. Palmyra was annexed to the Kingdom of Hawaii on February 26, 1862, and the United States claims that it remained a pa...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

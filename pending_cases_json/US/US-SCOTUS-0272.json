@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0272",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0272",
+    "summary": "1 An alien 'who is sentence more than once' to imprisonment for a term of one year or more because of conviction in this country of a crime involving moral turpitude committed after his entry shall, with exceptions not material here, be deported. Section 19(a)1 of the Immigration Act of February ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

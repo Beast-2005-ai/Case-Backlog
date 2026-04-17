@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0194",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0194",
+    "summary": "Santa Fe Elevator Corp., and Illinois Commerce Commission v. Respondent in these cases, the Chicago Board of Trade, was joined as a defendant in the proceeding brought by Rice before the Illinois Commerce Commission.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

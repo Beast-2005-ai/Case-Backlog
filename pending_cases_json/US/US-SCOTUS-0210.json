@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0210",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0210",
+    "summary": "1 Our concern here is with the intervention rights of representatives of railroad employees in a suit brought against the railroad under \u00a7 16(12) of the Interstate Commerce Act, 49 U.S.C. 2 The origin of this suit is to be found in an order issued by the Interstate Commerce Commission on May 16, ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

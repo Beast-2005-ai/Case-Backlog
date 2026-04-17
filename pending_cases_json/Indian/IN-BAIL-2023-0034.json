@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0034",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0034",
+    "summary": "The accused, Shambhu Pandey, was arrested in connection with a case involving allegations of attempt to rape and murder under IPC and POCSO provisions. Though a co-accused had been granted bail, the accused's antecedents became disputed.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

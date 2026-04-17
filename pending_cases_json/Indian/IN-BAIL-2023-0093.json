@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0093",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0093",
+    "summary": "The case involved the murder of Vikas Singh, allegedly due to rivalry over illegal sand mining. According to the FIR and eyewitness accounts, Jogendra Singh held the victim while co-accused shot him, and Suryabhan Singh assaulted the complainant.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

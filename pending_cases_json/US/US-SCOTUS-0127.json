@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0127",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0127",
+    "summary": "1 Petitioner and respondent entered into a written contract under which the petitioner was to transport goods for respondent by truck entirely within the State of Texas at 'such rates, charges, or tariffs as may be fixed by the Railroad Commission of the State of Texas.' Based on that contract pe...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

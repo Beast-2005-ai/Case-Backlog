@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0228",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0228",
+    "summary": "1 This action was brought by The United States of America, June 24, 1944, in the District Court of the United States for the Southern District of New York, against National Lead Company (a New Jersey corporation, here called National Lead or NL), its wholly owned subsidiary, Titan Company, Inc. (...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

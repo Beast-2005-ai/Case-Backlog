@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0149",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0149",
+    "summary": "1 The Hatch Act,* enacted in 1940, declares unlawful certain specified political activities of federal employees.1 Section 9 forbids officers and employees in the executive branch of the Federal Government, with exceptions, from taking 'any active part in political management or in political camp...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

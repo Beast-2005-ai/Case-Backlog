@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0123",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0123",
+    "summary": "1 This case was companion to People of State of Illinois ex rel. 841, decided last term, but brings for settlement other problems raised by a conflict of claims between the United States and the State of Illinois.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

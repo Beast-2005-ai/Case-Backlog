@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0244",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0244",
+    "summary": "1 We brought this case here because it involves a question of importance in the administration of the Federal Crop Insurance Act. 2 The relevant facts may be briefly stated.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

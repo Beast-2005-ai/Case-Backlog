@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0060",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0060",
+    "summary": "The accused, Ashoka, was charged with raping a minor girl, leading to her pregnancy and childbirth. Conflicting statements were made by the victim, implicating both Ashoka and another person named Ananda.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

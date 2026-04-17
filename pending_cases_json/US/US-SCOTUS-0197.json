@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0197",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0197",
+    "summary": "1 Respondents in these two cases are warehousemen engaged in the business of operating public warehouses for the storage of grain in Illinois. Their warehouses are operated under licenses issued by the Secretary of Agriculture pursuant to the United States Warehouse Act, 39 Stat.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

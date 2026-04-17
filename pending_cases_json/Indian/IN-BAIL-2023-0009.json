@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0009",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0009",
+    "summary": "Aslam Babalal Desai was arrested in connection with a murder case and granted default bail under Section 167(2) CrPC due to failure by the police to file the charge-sheet within 90 days. The State later filed the charge-sheet and sought cancellation of bail under Section 439(2).",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

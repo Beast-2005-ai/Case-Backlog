@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0120",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0120",
+    "summary": "1 The issue here concerns the procedure used in elections under the National Labor Relations Act1 in which employees choose a statutory representative for purposes of collective bargaining. Specifically, we must determine the propriety of the National Labor Relations Board's refusal to accept an ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

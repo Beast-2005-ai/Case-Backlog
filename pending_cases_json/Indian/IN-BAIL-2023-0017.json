@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0017",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0017",
+    "summary": "Gulzar Khan and others were accused in a murder case involving the stabbing of Thimmaraju. The prosecution cited eye-witnesses including the deceased\u2019s wife and another individual.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0073",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0073",
+    "summary": "The appellant was accused in the 2006 Malegaon bomb blasts which killed 31 and injured over 300 people. The National Investigation Agency (NIA) took over from earlier investigating agencies and filed a supplementary chargesheet naming the appellant among others.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

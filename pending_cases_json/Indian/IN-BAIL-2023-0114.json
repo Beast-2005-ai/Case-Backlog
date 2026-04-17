@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0114",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0114",
+    "summary": "The complainant alleged that the accused kidnapped his minor daughter who failed to return from school. She was later recovered from the accused's residence.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

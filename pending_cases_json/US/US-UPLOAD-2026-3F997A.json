@@ -1,0 +1,11 @@
+{
+    "case_id": "US-UPLOAD-2026-3F997A",
+    "timestamp": "2026-03-29",
+    "case_type": "Corporate / IP",
+    "title": "Direct Client Upload Docket US-UPLOAD-2026-3F997A",
+    "summary": "{ \"case_id\": \"US-SCOTUS-0300\", \"timestamp\": \"2020-01-01\", \"case_type\": \"Corporate / IP\", \"title\": \"Supreme Court Docket US-SCOTUS-0300\", \"summary\": \"1 This case raises a question as to respondent's liability for the taxable year 1943 under the Excess Profits Tax of 1940, as amended. The law was passed to tax abnormally high profits due to large governmental expenditures about to be made from appropriations for national defense.1 The excess pr...\", \"flags\": { \"region\": \"USA\", \"supreme_court\": true } }",
+    "flags": {
+        "region": "USA",
+        "direct_upload": true
+    }
+}

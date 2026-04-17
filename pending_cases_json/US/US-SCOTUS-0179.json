@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0179",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0179",
+    "summary": "1 Petitioners are present and former members of the United States Maritime Commission. Respondents are stockholders of Dollar Steamship Lines, Inc., Ltd.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

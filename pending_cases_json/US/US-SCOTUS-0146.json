@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0146",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0146",
+    "summary": "1 In the first half of the Nineteenth Century the United States acquired a vast new area of sparsely populated lands in the South and West. Settlement and absorption of this territory into the older part of the country became a national problem which demanded for its solution a more rapid and ext...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

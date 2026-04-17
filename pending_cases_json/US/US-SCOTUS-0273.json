@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0273",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0273",
+    "summary": "1 The Federal Escape Act requires that a sentence for escape or attempt to escape 'shall begin upon the expiration of, or upon legal release from, any sentence under which such person is held at the time of' the escape or attempt.1 The narrow question is whether the Act requires that a sentence f...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

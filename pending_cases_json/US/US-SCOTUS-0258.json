@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0258",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0258",
+    "summary": "1 The four petitioners and Abel, another defendant, were convicted of conspiring to sell whiskey at prices above the ceiling set by regulations of the Office of Price Administration, in violation of the Emergency Price Control Act. 50 U.S.C.A.Appendix, \u00a7\u00a7 902(a), 904(a) and 925(b), 50 U.S.C.A.App...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

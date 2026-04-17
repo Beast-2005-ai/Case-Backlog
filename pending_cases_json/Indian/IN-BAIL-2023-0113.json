@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0113",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0113",
+    "summary": "Hasim was arrested in connection with a theft that occurred on 3 June 2022 in Shimla, where valuable gold jewelry and items were stolen from a locked house. During investigation, he and other accused admitted to multiple thefts, including this one.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

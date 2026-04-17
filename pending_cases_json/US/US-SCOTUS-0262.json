@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0262",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0262",
+    "summary": "1 Plaintiff, a railroad brakeman, brought this action under the Federal Employers' Liability Act, 35 Stat. He recovered a jury verdict of $24,990, but the Circuit Court of Appeals reversed because of errors in the charge by the District Judge and ordered a new trial, 3 Cir., 162 F.2d 832.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0043",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0043",
+    "summary": "The applicant was accused of assisting the main accused in kidnapping a minor girl who was allegedly sexually assaulted by the co-accused. FIR was filed under IPC and POCSO sections.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

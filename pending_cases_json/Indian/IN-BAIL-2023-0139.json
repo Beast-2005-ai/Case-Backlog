@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0139",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0139",
+    "summary": "The accused was convicted for conspiring to open fictitious accounts and divert compensation meant for 1984 riot victims. He was found guilty under Sections 467, 468, 471 read with 120B IPC and sentenced to 5 years of imprisonment.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0255",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0255",
+    "summary": "1 Our concern here is with the period of limitations applicable to the filing of claims for refund of federal income taxes. Must such claims be filed within two years after payment of the tax, as provided by \u00a7 322(b)(1) of the Internal Revenue Code, 26 U.S.C.A.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

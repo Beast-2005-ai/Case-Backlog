@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0285",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0285",
+    "summary": "1 The United States instituted this suit on August 15, 1940, in the District Court of the United States for the District of Columbia against United States Gypsum Company, five other corporate defendants, and seven individual defendants, as a civil proceeding under the Sherman Act. The complaint c...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

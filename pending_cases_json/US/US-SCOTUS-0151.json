@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0151",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0151",
+    "summary": "1 The petitioner and one Chirichillo were convicted in a Federal District Court on all counts of a five-count indictment against them which charged violation of the Internal Revenue laws in connection with the operation of a still. The Court of Appeals reversed petitioner's conviction on counts f...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

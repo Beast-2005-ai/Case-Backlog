@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0013",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0013",
+    "summary": "Govind Singh, previously convicted under Section 302 IPC, was on post-conviction bail. During this period, he was allegedly involved in the murder of Devendra Chaurasia, the appellant\u2019s father.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

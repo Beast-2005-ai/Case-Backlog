@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0204",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0204",
+    "summary": "1 Like National Labor Relations Board v. 165, this c ase involves the rights of militarized plant guards under the National Labor Relations Act, 29 U.S.C.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

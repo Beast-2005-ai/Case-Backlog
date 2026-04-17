@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0167",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0167",
+    "summary": "1 Petitioner, Deputy Commissioner of the United States Employees' Compensation Commission, issued an order under the District of Columbia Workmen's Compensation Act1 awarding compensation to the widow of one Clarence H. It was specifically found that the injury which led to Ticer's death 'arose o...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

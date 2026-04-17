@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0282",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0282",
+    "summary": "1 This case is properly here on appeal from a District Court decree enjoining enforcement of a cease and desist order of the Interstate Commerce Commission. The order enjoined required the five railroad appellees1 to abstain from refusing to deliver interstate shipments of livestock to the sidetr...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

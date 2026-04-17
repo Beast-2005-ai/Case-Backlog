@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0079",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0079",
+    "summary": "On 8 September 2006, four bombs exploded in Malegaon, Maharashtra, killing 31 and injuring over 300. Initially, ATS and CBI investigated the case, charging members of a different group.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0235",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0235",
+    "summary": "1 This case is here for the second time. 626, we held that an order of the Scurities a nd Exchange Commission could not be sustained on the grounds upon which that agency acted.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

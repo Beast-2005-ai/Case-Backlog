@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0106",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0106",
+    "summary": "1 This case is here on appeal from the Supreme Court of California which sustained a California tax against the claim that it was repugnant to Article I, Section 10, Clause 2 of the Constitution of the United States. 2 Appellant is engaged in producing and selling oil and oil products in California.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0187",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0187",
+    "summary": "The accused, a retired police personnel, along with his brother, allegedly defrauded a widow of a deceased constable and illegally ran a petrol pump using her name. They were also involved in a separate case involving assault on a public servant and attempt to murder.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

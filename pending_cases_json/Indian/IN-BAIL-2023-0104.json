@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0104",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0104",
+    "summary": "Sumant Kumar was arrested for allegedly assisting Dinesh Gope, PLFI chief, in converting extorted money from levies into legitimate funds via shell companies. He was a co-director in firms used to channel terror funds and was involved in hawala operations.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

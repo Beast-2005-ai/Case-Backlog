@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0240",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0240",
+    "summary": "1 The United States by its Attorney General and Solicitor General brought this suit against the State of California invoking our original jurisdiction under Article III, \u00a7 2, of the Constitution which provides that 'In all Cases * * * in which a State shall be Party, the supreme Court shall have ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

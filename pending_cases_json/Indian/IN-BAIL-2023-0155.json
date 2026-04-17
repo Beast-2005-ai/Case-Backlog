@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0155",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0155",
+    "summary": "The petitioner was arrested with 35 Buprenorphine and 35 Avil injections. He claimed the recovery was planted and attempted to invoke Rule 66 of the NDPS Rules, 1985, arguing personal medical use.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

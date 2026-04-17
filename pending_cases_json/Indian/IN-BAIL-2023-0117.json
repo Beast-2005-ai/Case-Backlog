@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0117",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0117",
+    "summary": "The petitioner was alleged to have assisted in the elopement and stay of a minor girl who was allegedly kidnapped and sexually assaulted by the main accused, Prasanta Singh. The petitioner's role was limited to accompanying the accused and helping arrange a place to stay.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

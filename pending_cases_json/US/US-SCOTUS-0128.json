@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0128",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0128",
+    "summary": "1 This case, like that of Edward Katzinger Co. 416, this day decided, involves the right of a patent licensee to defend a suit for royalties only under a licensing agreement which contains a price-fixing provision.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

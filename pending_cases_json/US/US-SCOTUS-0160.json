@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0160",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0160",
+    "summary": "1 These are criminal cases in which conviction of various defendants has been obtained in the District Court of the Unit d States for the Northern District of California, Southern Division, and affirmed by the Circuit Court of Appeals of the Ninth Circuit, 144 F.2d 546. They were charged with con...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

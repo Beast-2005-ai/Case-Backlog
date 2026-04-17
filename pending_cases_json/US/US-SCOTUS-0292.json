@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0292",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0292",
+    "summary": "1 This is a suit to obtain payment of the proceeds of a $5,000 insurance policy. King, is the beneficiary of the policy; her husband, Lieutenant King, was the insured; and the respondent Order of United Travelers of America is the insurer.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

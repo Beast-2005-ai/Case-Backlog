@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0116",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0116",
+    "summary": "The petitioner was accused of rape under Section 376 IPC along with other offences. The FIR was registered by the complainant after a delay.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0087",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0087",
+    "summary": "Radhika, a juvenile, was accused in a case involving the death of her sister-in-law Jyoti due to alleged dowry-related bride burning. The deceased was married six months prior and reportedly suffered 95% burn injuries, with a dying declaration implicating Radhika.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

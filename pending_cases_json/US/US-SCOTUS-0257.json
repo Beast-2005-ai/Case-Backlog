@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0257",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0257",
+    "summary": "1 Petitioner sought a writ of habeas corpus in the Circuit Court of Winnebago County, Illinois, alleging that his conviction in 1925 on a charge of murder was the result of a denial of his rights under the ederal Constitution. 2 The facts conceded by respondent are as follows: 3 The common-law re...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

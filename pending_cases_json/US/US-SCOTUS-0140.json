@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0140",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0140",
+    "summary": "The Central Railroad Company of New Jersey (the debtor), of which petitioner is trustee, filed its petition for reorganization in 1939 shortly after receiving notice from the Attorney General of New Jersey that he would apply to a state court for a summary judgment for unpaid taxes of the debtor ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

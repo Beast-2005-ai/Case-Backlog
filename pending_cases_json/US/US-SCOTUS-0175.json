@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0175",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0175",
+    "summary": "1 Louisiana statutes provide in general that all seagoing vessels moving between New Orleans and foreign ports must be navigated through the Mississippi River approaches to the port of New Orleans and within it, exclusively by pilots who are State Officers.1 New State pilots are appointed by the ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

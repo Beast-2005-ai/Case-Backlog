@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0175",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0175",
+    "summary": "Rajender, proprietor of an ice factory, was accused of electricity theft after an inspection revealed the factory was operating despite being sealed. An FIR was filed, followed by a complaint under the Electricity Act.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

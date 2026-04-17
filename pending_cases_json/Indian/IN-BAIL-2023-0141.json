@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0141",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0141",
+    "summary": "The petitioner was in custody for over four years in a kidnapping case under IPC Sections 364A, 120B, and 34. The kidnapped boy did not identify the petitioner during trial, though he identified co-accused Santosh Kumar who has already been granted bail.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

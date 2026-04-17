@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0103",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0103",
+    "summary": "29 UNITED STATESv.ALCEA BAND OF TILLAMOOKS et al. Cummings, Jr., of Washington, D.C., for petitioner.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

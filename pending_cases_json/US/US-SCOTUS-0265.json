@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0265",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0265",
+    "summary": "1 Respondent, a retail druggist in Columbus, Georgia, was charged in two counts of an information with a violation of \u00a7 301(k) of the Federal Food, Drug, and Cosmetic Act of 1938. That section prohibits 'the doing of any * * * act with respect to, a * * * drug * * * if such act is done while such...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

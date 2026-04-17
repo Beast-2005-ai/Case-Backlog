@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0225",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0225",
+    "summary": "1955 FOSTER et al.v.PEOPLE OF STATE OF ILLINOIS. Charles Kaufman, of Chicago, Ill., for petitioners.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

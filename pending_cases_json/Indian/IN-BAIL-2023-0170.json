@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0170",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0170",
+    "summary": "The petitioner, a prominent religious leader, was accused of conspiring to murder Sankararaman, a temple manager. The murder was allegedly due to repeated allegations made by the deceased against the petitioner.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

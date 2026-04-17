@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0178",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0178",
+    "summary": "1 In a complaint filed in the District Court, petitioner charged that respondent was violating the Fair Labor Standards Act1 by failing to pay some of its employees time and one-half for statutory overtime, as required by \u00a7 7(a) of the Act, and asked an injunction against continued violation. Res...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

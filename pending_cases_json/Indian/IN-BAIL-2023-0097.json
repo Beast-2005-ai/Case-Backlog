@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0097",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0097",
+    "summary": "Shankar Chakraborty, a district president of a national political party, was accused of leading a group that blocked a highway and caused damage to public property. He was initially granted bail, which was later cancelled by the Sessions Court.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

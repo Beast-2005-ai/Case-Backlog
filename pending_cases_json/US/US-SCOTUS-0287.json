@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0287",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0287",
+    "summary": "1 Petitioner and his employee, one Perniciaro, were jointly indicted and tried on the charges contained in an eight-count indictment. The defendants were acquitted under Counts 1 to 7, the first of which charged petitioner and Perniciaro with conspiring for the purpose of enabling Perniciaro to e...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

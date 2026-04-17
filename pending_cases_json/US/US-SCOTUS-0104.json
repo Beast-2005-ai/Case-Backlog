@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0104",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0104",
+    "summary": "1 We are concerned here with the constitutionality of \u00a7 11(b)(2) of the Public Utility Holding Company Act of 19351 and its application to the petitioners, the American Power & Light Company and the Electric Power & Light Corporation. 2 American and Electric are two of the subholding companies in...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0168",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0168",
+    "summary": "Rashidul Jafar was convicted under multiple IPC sections including murder. He filed a writ petition under Article 32 seeking premature release after serving over 30 years with remission.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

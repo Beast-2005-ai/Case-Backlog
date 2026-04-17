@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0126",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0126",
+    "summary": "2 Section 30 of the Act provides that the Comptroller of the Currency, whenever he is of the opinion that a director or officer of a national bank has violated any law relating to the bank, shall warn him to discontinue the violation and, if the violation continues, may certify the facts to the B...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

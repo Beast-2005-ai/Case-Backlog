@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0031",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0031",
+    "summary": "The accused were booked under IPC and POCSO Act sections following an FIR that alleged sexual harassment and related offenses. The defense argued that the allegations did not require custodial interrogation and the accused were cooperative.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

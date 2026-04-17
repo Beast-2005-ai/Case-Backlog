@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0157",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0157",
+    "summary": "1 These cases involve controversies between the United States and respondent carriers over the transportation charges for shipments of government property in 1941. In one case phosphate rock and superphosphate are involved; in the other, phosphate rock.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

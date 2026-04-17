@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0252",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0252",
+    "summary": "2 The Postmaster General, after a hearing in Washington, D.C., found that petitioners' weight-reducing enterprise was fraudulent. He accordingly issued a fraud order, R.S.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

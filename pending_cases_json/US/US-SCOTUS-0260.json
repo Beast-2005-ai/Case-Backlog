@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0260",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0260",
+    "summary": "1 Michael Di Re was convicted on a charge of knowingly possessing counterfeit gasoline ration coupons in violation of \u00a7 301 of the Second War Powers Act, 1942.1 The decisive evidence was that obtained by search of his person, after he was arrested without a warrant of any kind. The Circuit Court ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

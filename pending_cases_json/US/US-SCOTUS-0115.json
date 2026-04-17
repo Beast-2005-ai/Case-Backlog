@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0115",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0115",
+    "summary": "1 In 1928 petitioner pleaded guilty to an indictment for murder and was sentenced to imprisonment for 99 years. In 1945 he brought a petition for his release on writ of error in the Supreme Court of Illinois claiming that the conviction on which his confinement was based was vitiated by the denia...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

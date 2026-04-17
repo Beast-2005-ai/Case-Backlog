@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0297",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0297",
+    "summary": "1 Section 8 of the Immigration Act of 1917 provides: 2 'That any person * * * who shall bring into or land in the United States (or shall attempt to do so) or shall conceal or harbor or attempt to conceal or harbor, or assist or abet another to conceal or harbor, in any place * * * any alien not ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

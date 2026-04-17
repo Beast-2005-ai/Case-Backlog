@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0128",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0128",
+    "summary": "The case involves allegations from 2013 wherein the prosecutrix left home and was later married to Sudesh, allegedly facilitated by the applicant. The prosecutrix explicitly denied any sexual relations with the applicant and stated Sudesh was the only one involved.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

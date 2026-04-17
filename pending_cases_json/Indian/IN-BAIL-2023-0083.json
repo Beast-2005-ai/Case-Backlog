@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0083",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0083",
+    "summary": "The complainant, Nirmil Shah, purchased a property in Ahmedabad in 2018. His wife, suffering from a psychological disorder, allegedly sold the property using a forged power of attorney.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

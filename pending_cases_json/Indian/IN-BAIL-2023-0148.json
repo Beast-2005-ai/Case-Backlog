@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0148",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0148",
+    "summary": "Vikas Yadav, convicted for the abduction and murder of Nitish Katara, sought interim bail to attend his sister\u2019s wedding. He was serving a life sentence and had a prior history of misuse of bail during the Jessica Lal murder case.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

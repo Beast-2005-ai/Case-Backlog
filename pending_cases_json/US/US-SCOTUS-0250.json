@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0250",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0250",
+    "summary": "1 The petitioner, a Negro, was indicted in the Circuit Court of Lauderdale County, Mississippi, by an all-white grand jury, charged with the murder of a white man. He was convicted by an all-white petit jury and sentenced to death by electrocution.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

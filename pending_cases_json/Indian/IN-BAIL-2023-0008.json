@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0008",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0008",
+    "summary": "Petitioners, police personnel, were accused of murdering a suspect named Guddappa in custody at Ranebennur Police Station. The defense argued no prima facie evidence existed for a murder charge and sought anticipatory bail, contending it should at most be a case under Section 330 IPC.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

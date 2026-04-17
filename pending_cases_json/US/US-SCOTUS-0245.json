@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0245",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0245",
+    "summary": "\u00a7 411 et seq., the United States acting through agencies of the Department of Agriculture embarked on a program of purchasing dried eggs for shipment to England and Russia. Petitioner agreed to furnish a quantity of dried eggs under that program to the Federal Surplus Commodities Corporation (FSCC).",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

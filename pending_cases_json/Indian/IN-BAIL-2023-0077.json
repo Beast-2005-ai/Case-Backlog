@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0077",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0077",
+    "summary": "Hemu Pant and Manish were convicted under Sections 302, 364, and 201 IPC. While Manish was later granted bail during appeal, Hemu\u2019s subsequent applications were rejected due to legal conflict over whether parity applied and which bench had jurisdiction to decide repeated bail pleas.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

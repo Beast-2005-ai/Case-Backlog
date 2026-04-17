@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0299",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0299",
+    "summary": "1 Petitioners were indicted in Bronx County, New York, on February 11, 1947, for the crime of murder in the first degree. The District Attorney moved the court for an order that the trial be by a special jury, pursuant to New York law, which motion was granted over opposition on behalf of defenda...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

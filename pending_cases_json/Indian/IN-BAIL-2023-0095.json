@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0095",
+    "timestamp": "2023-01-01",
+    "case_type": "Corporate / IP",
+    "title": "High Court Bail Docket IN-BAIL-2023-0095",
+    "summary": "The Serious Fraud Investigation Office (SFIO) investigated a massive corporate fraud involving Adarsh Credit Cooperative Society Ltd and Adarsh Group companies. The accused, including Aditya Sarda, allegedly siphoned public funds through shell companies using forged documents and accounting frauds.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

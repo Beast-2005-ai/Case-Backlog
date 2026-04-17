@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0122",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0122",
+    "summary": "1 These cases carry forward another step the sequence in decision represented by Falbo, Billings, Estep and Smith.1 Each petitioner has been convicted for violating \u00a7 11 of the Selective Training and Service Act, 54 Stat. 96, restored to the docket for reargument before a full bench, 66 S.Ct.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

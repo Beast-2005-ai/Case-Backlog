@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0044",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0044",
+    "summary": "The complainant filed for cancellation of anticipatory bail granted to the accused in a case involving IPC Sections 354A and 506(1), and POCSO Sections 11 and 12. The accused had been granted anticipatory bail earlier by the Sessions Court.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

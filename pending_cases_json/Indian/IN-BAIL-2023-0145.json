@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0145",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0145",
+    "summary": "The accused was charged with kidnapping, wrongful confinement, and rape of a 15-year-old girl under IPC and POCSO Act. The girl later returned home and did not support the prosecution.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

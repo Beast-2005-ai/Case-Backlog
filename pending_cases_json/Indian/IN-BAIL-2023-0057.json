@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0057",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0057",
+    "summary": "The petitioner sought cancellation of bail granted to her husband, the accused, in a case involving charges of rape and sexual assault on their daughter. The petitioner alleged pre-bail threats, procedural violations, and misuse of judicial process.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

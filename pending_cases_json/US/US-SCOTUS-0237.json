@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0237",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0237",
+    "summary": "1 These cases present the same issue, a challenge to the constitutionality of the special or so-called 'blue ribbon' jury as used by state courts in the State and County of New York. 2 Such a jury found Fay and Bove guilty of conspiracy to extort and of extortion.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

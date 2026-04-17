@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0105",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0105",
+    "summary": "1 The Court of Claims rendered a judgment for the respondent and against the Government for an asserted breach of a construction contract. We hold that the Government's contention is correct.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

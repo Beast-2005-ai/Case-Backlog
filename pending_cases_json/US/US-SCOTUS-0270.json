@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0270",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0270",
+    "summary": "1 Petitioner was convicted on four counts charging violation of federal narcotic laws.1 The only question which brings the case here is whether it was lawful, without a warrant of any kind, to arrest petitioner and to search her living quarters. 2 Taking the Government's version of disputed event...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0174",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0174",
+    "summary": "1 A District Court of three judges enjoined in part an order of the Interstate Commerce Commission, and the case is here on appeal under 28 U.S.C. The Commission order specifically relates to the railroad rate for grain transported from Chicago, Illinois, to New York and other eastern points,1 af...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

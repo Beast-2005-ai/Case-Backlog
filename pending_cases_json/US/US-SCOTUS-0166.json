@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0166",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0166",
+    "summary": "1 This is a derivative action, in equity as are all such derivative actions, begun by plaintiff as a member and policyholder of Lumbermens Mutual Casualty Company 'in the right of Lumbermen's and on behalf of all its members and policy holders.' It was brought in the United States District Court ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

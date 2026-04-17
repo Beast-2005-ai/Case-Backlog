@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0153",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0153",
+    "summary": "The petitioner was arrested in an NDPS case involving 425.5 kg of ganja recovered from a truck. He claimed to be a helper with no knowledge of the contraband.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

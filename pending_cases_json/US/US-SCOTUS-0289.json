@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0289",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0289",
+    "summary": "Petitioner, a resident and citizen of the State of Mississippi, brought a negligence action based on diversity of citizenship in the District Court for the Eastern District of Louisiana. The defendants in that suit were the respondents Reich Bros.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

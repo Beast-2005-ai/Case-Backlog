@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0011",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0011",
+    "summary": "Ishtiaq Hasan Khan was accused in a public daylight murder case and had multiple bail applications rejected. A High Court judge later granted bail, disregarding judicial convention to refer successive bail pleas to the same judge.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

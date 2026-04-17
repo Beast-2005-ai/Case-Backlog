@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0131",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0131",
+    "summary": "1 This case presents an important problem under the Federal Rules of Civil Procedure, 28 U.S.C.A. following section 723c, as to the extent to which a party may inquire into oral and written statements of witnesses, or other information, secured by an adverse party's counsel in the course of prepa...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

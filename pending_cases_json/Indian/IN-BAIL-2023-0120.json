@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0120",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0120",
+    "summary": "The appellant lodged an FIR alleging that two men, sent by accused Shiv Raj Singh @ Lalla Babu, abducted Bihari Lal at gunpoint and kept him confined for eight days. Bihari Lal escaped and narrated the events, implicating the accused.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

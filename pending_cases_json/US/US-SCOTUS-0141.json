@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0141",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0141",
+    "summary": "1 Petitioner was crushed between a moving railroad car and a building while working for respondent railroad as an engine foreman in charge of a switching crew. Damages for personal injuries were sought in a Nebraska state court under the Federal Employers Liability Act, 35 Stat.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

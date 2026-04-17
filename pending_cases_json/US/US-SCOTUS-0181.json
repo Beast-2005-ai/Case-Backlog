@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0181",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0181",
+    "summary": "1 These appeals challenge the validity of the Labor Relations Act of the State of New York as applied to appellants to permit unionization of their foremen. Conflict is asserted between it and the National Labor Relations Act and hence with the Commerce Clause of the Constitution.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0130",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0130",
+    "summary": "1 Seatrain is and long has been a common carrier of goods by water. Its harbor facilities and vessels have been constructed to enable it to perform a distinctive type of water carriage.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

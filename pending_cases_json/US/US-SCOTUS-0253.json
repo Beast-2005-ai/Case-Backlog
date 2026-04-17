@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0253",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0253",
+    "summary": "1 Again we are asked to decide whether state taxes as applied to an interstate motor carrier run afoul of the commerce clause, Art. 2 Two distinct Montana levies are questioned.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

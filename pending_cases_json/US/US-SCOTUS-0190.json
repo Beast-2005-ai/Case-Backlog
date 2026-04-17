@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0190",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0190",
+    "summary": "1 These cases present the question whether the Emergency Price Control Act, 56 Stat. V, \u00a7 901 et seq., 50 U.S.C.A.Appendix, \u00a7 901 et seq., authorizes the Administrator to delegate to district directors authority to sign and issue subpoenas.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

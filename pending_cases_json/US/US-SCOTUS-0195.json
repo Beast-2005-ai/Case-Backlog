@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0195",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0195",
+    "summary": "1 The Commissioner assessed deficiencies against respondents for failure to report as 1940 income dividends paid to them on stock of Crandall-McKenzie & Henderson, Inc., which respondents had bought earlier in that year.1 These dividends are taxable as income to the respondents if the corporation...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

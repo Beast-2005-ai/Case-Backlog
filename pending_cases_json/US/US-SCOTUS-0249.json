@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0249",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0249",
+    "summary": "1 The Alien Property Custodian on November 17, 1942, executed Vesting Order No. This order was issued under the authority of the Trading with the Enemy Act, 40 Stat.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

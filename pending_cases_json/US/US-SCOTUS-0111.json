@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0111",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0111",
+    "summary": "1 This proceeding was instituted by the United States to condemn land as a site for a post office and customhouse in the City of Cape Girardeau, Missouri, in reliance upon several federal statutes, including the general Condemnation Act of August 1, 1888, and the Public Buildings Act of May 25, 1...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

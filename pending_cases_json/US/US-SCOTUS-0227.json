@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0227",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0227",
+    "summary": "1 This was a proceeding in the courts of Georgia to declare invalid an assessment by the State Revenue Commissioner against the Atlantic Coast Line Railroad Company on the ground that the tax as applied to the appellant impairs the obligation of contracts. 2 To encourage railroad development, the...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

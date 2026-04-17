@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0182",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0182",
+    "summary": "1 A United States Attorney filed an information in a Federal District Court charging that the appellee, Lem Hoy, 'did attempt to induce, assist, encourage, and solicit, certain alien persons to migrate to the United States as contract laborers * * * who were not alien contract laborers duly entit...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

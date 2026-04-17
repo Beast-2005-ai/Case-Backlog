@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0124",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0124",
+    "summary": "1 Sheridan was indicted on three counts for having violated \u00a7 3 of the National Stolen Property Act, as amended, 48 Stat. A jury found him guilty on all counts.1 On the authority of Kann v.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

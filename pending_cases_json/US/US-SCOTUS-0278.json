@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0278",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0278",
+    "summary": "1 The case is here on a direct appeal, Act of August 24, 1937, 50 Stat. \u00a7 349a, from a judgment of the District Court holding unconstitutional Title II of the Housing and Rent Act of 1947, Pub.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

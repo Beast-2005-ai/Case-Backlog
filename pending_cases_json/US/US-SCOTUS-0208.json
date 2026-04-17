@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0208",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0208",
+    "summary": "1 This is an action in a circuit court of the State of South Dakota, brought by an Ohio citizen against a fraternal benefit society incorporated in Ohio, to recover benefits claimed to have arisen under the constitution of that society as a result of the death of an insured member who had been a ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

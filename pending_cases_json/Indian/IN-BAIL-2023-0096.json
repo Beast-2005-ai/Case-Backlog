@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0096",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0096",
+    "summary": "On 8 September 2006, bomb blasts occurred in Malegaon, Maharashtra, killing 31 people and injuring 312. Initially, Muslim accused were charged, but later the NIA alleged that Hindu extremists were responsible.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

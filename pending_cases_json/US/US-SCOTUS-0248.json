@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0248",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0248",
+    "summary": "1 Petitioner sued for damages under the Federal Employers' Liability Act.1 The essence of her claim was that she was injured as a result of the respondent's negligence in sending her to work in a place he knew to be unsafe without taking reasonable measures to protect her. 2 The district court di...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

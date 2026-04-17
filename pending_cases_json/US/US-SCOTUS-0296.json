@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0296",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0296",
+    "summary": "1 This is a proceeding under the Declaratory Judgment Act, 48 Stat. Its aim is to have declared invalid a condition under which the respondent became a member of the Federal Reserve System.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

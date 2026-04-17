@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0091",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0091",
+    "summary": "The applicant, an advocate, was accused by a law student who was interning with him of sexually assaulting her over an extended period. The complaint alleged administration of poison and forced abortions.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

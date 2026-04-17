@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0078",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0078",
+    "summary": "Lalu Kumar, aged 17, was accused in a murder case (IPC 302) and taken into custody. The Juvenile Justice Board assessed him and ordered trial as an adult due to the heinous nature of the offense.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

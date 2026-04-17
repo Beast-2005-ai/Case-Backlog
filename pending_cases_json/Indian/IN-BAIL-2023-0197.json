@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0197",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0197",
+    "summary": "Ekbal @ Mister was granted anticipatory bail in 2012 based on a police report falsely stating he had no criminal antecedents. Later, it emerged he had been involved in over a dozen serious criminal cases.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

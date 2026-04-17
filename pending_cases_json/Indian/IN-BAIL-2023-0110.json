@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0110",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0110",
+    "summary": "The accused Pritam Kumar was alleged to have kidnapped a minor girl Ranjana Devi. The FIR was lodged by her uncle after she didn\u2019t return home.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

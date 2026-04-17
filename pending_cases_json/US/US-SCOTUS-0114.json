@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0114",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0114",
+    "summary": "1398, on a petition addressed to the question of the constitutionality of the Royalty Adjustment Act of October 31, 1942,1 and of Royalty Adjustment Order No. W\u20143, issued by the War Department July 28, 1943.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

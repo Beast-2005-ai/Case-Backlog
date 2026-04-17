@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0121",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0121",
+    "summary": "1 Samuels registered under the Selective Training and Service Act of 1940,1 as amended, and thereafter claimed exemption from military service under \u00a7 5(d) of the Act. That exemption includes not only regular or duly ordained ministers of religion but also 'Students who are preparing for the mini...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

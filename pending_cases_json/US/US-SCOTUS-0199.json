@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0199",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0199",
+    "summary": "1 The orders of the Interstate Commerce Commission, which appellants seek to have set aside, resulted from two separate investigations instituted by the Commission on its own motion in 1939 to inquire into the lawfulness or unlawfulness of most of the then existing rate-making standards for inter...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0189",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0189",
+    "summary": "The accused was granted anticipatory bail in a case involving allegations of assault, hurling bombs, and creating voter intimidation in the run-up to municipal elections. The complainant alleged fraud and suppression in securing bail, including failure to disclose prior bail rejections.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

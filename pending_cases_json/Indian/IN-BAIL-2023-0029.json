@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0029",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0029",
+    "summary": "The petitioner was arrested for allegedly having sexual intercourse with a minor girl who stayed with him for several days. Despite claiming consensual relation, the victim was a minor under POCSO.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0239",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0239",
+    "summary": "1 The appellant, Adamson, a citizen of the United States, was convicted, without recommendation for mercy, by a jury in a Superior Court of the State of California of murder in the first degree.1 After considering the same objections to the conviction that are pressed here, the sentence of death ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

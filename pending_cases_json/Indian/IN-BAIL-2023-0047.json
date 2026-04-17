@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0047",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0047",
+    "summary": "The victim was allegedly kidnapped and gang-raped by the applicant and others, but initial statements and FIR lacked rape allegations. Only in the Section 164 CrPC statement recorded 5 months later did gang rape allegations appear.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

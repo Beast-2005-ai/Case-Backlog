@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0080",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0080",
+    "summary": "On 8th September 2006, four bomb explosions occurred in Malegaon, Maharashtra, killing 31 and injuring over 300. The initial investigation blamed members of SIMI.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

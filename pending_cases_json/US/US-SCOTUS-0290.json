@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0290",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0290",
+    "summary": "1 A Michigan circuit judge summarily sent the petitioner to jail for contempt of court. We must determine whether he was denied the procedural due process guaranteed by the Fourteenth Amendment.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

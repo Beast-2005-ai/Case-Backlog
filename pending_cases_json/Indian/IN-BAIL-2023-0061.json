@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0061",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0061",
+    "summary": "The accused was arrested in connection with Crime No. 610/2015 under IPC sections 354, 452, 294, 506 and sections 7/8 of the POCSO Act.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

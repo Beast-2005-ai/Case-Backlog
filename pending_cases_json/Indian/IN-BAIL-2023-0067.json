@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0067",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0067",
+    "summary": "An interim bail was granted to an accused under IPC Section 376 and POCSO Section 4 without issuing mandatory notice to the complainant. The complainant, a minor represented through her mother, filed a petition seeking cancellation of the bail.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

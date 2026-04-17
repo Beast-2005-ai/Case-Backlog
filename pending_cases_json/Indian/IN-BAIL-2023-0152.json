@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0152",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0152",
+    "summary": "The petitioners were convicted for murder and related charges under Sections 148, 307, and 302 r/w 149 IPC, and sentenced to life imprisonment. They filed for bail under Section 389(1) CrPC after completing five years of actual sentence.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

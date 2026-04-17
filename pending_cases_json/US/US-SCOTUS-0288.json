@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0288",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0288",
+    "summary": "1 This case presents questions as to the validity of an order issued by petitioner, the Postmaster General, which directed that mail addressed to some of respondents be returned to the senders marked 'Fraudulent,' and that postal money order sums payable to their order be returned to the remitter...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

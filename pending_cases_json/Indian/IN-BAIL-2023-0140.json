@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0140",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0140",
+    "summary": "The petitioner was accused of kidnapping and raping a 15-year-old girl. He had already been granted bail in connection with foundational offences.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

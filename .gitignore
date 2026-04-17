@@ -53,9 +53,6 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-chroma_db_storage/
-pending_cases_json/
 legal_text_classification.csv
-system_config.json
 nlp-cleaner.py
 working.md

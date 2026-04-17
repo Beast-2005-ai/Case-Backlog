@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0261",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0261",
+    "summary": "1 The petitioner, Globe Liquor Company, Inc., brought this act on in Federal District Court against respondents, Frank and Dorothea San Roman, doing business under the name of International Industries. The complaint claimed damages for an alleged breach of warranty in the sale of certain liquors.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

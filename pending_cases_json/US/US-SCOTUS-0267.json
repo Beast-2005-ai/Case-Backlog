@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0267",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0267",
+    "summary": "1 Petitioners challenge the constitutionality of California's Alien Land Law1 as it has been applied in this case to effect an escheat of two small parcels of agricultural land.2 One of the petitioners is Fred Oyama, a minor American citizen in whose name title was taken. The other is his father ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

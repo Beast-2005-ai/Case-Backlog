@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0181",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0181",
+    "summary": "The case stemmed from a dispute involving the removal of fence poles during an attempt to widen a pathway. Accused allegedly assaulted the complainant and removed property.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

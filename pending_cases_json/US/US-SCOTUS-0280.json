@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0280",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0280",
+    "summary": "1 The constitution and statutes of South Carolina provide that railroad lines within that state can be owned and operated only by state created corporations; a railroad corporation chartered only under the laws of another state is forbidden under heavy penalties to exercise such powers within Sou...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

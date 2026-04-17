@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0110",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0110",
+    "summary": "1 December 2, 1930, a Kentucky District Court appointed an equity receiver of Inland Gas Corporation to take complete and exclusive control, possession, and custody of all of inland's properties, and enjoined Inland's officers from paying its debts. At that time there was no interest unpaid on In...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

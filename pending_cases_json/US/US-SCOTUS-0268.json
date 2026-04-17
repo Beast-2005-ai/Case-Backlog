@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0268",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0268",
+    "summary": "Leslie Field, of Detroit, Mich., for petitioner. Frederick Bernays Wiener, of Providence, R.I., for respondent.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

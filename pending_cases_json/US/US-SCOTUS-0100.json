@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0100",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0100",
+    "summary": "1 The Interstate Commerce Commission, acting under \u00a7 19a of the Interstate Commerce Act,1 ordered the appellant to furnish certain inventories, schedules, maps and charts of its pipe line property.2 Champlin's objections that the Act does not authorize the order, or if it be construed to do so is...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

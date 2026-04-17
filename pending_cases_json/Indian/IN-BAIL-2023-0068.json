@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0068",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0068",
+    "summary": "The petitioner challenged the preventive detention order against his son, who was accused of sexually assaulting a 13-year-old girl. The boy had been released on bail and had no prior criminal history.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0176",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0176",
+    "summary": "Respondent obtained a loan of over Rs. 2 crore from HDFC Bank for purchasing equipment but diverted the funds through fraudulent means using fake accounts.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

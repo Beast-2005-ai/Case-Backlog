@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0238",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0238",
+    "summary": "1 Petitioners, operators of public dance halls, brought these actions, which were consolidated for trial, against the respondent Collector of Internal Revenue to recover taxes paid under the Social Security Act, Titles VIII and IX, 42 U.S.C.A. \u00a7\u00a7 1001 et seq., 1101 et seq., and I.R.C., c.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

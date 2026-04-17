@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0294",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0294",
+    "summary": "1 Petitioners are the minor children of Jack R. Francis who was killed while riding as an interstate passenger on one of respondent's trains.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}
