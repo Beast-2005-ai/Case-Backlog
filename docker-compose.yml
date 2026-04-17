@@ -1,0 +1,42 @@
+# docker-compose.yml
+version: '3.8'
+
+services:
+  # 1. The FastAPI Bridge
+  api_bridge:
+    build: 
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: casetriage_api
+    command: python api_bridge.py
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app # Syncs your local files to the container in real-time
+
+  # 2. The AI Watchdog Orchestrator
+  watchdog:
+    build: 
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: casetriage_watchdog
+    command: python watchdog-orchestrator.py
+    depends_on:
+      - api_bridge
+    volumes:
+      - .:/app # Ensures Watchdog sees the exact same files as the API
+
+  # 3. The React Command Center
+  frontend:
+    build:
+      context: ./frontend # IMPORTANT: Change 'frontend' to the actual name of your React folder
+      dockerfile: Dockerfile.frontend
+    container_name: casetriage_ui
+    ports:
+      - "3000:3000"
+      - "5173:5173"
+    environment:
+      - CHOKIDAR_USEPOLLING=true # Helps React auto-reload inside Docker
+    volumes:
+      - ./frontend:/app # Change 'frontend' to the actual name of your React folder
+      - /app/node_modules # Prevents local node_modules from overwriting container modules
