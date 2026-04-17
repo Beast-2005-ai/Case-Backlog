@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0423",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0423",
+    "summary": "1 This case was brought here under \u00a7 1254(1) of Title 28 of the United States Code, 28 U.S.C.A. \u00a7 1254(1) to review the dismissal by the Court of Appeals for the District of Columbia of an appeal from the denial of a motion for a new trial on the ground of evidence discovered after the petitioner...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

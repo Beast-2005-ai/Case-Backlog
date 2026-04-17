@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0753",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0753",
+    "summary": "The petitioners were accused in Chutia P.S. 65 of 2013 for the offence of robbery under Section 392 IPC.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

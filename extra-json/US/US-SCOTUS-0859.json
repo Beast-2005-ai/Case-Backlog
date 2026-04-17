@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0859",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0859",
+    "summary": "1 On September 13, 1950, petitioner pleaded guilty to a six-count indictment charging the theft of six separate letters from the mailboxes of the six addressees in violation of 18 U.S.C. Petitioner was sentenced to three years' imprisonment on each count, the sentences to run concurrently.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

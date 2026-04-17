@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0330",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0330",
+    "summary": "2 The parties were married in New York in 1933 and lived together until their separation in 1935. In 1940 respondent obtained a decree of separation in New York on grounds of abandonment.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

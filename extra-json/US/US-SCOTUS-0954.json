@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0954",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0954",
+    "summary": "1 Camilo Leyra, age 75, and his wife, age 80, were found dead in their Brooklyn apartment. Several days later petitioner, their son, age 50, was indicted in a state court charged with having murdered them with a hammer.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

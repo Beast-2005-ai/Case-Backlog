@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0477",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0477",
+    "summary": "1968, presents questions concerning the liability for injury to third persons of a general agent who, under the terms of the wartime standard form of agency agreement, GAA 4-4-42,1 manages certain phases of the business of ships owned by the United States and operated by the War Shipping Administ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0761",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0761",
+    "summary": "1 The sole question before the Court in this case concerns the content of the term 'through route' as used in the Interstate Commerce Act.1 2 The question arises out of a controversy as to the shipment of grain to market from points in Kansas on the Central Branch of the Missouri Pacific Railroad...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0367",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0367",
+    "summary": "1 The petitioner was convicted of grand larceny in the United States District Court for the District of Columbia and sentenced to serve sixteen months to four years in prison. Pre-trial confessions of guilt without which petitioner could not have been convicted1 were admitted in evidence against ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

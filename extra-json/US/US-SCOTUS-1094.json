@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1094",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1094",
+    "summary": "1 The petitioner brought this suit for damages under the Jones Act,1 alleging that her husband while employed by the respondent railroad as a tug fireman was drowned because of the negligent failure of respondent to provide him with a safe place to work. The District Judge directed the jury to re...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

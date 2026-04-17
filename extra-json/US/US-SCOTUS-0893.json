@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0893",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0893",
+    "summary": "1 The respondents here, defendants below, were charged by separate indictments with the crime of perjury, as defined in 18 U.S.C. \u00a7 1621.1 Each indictment read in material part as follows: 2 '(T)he defendant herein, having duly taken an oath before a competent tribunal, to wit: a subcommittee of ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

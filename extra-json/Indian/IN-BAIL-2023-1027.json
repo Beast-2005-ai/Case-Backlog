@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1027",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1027",
+    "summary": "The applicant and co-accused were allegedly involved in a scam where they induced the informant to join a bogus data entry job, later threatening her with legal notices and extorting Rs.3,46,700/-. The co-accused had already deposited the full amount and was granted anticipatory bail.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

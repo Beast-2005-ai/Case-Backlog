@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0904",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0904",
+    "summary": "2 On December 18, 1939, respondent pleaded guilty on a federal charge, in the Northern District of New York, and was given a four-year sentence which he served. Thereafter, in 1950, he was convicted by a New York court on a state charge, sentenced to a longer term as a second offender because of ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1073",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1073",
+    "summary": "1 Charging respondent with coercion of its employees and discrimination against pro-union employees, Local 20 of the United Brewery Workers, CIO, instituted proceedings before the National Labor Relations Board for violation of \u00a7\u00a7 8(a) (1) and 8(a)(3) of the National Labor Relations Act, as amend...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0480",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0480",
+    "summary": "1 Numbers 11 and 15 are cross appeals from Clark v. 1525, on petition of the Custodian,2 to resolve a conflict between the judgment below and that in Clark v.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

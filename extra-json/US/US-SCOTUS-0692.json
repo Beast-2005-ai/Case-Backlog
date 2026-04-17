@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0692",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0692",
+    "summary": "1 These four cases present the same question, namely, the construction and application of the statute of limitations provision of the Longshoremen's and Harbor Workers' Compensation Act, 44 Stat. \u00a7 913(a), which provides in pertinent part as follows: 'The right to compensation for disability unde...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1018",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1018",
+    "summary": "In 2017, the petitioner and his father allegedly attempted to extort Rs. 5 lakhs from the informant by threatening him with a firearm in a public location.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0519",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0519",
+    "summary": "1 Acting under the Civil Aeronautics Act of 1938,1 the Civil Aeronautics Board (C.A.B.) consolidated some 45 route applications of 25 airlines into one area proceeding, styled the 'Southeastern States Case.' After hearings, it made findings of fact as to what new routes should be established and ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

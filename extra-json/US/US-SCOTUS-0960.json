@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0960",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0960",
+    "summary": "1 The question before us is whether the Labor Management Relations Act, 1947,1 has given the National Labor Relations Board such exclusive jurisdiction over the subject matter of a common-law tort action for damages as to preclude an appropriate state court from hearing and determining its issues...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

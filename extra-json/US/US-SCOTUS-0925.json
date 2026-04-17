@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0925",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0925",
+    "summary": "1 In response to a summons the petitioner Adams appeared to testify before a Senate Committee investigating crime. Answering questions he confessed to having run a gambling business in Maryland.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

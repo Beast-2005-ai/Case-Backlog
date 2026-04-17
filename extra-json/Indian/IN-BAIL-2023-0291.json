@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0291",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0291",
+    "summary": "The appellant, Umesh Paswan, was convicted under IPC Sections 302, 394, and 120B for participating in a murder committed during a robbery. He had already served over four years in custody and sought bail during the pendency of his appeal.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

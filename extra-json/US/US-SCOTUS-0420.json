@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0420",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0420",
+    "summary": "That order reduced the rates for natural gas on sales by Interstate Natural Gas Co. to Mississippi River Fuel Corp , Southern Natural Gas Co., and United Gas Pipe Line Co.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

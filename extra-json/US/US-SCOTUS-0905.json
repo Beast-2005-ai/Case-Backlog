@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0905",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0905",
+    "summary": "1 Petitioner brought this suit for treble damages and an injunction under \u00a7\u00a7 4 and 16 of the Clayton Act,1 alleging that respondent motion picture producers and distributors2 had violated the antitrust laws3 by conspiring to restrict 'first-run'4 pictures to downtown Baltimore theatres, thus conf...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

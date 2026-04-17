@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0829",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0829",
+    "summary": "1 This case is a companion to American Newspaper Publishers Ass'n v. National Labor Relations Board, 345 U.S.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

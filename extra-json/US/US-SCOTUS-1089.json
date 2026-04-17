@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1089",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1089",
+    "summary": "6 Petitioner instituted proceedings under c. \u00a7 701 et seq., alleging it was unable to pay its debts as they matured.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

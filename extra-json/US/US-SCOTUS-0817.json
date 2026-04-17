@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0817",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0817",
+    "summary": "469 Bennie DANIELS and Lloyd Ray Daniels, Petitioners,v.Robert A. ALLEN, Warden, Central Prison of the State of North Carolina.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

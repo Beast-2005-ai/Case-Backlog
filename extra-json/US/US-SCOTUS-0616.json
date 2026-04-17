@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0616",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0616",
+    "summary": "This appellant likewise challenges the validity under Art. 2 of the Constitution of the application of the Maryland franchise tax* to the extent that the gross receipts by which the tax is measured include revenues derived from the transportation of goods moving in foreign trade.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

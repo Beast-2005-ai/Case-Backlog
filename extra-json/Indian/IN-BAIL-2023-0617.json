@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0617",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0617",
+    "summary": "Aakash Mukharjee was arrested in connection with a cyber fraud case registered under multiple IPC and IT Act sections. He had previously been denied bail due to evidence including recovery of 100 pre-activated SIM cards and tracing of the crime proceeds to his father's account.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

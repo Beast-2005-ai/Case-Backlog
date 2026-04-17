@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1010",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1010",
+    "summary": "1 On November 10, 1953, an 18-count indictment was returned in the United States District Court for the District of Columbia, charging the appellee, a former member of Congress, with violations of 18 U.S.C. \u00a7 1001.1 During the course of the trial a judgment of acquittal was ordered on counts 8 th...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

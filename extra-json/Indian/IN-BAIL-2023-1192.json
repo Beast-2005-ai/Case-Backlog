@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1192",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1192",
+    "summary": "The applicants, Azeez @ Gudda and Sameem, were arrested in a case involving the kidnapping and brutal murder of a nine-year-old child. They were not named in the original FIR, which only named one accused.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

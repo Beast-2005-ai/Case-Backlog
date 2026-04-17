@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0861",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0861",
+    "summary": "1 The key issue in this case is whether statutes of the United States should be applied to this claim of maritime tort. Larsen, a Danish seaman, while temporarily in New York joined the crew of the Randa, a ship of Danish flag and registry, owned by petitioner, a Danish citizen.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

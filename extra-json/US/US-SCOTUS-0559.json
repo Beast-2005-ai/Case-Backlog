@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0559",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0559",
+    "summary": "1 Linde Air Products Co., owner of the Jones patent for an electric welding process and for fluxes to be used therewith, brought an action for infringement against Lincoln and the two Graver companies. The trial court held four flux claims valid and infringed and certain other flux claims and all...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

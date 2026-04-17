@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0597",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0597",
+    "summary": "1 The petitioner, Kiefer-Stewart Company, is an Indiana drug concern which does a wholesale liquor business. Respondents, Seagram and Calvert corporations, are affiliated companies that sell liquor in interstate commerce to Indiana wholesalers.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0949",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0949",
+    "summary": "Anthony Infant Raj and co-accused were charged with the murder of Chella Kumar, who had previously assaulted some of them. The accused allegedly tracked the victim via GPS, ambushed him, and killed him with weapons.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1025",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1025",
+    "summary": "The detenu was accused in three cases of robbery and extortion under IPC Sections 394 and 384. Despite being granted bail in each case, authorities detained him under the Telangana PD Act, labeling him a 'goonda' who threatened public order.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1052",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-1052",
+    "summary": "Amit Ranjan, an IT professional, was accused in an NDPS case following the recovery of psychotropic substances from co-accused persons. No contraband was recovered from him, and his implication was based on call records and financial transactions with co-accused.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

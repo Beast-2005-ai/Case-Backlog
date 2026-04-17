@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0723",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0723",
+    "summary": "1 This action by dairy farmers, nonmembers of cooperative associations, concerns 1941 amendments to an order of the Secretary of Agriculture dealing with the marketing of milk in the Boston area. 733, where it was held that the respondents had such an interest in the Order as to give them legal s...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

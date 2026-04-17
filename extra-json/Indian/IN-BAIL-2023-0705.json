@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0705",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0705",
+    "summary": "Rajesh Mandal was arrested under cyber crime-related IPC and IT Act sections in a case from Giridih Cyber Police Station. A mobile phone was recovered from him, but no financial transactions or prior criminal record were established.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

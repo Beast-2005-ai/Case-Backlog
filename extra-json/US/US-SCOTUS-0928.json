@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0928",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0928",
+    "summary": "1 The most significant issue raised by this case is whether the Federal Water Power Act of 19201 has abolished private proprietary rights, existing under state law, to use waters of a navigable stream for power purposes. We agree with the Court of Appeals that it has not.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

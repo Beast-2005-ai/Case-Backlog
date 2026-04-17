@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0943",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0943",
+    "summary": "Deutsch, New Orleans, La., for petitioners. Morrison, New Orleans, La., for respondents.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

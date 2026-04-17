@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1084",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1084",
+    "summary": "Powell Nwawa Ogechi was arrested under the NDPS Act and remained in judicial custody beyond 90 days without a chargesheet being filed. His bail application under Section 167(2) CrPC was initially rejected, but later accepted after it was found that the chargesheet was submitted on the 91st day.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0710",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0710",
+    "summary": "1 In this suit the Attorney General of the United States as successor to the Alien Property Custodian1 seeks payment by petitioners of two 5% gold debentures of the face value of $1,000 each and payable to bearer. Petitioner Cities Service Company is obligor on the debentures and petitioner Chase...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

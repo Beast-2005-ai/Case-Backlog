@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1020",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1020",
+    "summary": "1 The petitioner, Boston Metals Company, brought this suit in admiralty against the steam vessel Winding Gulf and her owners to recover for loss of its obsolete destroyer which sank after colliding with the Winding Gulf. The collision occurred while the destroyer was being towed by the tug Peter ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

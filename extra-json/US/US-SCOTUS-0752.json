@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0752",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0752",
+    "summary": "1 The principal question here is whether, in the District of Columbia, the Constitution of the United States precludes a street railway company from receiving and amplifying radio programs through loud speakers in its passenger vehicles under the circumstances of this case. The service and equipm...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

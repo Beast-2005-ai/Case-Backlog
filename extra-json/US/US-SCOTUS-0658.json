@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0658",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0658",
+    "summary": "1 After argument, we continued this cause to enable the petitioner to apply for a certificate or other expression from the appropriate California courts to show whether the judgments rested on adequate and independent state grounds or whether decision of the federal question was necessary to the ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

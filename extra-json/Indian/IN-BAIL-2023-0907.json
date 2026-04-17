@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0907",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0907",
+    "summary": "Guddu Rai was arrested in connection with a major Axis Bank robbery case involving the theft of \u20b998 lakh and CCTV DVR equipment. Although initially unnamed in the FIR, his involvement was revealed through investigation and his confessional statement.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

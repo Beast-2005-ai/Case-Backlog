@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0953",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0953",
+    "summary": "Sachin Suresh Devmare was accused of providing shelter at his farmhouse to assailants involved in a premeditated murder executed by the 'Sirji' crime syndicate. The murder was a retaliation against a local councillor who resisted gang activities.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

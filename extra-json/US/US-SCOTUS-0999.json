@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0999",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0999",
+    "summary": "1 An information was filed in the Municipal Court of the District of Columbia charging the petitioner with violation of 26 U.S.C. \u00a7 3290, in that he engaged in the business of accepting wagers without paying the occupational tax imposed by that section.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

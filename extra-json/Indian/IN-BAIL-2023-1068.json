@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1068",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1068",
+    "summary": "The petitioners challenged the continued detention of individuals arrested under the NDPS Act after 90 days had lapsed without the filing of a complaint. The accused had earlier applied for bail under Section 167(2) CrPC based on this default, but their pleas were denied.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0440",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0440",
+    "summary": "1 This is an action in the Court of Claims by the respondent, Penn Foundry and Manufacturing Company, Inc., against the United States for loss of anticipated profits alleged to have been caused by the latter's cancellation of a contract for gun mounts for the Navy. The cancellation occurred a few...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1022",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-1022",
+    "summary": "1 The question presented is whether a towboat may validly contract against all liability for its own negligent towage. Since there is no controlling statute the question must be decided as a part of the judicially created admiralty law.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

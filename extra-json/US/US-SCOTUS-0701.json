@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0701",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0701",
+    "summary": "1 In the spring of 1947, respondent purchased certain properties for the manufacture of lumber, including a sawmill at Juneau, Alaska, and commenced operations. Shortly thereafter, the International Wood-workers of America requested negotiation of a contract with respondent, claiming representati...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

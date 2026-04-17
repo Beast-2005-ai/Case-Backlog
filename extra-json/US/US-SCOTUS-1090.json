@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1090",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-1090",
+    "summary": "1 These are actions brought by the Secretary of Labor under \u00a7 17 of the Fair Labor Standards Act, 52 Stat. \u00a7 201 et seq., to enjoin respondents from violating the minimum wage, \u00a7 6, and record-keeping provisions, \u00a7 11, of the Act.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0545",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0545",
+    "summary": "The prosecutrix, a minor, was allegedly kidnapped and raped by a juvenile and co-accused. The FIR named the applicant Chandersingh based on suspicion by the victim's father.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

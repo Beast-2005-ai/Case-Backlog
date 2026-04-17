@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1091",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1091",
+    "summary": "The husband of petitioner Shaik Nazneen was detained under the Telangana Preventive Detention Act based on four chain snatching FIRs. He had already been granted default bail in all four cases due to non-filing of charge sheet.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

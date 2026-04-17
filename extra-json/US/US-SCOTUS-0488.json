@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0488",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0488",
+    "summary": "1 Federal statutes have long authorized the Postmaster General to forbid delivery of mail and payment of money orders to 'any person or company' found, 'upon evidence satisfactory' to him, to be 'conducting any * * * scheme or device for obtaining money * * * through the mails by means of false o...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1143",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1143",
+    "summary": "The petitioner was arrested with a looted mobile phone connected to Purnahiya P.S. 66/2012 registered for robbery.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

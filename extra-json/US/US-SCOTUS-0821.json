@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0821",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0821",
+    "summary": "1 The respondent Rumely was Secretary of an organization known as the Committee for Constitutional Government, which, among other things, engaged in the sale of books of a particular political tendentiousness. He refused to disclose to the House Select Committee on Lobbying Activities the names o...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

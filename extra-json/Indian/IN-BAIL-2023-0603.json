@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0603",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0603",
+    "summary": "Avnish Kumar was named in an FIR related to a cybercrime and cheating case involving 20\u201325 individuals. During a raid, 7 people were arrested with mobile phones and ATM cards.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

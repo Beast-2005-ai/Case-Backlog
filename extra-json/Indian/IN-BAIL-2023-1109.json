@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1109",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1109",
+    "summary": "Lovely was accused in a case involving the kidnapping of a minor child. Although she was not named in the FIR, her implication was based on the allegation that she was involved in the conspiracy.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

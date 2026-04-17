@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0501",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0501",
+    "summary": "1 The Federal Safety Appliance Acts require railroad cars used in interstate commerce to be equipped with couplers coupling automatically by impact.1 This case brings before us for review another action for damages by a railroad employee under the Safety Appliance Acts and the Federal Employers' ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

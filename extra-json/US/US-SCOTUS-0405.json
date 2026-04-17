@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0405",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0405",
+    "summary": "1 This case involves a tax-free liquidation by a parent corporation of some of its subsidiaries. At the time of the liquidation the parent had earnings and profits available for distribution, and the subsidiaries had an aggregate net deficit.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

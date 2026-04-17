@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0301",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0301",
+    "summary": "The respondent was found in alleged possession of approximately 400 kg of poppy straw. The Special Judge had denied bail, but the High Court granted it citing lack of exclusive possession and no criminal history.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0635",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0635",
+    "summary": "1 Petitioner, a native of Switzerland, was admitted to citizenship by the United States District Court for the Eastern District of New York on July 21, 1949.1 The Court of Appeals reversed,2 holding that petitioner was debarred from citizenship because he had claimed exemption from military servi...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

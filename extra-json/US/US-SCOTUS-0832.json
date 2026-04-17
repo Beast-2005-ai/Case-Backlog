@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0832",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0832",
+    "summary": "1 Heikkila is an alien whose deportation has been ordered by the Attorney General. He began this action against the District Director of the Immigration and Naturalization Service by a complaint seeking a 'review of agency action' as well as injunctive and declaratory relief.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

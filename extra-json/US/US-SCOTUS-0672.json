@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0672",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0672",
+    "summary": "Denver Building and Construction Trades Council (the Denver case), 341 U.S. 108, International Brotherhood of Electrical Workers v.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

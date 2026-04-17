@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0939",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0939",
+    "summary": "Somnath Gaikwad was arrested in a case involving gang rivalry between the Andekar and Suraj Thombre gangs. He was accused of conspiring to assault a minor with deadly weapons as part of a criminal syndicate.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

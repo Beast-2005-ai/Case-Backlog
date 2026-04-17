@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1044",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1044",
+    "summary": "The deceased Sandeep committed suicide, leaving behind a note accusing Sahab Singh and his wife Kavita of repeated extortion and threats to implicate him in a false rape case. A prior FIR under IPC Sections 376 and 506 had been filed by Kavita against the deceased.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0325",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0325",
+    "summary": "1 The United States brought a proceeding against the Aluminum Company of America (Alcoa) and others to prevent and restrain certain violations of the Sherman Act. After trial the District Court dismissed the complaint.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

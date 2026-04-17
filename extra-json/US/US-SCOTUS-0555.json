@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0555",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0555",
+    "summary": "1 The basic question presented is whether one of two Maryland taxes imposed on all common carriers transporting passengers over Maryland roads can be exacted from interstate carriers consistently with the commerce clause of the Federal Constitution. A subsidiary contention impliedly raised by car...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

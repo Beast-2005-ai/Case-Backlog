@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0423",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0423",
+    "summary": "Chetan Singh was arrested in connection with the alleged dowry-related death of his wife. An independent witness confirmed a quarrel had occurred between the couple before the wife committed suicide.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

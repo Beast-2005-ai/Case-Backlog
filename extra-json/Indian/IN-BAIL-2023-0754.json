@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0754",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0754",
+    "summary": "Om Prakash Srivastava, extradited from Singapore, was convicted under TADA for conspiracy to murder L.D. He had served over 21 years in custody and sought bail pending a remission application.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

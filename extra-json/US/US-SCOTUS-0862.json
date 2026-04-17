@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0862",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0862",
+    "summary": "1 For the first time since the enactment of the Clayton Act in 1914 the Court is called upon to consider \u00a7 8's prohibitions against interlocking corporate directorates.1 The Government appeals from judgments dismissing civil actions brought against Hancock and three pairs of corporations which he...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

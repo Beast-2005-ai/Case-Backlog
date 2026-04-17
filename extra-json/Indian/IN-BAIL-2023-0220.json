@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0220",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0220",
+    "summary": "Sonu @ Narendra was arrested in connection with the death of his wife, who allegedly died by suicide while two months pregnant. The FIR under Sections 498A, 304B IPC and Section 4 of the Dowry Prohibition Act accused Sonu and his family of dowry harassment.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

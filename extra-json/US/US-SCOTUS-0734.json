@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0734",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0734",
+    "summary": "1 The question here is whether, for federal income tax purposes, an individual taxpayer was entitled to deduct from his gross income, an attorney's fee paid for contesting the amount of his federal gift tax. For the reasons hereafter stated we hold that he was not.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

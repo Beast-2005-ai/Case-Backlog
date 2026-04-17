@@ -10,7 +10,7 @@ interface AnalyticsProps {
   cases: Case[];
 }
 
-// Consistent color mapping for case types across all 3 doughnut charts
+// Consistent color mapping for case types across all doughnut charts
 const CATEGORY_COLORS: Record<string, string> = {
   'Criminal Defense': '#ef4444', // Red
   'Family Law': '#3b82f6',       // Blue
@@ -87,23 +87,25 @@ export function AnalyticsDashboard({ cases }: AnalyticsProps) {
     return { overall: format(overallHits), us: format(usHits), india: format(indiaHits) };
   }, [cases]);
 
-  // 4. Process Data for Regional Bar Chart
+  // 4. Process Data for Regional Bar Chart (ADDED INTERNATIONAL)
   const regionData = useMemo(() => {
     const regions = { 
       'US': { count: 0, totalScore: 0 }, 
-      'India': { count: 0, totalScore: 0 } 
+      'India': { count: 0, totalScore: 0 },
+      'International': { count: 0, totalScore: 0 } 
     };
     
     cases.forEach(c => {
-      if (c.region === 'US' || c.region === 'India') {
-        regions[c.region].count++;
-        regions[c.region].totalScore += c.priorityScore;
+      if (regions[c.region as keyof typeof regions]) {
+        regions[c.region as keyof typeof regions].count++;
+        regions[c.region as keyof typeof regions].totalScore += c.priorityScore;
       }
     });
 
     return [
       { name: 'United States', Volume: regions['US'].count, AvgScore: regions['US'].count ? Math.round(regions['US'].totalScore / regions['US'].count) : 0 },
-      { name: 'India', Volume: regions['India'].count, AvgScore: regions['India'].count ? Math.round(regions['India'].totalScore / regions['India'].count) : 0 }
+      { name: 'India', Volume: regions['India'].count, AvgScore: regions['India'].count ? Math.round(regions['India'].totalScore / regions['India'].count) : 0 },
+      { name: 'International', Volume: regions['International'].count, AvgScore: regions['International'].count ? Math.round(regions['International'].totalScore / regions['International'].count) : 0 }
     ];
   }, [cases]);
 
@@ -269,6 +271,7 @@ export function AnalyticsDashboard({ cases }: AnalyticsProps) {
           </div>
         )}
 
+        {/* REGIONAL COMPARISON WITH INTERNATIONAL */}
         {activeTab === 'Region' && (
           <ResponsiveContainer width="100%" height="100%">
             <BarChart data={regionData} margin={{ top: 20, right: 30, left: 0, bottom: 5 }}>

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0448",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0448",
+    "summary": "1 The question presented is whether the United States, as the owner of Bellevue Houses, a defense-housing project in the District of Columbia, is a 'landlord' within the meaning of the District of Columbia Emergency Rent Act,1 with particular reference to rights of occupancy and rates of rental. ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

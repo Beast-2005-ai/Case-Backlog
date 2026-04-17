@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0725",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0725",
+    "summary": "Subhash Sah was implicated in an FIR arising from a protest against the kidnapping of a girl named Chunni Kumari. The protest escalated into stone-pelting and violence against law enforcement.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

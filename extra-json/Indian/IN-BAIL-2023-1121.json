@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1121",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1121",
+    "summary": "The petitioners were arrested in connection with a dacoity case. 1 was not identified in the Test Identification Parade and no stolen property was recovered from him.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

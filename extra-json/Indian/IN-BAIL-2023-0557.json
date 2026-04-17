@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0557",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0557",
+    "summary": "Nushath Koyamu was implicated in a gold smuggling syndicate that used unaccompanied baggage from Dubai to conceal and transport gold into India. Over 14 kg of gold was found hidden in a refrigerator at a Kochi container yard.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

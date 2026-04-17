@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0922",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0922",
+    "summary": "1 The petitioner was convicted by a jury on several counts charging willful evasion of the payment of federal income taxes. A matter admitted by the Government to have been handled by the trial court in a manner that may have been prejudicial to the petitioner, and therefore confessed as error, i...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

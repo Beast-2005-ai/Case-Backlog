@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0336",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0336",
+    "summary": "1 The petitioner is under sentence of death for murder in the first degree imposed by a California superior court and affirmed by the State Supreme Court. The validity of that sentence is not here challenged.1 But \u00a7 1367 of the California Penal Code provides that 'A person cannot be tried, adjudg...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

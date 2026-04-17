@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0989",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0989",
+    "summary": "1 This is a civil antitrust action brought by the Government in the United States District Court for the Southern District of New York. Named as defendants are Lee Shubert,1 Jacob J.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

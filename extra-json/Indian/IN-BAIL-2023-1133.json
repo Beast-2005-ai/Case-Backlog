@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1133",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1133",
+    "summary": "Rana Pratap Jaiswal was accused under Section 498A IPC by his wife for subjecting her to cruelty. The complaint made general and omnibus allegations, and the wife did not appear before the court despite notice.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

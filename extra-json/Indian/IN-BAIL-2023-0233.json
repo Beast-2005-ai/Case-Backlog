@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0233",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0233",
+    "summary": "Ashok Dhariwal was accused of murdering his wife Hansa Rani by setting her ablaze due to dowry demands. Though there was a dying declaration suggesting accidental death, prosecution produced letters by the deceased alleging ongoing dowry-related torture and threats.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

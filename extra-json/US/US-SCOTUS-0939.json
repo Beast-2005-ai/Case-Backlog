@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0939",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0939",
+    "summary": "1 This is a proceeding brought by respondent bar associations in the United States District Court for the Southern District of New York for the disbarment of petitioner from practice in that court. Petitioner had previously been convicted of contempt in the same court.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

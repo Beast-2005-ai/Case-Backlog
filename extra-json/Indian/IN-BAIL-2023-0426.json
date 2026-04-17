@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0426",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0426",
+    "summary": "Bhanwar Lal Changal, a BSF Head Constable, was accused of pilfering ammunition from BSF stores and supplying it to CPI (Maoist) through a co-accused. NIA alleged he received cash for the transactions and tried to mask shortages through inter-company adjustments.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

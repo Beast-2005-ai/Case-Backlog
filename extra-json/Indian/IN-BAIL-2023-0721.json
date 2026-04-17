@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0721",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0721",
+    "summary": "Rukmani Devi and others were implicated in a case involving a protest against the kidnapping of a girl named Chunni Kumari. The protest allegedly turned violent, with stone pelting and injuries to officials.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

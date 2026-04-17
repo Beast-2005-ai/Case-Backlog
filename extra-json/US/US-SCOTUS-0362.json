@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0362",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0362",
+    "summary": "Levinson, Attys., Federal Security Agency, both of Washington D.C., for the United States. Pemberton, of Tallahassee, Fla., for respondent.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

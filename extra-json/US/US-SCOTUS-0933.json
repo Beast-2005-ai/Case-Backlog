@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0933",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0933",
+    "summary": "Murnaghan, Jr., Baltimore, Md., for appellee. It does not take orders by mail or telephone.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

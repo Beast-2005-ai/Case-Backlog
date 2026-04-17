@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1008",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1008",
+    "summary": "The appellant was accused of selling the same flats to multiple parties, resulting in allegations under Sections 420, 467, 468, and 120B IPC. The complainant filed a criminal complaint after also initiating a civil suit for specific performance.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

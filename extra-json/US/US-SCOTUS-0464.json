@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0464",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0464",
+    "summary": "1 The case involves an amended plan filed under \u00a7 11(e) of the Public Utility Holding Company Act of 19351 by Engineers Public Service Company. The plan provided, inter alia, for satisfying the claims of Engineers' preferred stockholders in cash as a preliminary to distributing the remaining asse...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

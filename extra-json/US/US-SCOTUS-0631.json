@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0631",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0631",
+    "summary": "1 These proceedings present for determination the proper federal rule to be followed on a motion by a defendant to vacate a United States District Court judgment, obtained by a plaintiff after removal from a state court by defendant, and to remand the suit to the state court. Petitioner, the mova...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

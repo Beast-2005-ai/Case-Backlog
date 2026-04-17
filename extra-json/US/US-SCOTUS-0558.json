@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0558",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0558",
+    "summary": "1 This is a proceeding brought by the National Labor Relations Board charging unfair labor practices of the respondent, Mexia Textile Mills, a manufacturer of cotton goods at Mexia, Texas, engaged in interstate commerce within the meaning of the National Labor Relations Act1 and the Labor Managem...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

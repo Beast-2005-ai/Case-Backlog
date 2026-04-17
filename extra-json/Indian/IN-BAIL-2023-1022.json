@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1022",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-1022",
+    "summary": "The applicant allegedly tried to abduct and threaten the father of the complainant to recover a loan she had given him. She was accused under the Bharatiya Nyaya Sanhita for extortion-related offenses.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

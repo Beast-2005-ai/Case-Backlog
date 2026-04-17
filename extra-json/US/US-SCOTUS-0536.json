@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0536",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0536",
+    "summary": "1 Commodities Trading Corporation brought this suit in the Court of Claims to recover 'just compensation' for about 760,000 pounds of whole black pepper requisitioned by the War Department in 1944 from Commodities' stock of 17,000,000 pounds. The United States contended that the OPA ceiling price...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

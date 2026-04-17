@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0512",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0512",
+    "summary": "1 The important question presented upon this record is whether the Court of Appeals, when it reverses the District Court because the evidence is not sufficient to sustain a conviction, may direct a new trial where a defendant had made all proper and timely motions for acquittal in the District Co...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

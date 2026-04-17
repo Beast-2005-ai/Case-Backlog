@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0862",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0862",
+    "summary": "Rafeeq was accused under IPC sections and POCSO Act for alleged physical assault and molestation. He had a prior FIR under 498A and Domestic Violence Act from the victim's mother.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

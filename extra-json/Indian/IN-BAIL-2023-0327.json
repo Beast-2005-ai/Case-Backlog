@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0327",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0327",
+    "summary": "Islamuddin, facing trial under Sections 21/61/85 of the NDPS Act, applied for interim bail claiming his wife required surgery and needed his assistance. The prosecution opposed the plea, citing his criminal history of 21 prior cases and NDPS-related offenses.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

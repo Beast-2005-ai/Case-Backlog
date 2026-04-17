@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1083",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1083",
+    "summary": "1 An indictment was found in the Southern District of Illinois against appellees Green and a local union. The jury adjudged them guilty under counts one and two thereof.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

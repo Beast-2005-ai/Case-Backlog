@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1026",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1026",
+    "summary": "The detenu was involved in three criminal cases related to robbery and extortion and had already been granted bail in each. Despite this, authorities invoked the Telangana PD Act and detained him under the grounds that he was a habitual offender causing public panic.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

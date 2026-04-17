@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0789",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0789",
+    "summary": "1 This case originated on October 21, 1950, when petitioner, a prisoner in San Quentin, filed an application for a writ of habeas corpus in the Supreme Court of California. That court, summarily, but with two dissents, denied the application.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

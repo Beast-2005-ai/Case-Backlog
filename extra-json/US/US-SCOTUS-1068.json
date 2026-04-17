@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1068",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1068",
+    "summary": "1 The Southwest Exploration Co., respondent in No. 286, contracted to develop certain oil deposits lying off the coast of California by whipstock drilling from sites located on the property of adjacent upland owners.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

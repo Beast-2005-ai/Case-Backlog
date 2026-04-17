@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1071",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1071",
+    "summary": "1 This case presents two principal questions: (1) whether, in the collective-bargaining contract before us, the union's undertaking 'to refrain from engaging in any strike or work stoppage during the term of this agreement' waives not only the employees' right to strike for economic benefits but ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

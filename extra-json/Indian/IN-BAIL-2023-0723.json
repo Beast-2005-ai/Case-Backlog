@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0723",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0723",
+    "summary": "Ranjit Sah and others were accused in a case related to a protest over the kidnapping of a girl named Chunni Kumari. The protest allegedly led to road blockage, stone pelting, and assault on police officials.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

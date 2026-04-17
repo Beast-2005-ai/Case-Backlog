@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1131",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1131",
+    "summary": "Subash was the first accused in a domestic violence case, during which he allegedly produced forged tax receipts for sureties to obtain bail. A new FIR was registered after court staff discovered the forgery.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

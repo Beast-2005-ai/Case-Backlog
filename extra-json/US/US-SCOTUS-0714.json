@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0714",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0714",
+    "summary": "Philip Marcus, Washington, D.C., for appellee. 1 A three-judge District Court has construed certain provisions of a Sherman Act consent decree as compelling the sale of certain moving picture stocks owned by the appellant Hughes.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

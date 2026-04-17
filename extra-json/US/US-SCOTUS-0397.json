@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0397",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0397",
+    "summary": "1 This case raises important questions concerning the statutory jurisdiction of general courts-martial of the Navy. 2 In 1942 the petitioner was serving a second enlistment in the Navy.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

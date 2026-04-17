@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0921",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0921",
+    "summary": "1 This case involves the validity of copyrights obtained by respondents for statuettes of male and female dancing figures made of semivitreous china. The controversy centers around the fact that although copyrighted as 'works of art,' the statuettes were intended for use and used as bases for tab...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

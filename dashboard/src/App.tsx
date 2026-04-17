@@ -7,11 +7,12 @@ import { CaseDetailPanel } from './components/CaseDetailPanel';
 import { SystemLogs } from './components/SystemLogs';
 import { ConfigurationModal } from './components/ConfigurationModal';
 import { AnalyticsDashboard } from './components/AnalyticsDashboard';
-import { DollarSign, IndianRupee } from 'lucide-react';
+import { DollarSign, IndianRupee, Globe2 } from 'lucide-react';
 import type { Case, Stats } from './types';
 
 type Category = 'All' | 'Corporate / IP' | 'Civil Litigation' | 'Criminal Defense' | 'Family Law';
-type Region = 'US' | 'India';
+// ADDED 'International' to the Region type
+type Region = 'US' | 'India' | 'International';
 
 function App() {
   const [cases, setCases] = useState<Case[]>([]);
@@ -24,8 +25,6 @@ function App() {
   const [sidebarCollapsed, setSidebarCollapsed] = useState(true);
   
   const [activePage, setActivePage] = useState('Dashboard');
-  
-  // NEW: State to control the Configuration Modal
   const [isConfigOpen, setIsConfigOpen] = useState(false);
 
   const fetchQueue = async () => {
@@ -93,8 +92,6 @@ function App() {
       />
       
       <div className="flex-1 flex flex-col h-screen overflow-hidden ml-[80px]">
-        
-        {/* Pass the onOpenConfig function to Header */}
         <Header 
           cases={cases} 
           onCaseSelect={setSelectedCase} 
@@ -105,6 +102,7 @@ function App() {
         <main className="flex-1 p-8 overflow-y-auto relative">
           <div className="max-w-[1800px] mx-auto">
             
+            {/* DYNAMIC ROUTING ENGINE */}
             {activePage === 'Logs' ? (
               <SystemLogs />
             ) : activePage === 'Analytics' ? (
@@ -118,7 +116,8 @@ function App() {
                   </div>
 
                   <div className="flex space-x-2 bg-[#161616] p-1.5 rounded-xl border border-[#2a2a2a]">
-                    {(['US', 'India'] as Region[]).map(reg => (
+                    {/* ADDED INTERNATIONAL BUTTON MAPPING */}
+                    {(['US', 'India', 'International'] as Region[]).map(reg => (
                       <button
                         key={reg}
                         onClick={() => { setActiveRegion(reg); setActiveTab('All'); }}
@@ -128,8 +127,8 @@ function App() {
                             : 'text-gray-500 hover:text-gray-300 hover:bg-[#1a1a1a]'
                         }`}
                       >
-                        {reg === 'US' ? <DollarSign size={20} /> : <IndianRupee size={20} />}
-                        <span>{reg === 'US' ? 'US' : 'IN'} Caseload</span>
+                        {reg === 'US' ? <DollarSign size={20} /> : reg === 'India' ? <IndianRupee size={20} /> : <Globe2 size={20} />}
+                        <span>{reg === 'US' ? 'US' : reg === 'India' ? 'IN' : 'INT'} Caseload</span>
                       </button>
                     ))}
                   </div>
@@ -162,9 +161,8 @@ function App() {
           </div>
         </main>
       </div>
-      <CaseDetailPanel caseData={selectedCase} onClose={() => setSelectedCase(null)} />
       
-      {/* PLACED THE MODAL COMPONENT HERE SO IT CAN FLOAT OVER EVERYTHING */}
+      <CaseDetailPanel caseData={selectedCase} onClose={() => setSelectedCase(null)} />
       <ConfigurationModal isOpen={isConfigOpen} onClose={() => setIsConfigOpen(false)} />
     </div>
   );

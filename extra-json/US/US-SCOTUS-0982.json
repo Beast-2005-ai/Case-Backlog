@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0982",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0982",
+    "summary": "1 This case involves the relative priority of a landlord's distress for rent under the laws of South Carolina and a lien for unpaid taxes due the United States. The landlord, herein referred to as respondent, on April 7, 1952, filed in the Court of Common Pleas for Greenville County, South Caroli...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

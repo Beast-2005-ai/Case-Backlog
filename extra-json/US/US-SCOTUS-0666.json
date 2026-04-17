@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0666",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0666",
+    "summary": "1 This controversy arises under 8 U.S.C. \u00a7 47(3), which provides civil remedies for certain conspiracies.1 A motion to dismiss the amended complaint raises the issue of its sufficiency and, of course, requires us to accept its well-pleaded facts as the hypothesis for decision.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

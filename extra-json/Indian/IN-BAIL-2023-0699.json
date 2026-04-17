@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0699",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0699",
+    "summary": "Ravi Ranjan Kumar was arrested for alleged involvement in cyber fraud, with five mobile phones recovered from his possession. He claimed innocence and sought bail on parity with co-accused Raju Ranjan and Nishant Kumar who were already granted bail.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1090",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1090",
+    "summary": "Yusuf Shaikh, was detained under the Maharashtra Prevention of Dangerous Activities (MPDA) Act for engaging in multiple violent robberies targeting taxi drivers. One incident involved stabbing a driver fatally.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

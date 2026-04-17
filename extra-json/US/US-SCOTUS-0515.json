@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0515",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0515",
+    "summary": "1 These three cases bring before us the validity of an order of the Secretary of Agriculture, issued by him on the basis of the Sugar Act of 1948. It is claimed that the Secretary disobeyed the requirements of that Act.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

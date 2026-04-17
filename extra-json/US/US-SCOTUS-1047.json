@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1047",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1047",
+    "summary": "1 After serving with the United States Air Force in Korea, Robert W. He returned to his home in Pittsburgh and went to work in a steel plant.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

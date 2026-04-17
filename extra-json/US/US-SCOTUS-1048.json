@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1048",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1048",
+    "summary": "1 Anderson, Clayton & Co., a Delaware corporation, was organized in 1929. Its capital structure consisted of preferred stock and 100,000 shares of common stock, the capital value of which was fixed at one dollar per share.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

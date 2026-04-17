@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0415",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0415",
+    "summary": "1 This case concerns the power of the State of New York to deny additional facilities to acquire and ship milk in interstate commerce where the grounds of denial are that such limitation upon interstate business will protect and advance local economic interests. Hood & Sons, Inc., a Massachusetts...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

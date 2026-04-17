@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1051",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1051",
+    "summary": "1 Petitioner, Amos Reece, a Negro, was convicted of the rape of a white woman in Cobb County, Georgia. He contends here that Georgia's rule of practice requiring him to challenge the composition of the grand jury before indictment violates the Due Process Clause of the Fourteenth Amendment.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

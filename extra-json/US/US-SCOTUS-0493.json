@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0493",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0493",
+    "summary": "49, twenty-five classified civil servants of the County of Los Angeles brought an action in the Superior Court of that County, and in No. 50, suit was brought by one such employee.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

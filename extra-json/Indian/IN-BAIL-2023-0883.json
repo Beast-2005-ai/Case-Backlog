@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0883",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0883",
+    "summary": "Deepak Kindo, Managing Director of Sambandh Finserve Pvt. Ltd., allegedly availed a loan of Rs.5 crores from AFPL using forged bank statements.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

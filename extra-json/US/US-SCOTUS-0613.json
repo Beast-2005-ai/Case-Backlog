@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0613",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0613",
+    "summary": "1 In this case we are called upon to review an award of compensation under the Longshoremen's and Harbor Workers' Compensation Act. The award was made on a claim arising from the accidental death of an employee of Brown-Pacific-Maxon, Inc., a government contractor operating on the island of Guam.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

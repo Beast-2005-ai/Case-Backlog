@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1008",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1008",
+    "summary": "1 The principal question before us is whether, on a petition to review a natural gas rate reduction order of the Federal Power Commission, a Court of Appeals may consider, sua sponte, an objection which has not been urged before the Commission in the application for rehearing prescribed by \u00a7 19 o...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

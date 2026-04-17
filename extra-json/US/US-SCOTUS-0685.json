@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0685",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0685",
+    "summary": "1 Each of the three petitioners is confined in an Illinois penitentiary following conviction of serious crimes. Petitioners' factual allegations need not be described, except to note petitioners' specific claims that confessions introduced at their trials were wrung from them by force and violence.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1087",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1087",
+    "summary": "1 This case involves an interpretation of \u00a7 23(a)(1)(A) of the Internal Revenue Code of 1939, as amended 26 U.S.C.A. \u00a7 23(a)(1)(A), providing for the deduction from gross income, in computing net income, of all the 'ordinary and necessary expenses paid or incurred * * * in carrying on any trade o...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

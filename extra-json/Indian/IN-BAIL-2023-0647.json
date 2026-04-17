@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0647",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0647",
+    "summary": "Hu Xiaolin, a Chinese national, was granted regular bail in 2021 in a cybercrime case involving allegations of cheating (Section 420 IPC) and IT Act Section 66(D), based on a complaint from Razorpay. A condition restricted her from leaving court jurisdiction.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0489",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0489",
+    "summary": "1663, we upheld the jurisdiction of the Interstate Commerce Commission to regulate certain of Capital Transit's bus and streetcar rates. The rates involved were in two different categories.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

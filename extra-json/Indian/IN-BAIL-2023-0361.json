@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0361",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0361",
+    "summary": "Bhaskara Nand was accused of entering a cowshed and attempting to rape the victim, who was present with her cow. Upon the victim's outcry, a witness arrived, prompting the accused to flee.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

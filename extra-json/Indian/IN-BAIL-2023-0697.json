@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0697",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0697",
+    "summary": "Nikhil Paul was arrested during a raid on a rented flat in Ghatshila Bazaar along with six others. Several mobile phones and SIMs were found in his possession.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

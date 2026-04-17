@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0781",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0781",
+    "summary": "1 The right to the use and occupancy of a church in the city of New York is in dispute. 2 The right to such use is claimed by appellee, a corporation created in 1925 by an act of the Legislature of New York, Laws of New York 1925, c.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

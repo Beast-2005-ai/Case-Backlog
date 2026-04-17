@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1000",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1000",
+    "summary": "Manaram was convicted of murdering Hanuman Ram, a soldier who was found hanging in his military quarters. Allegations were that Manaram, who had an affair with Hanuman\u2019s wife, conspired with her to kill him.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

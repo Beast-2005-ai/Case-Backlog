@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0971",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0971",
+    "summary": "1 Upon pleas of nolo contendere, the petitioner was found guilty of violating the income tax laws by making and filing false and fraudulent returns. The District Court sentenced him to three years' imprisonment and fined him $13,000.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

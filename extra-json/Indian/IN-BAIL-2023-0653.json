@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0653",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0653",
+    "summary": "The petitioner was arrested in connection with a cybercrime case where police, acting on information, raided certain premises and recovered mobile phones and documents. Though some accused fled, others were apprehended, and the petitioner\u2019s house was searched.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

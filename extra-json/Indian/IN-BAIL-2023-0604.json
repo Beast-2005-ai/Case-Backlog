@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0604",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0604",
+    "summary": "Rizwan Ahmand was accused of violating an interim protection order issued under the Domestic Violence Act by failing to pay maintenance to his wife and children as ordered by the court in 2012. The case was converted into Misc.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

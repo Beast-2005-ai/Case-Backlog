@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1045",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1045",
+    "summary": "Vishnu, the second accused, along with another, attempted to steal cement bags from a construction site. They fled upon being caught by the complainant, abandoning the cement and autorickshaw.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

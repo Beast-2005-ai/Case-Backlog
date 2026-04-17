@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1120",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1120",
+    "summary": "The case involved the alleged kidnapping and murder of a child who went missing while playing outside. The informant suspected Guddu Thakur and others due to prior threats.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

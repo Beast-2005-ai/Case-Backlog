@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0550",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0550",
+    "summary": "1 These cases present for decision the constitutionality of \u00a7 9(h) of the Labor Management Relations Act of 1947.1 This section, commonly referred to as the non-Communist affidavit provision, reads as follows: 'No investigation shall be made by the (National Labor Relations) Board of any question...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

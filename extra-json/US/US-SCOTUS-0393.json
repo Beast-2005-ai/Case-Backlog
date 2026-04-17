@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0393",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0393",
+    "summary": "1 Petitioner, engaged in the business of supplying electric energy to the public, seeks the refund of taxes paid by it pursuant to \u00a7 3411 of the Internal Revenue Code. That section, in pertinent part, provides for a tax '* * * upon electrical energy sold for domestic or commercial consumption * *...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

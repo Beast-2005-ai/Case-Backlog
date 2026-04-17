@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0426",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0426",
+    "summary": "1 A California statute prohibits the sale or arrangement of any transportation over the public highways of the State if the transporting carrier has no permit from the Interstate Commerce Commission.1 The federal Motor Carrier Act has substantially the same provision.2 The question is whether the...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

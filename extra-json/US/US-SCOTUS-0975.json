@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0975",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0975",
+    "summary": "1 This is a suit under the Federal Tort Claims Act, 28 U.S.C. \u00a7 1346(b), brought by respondent, a discharged veteran, for damages for negligence in the treatment of his left knee in a Veterans Administration Hospital.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0979",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0979",
+    "summary": "1 The National Labor Relations Board conducted a representation election in petitioner's Chrysler-Plymouth agency on April 12, 1951. 727, International Association of Machinists, won by a vote of eight to five, and the Labor Board certified it as the exclusive bargaining representative on April 20.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0389",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0389",
+    "summary": "1 Appellees are foreign corporations which transport freight in interstate commerce up and down the Mississippi and Ohio Rivers under certificates of public convenience and necessity issued by the Interstate Commerce Commission. Each has an office or agent in Louisiana but its principal place of ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

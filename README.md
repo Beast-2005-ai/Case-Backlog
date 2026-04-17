@@ -1,117 +1,88 @@
-# Case Backlog System
+# ⚖️ CaseTriage: AI-Powered Legal Backlog Optimization Engine
 
-## Overview
+## 📖 Description
+CaseTriage is an enterprise-grade, full-stack orchestration system designed to automate the triage and prioritization of massive legal casework backlogs. 
 
-The Case Backlog System is an AI-powered application designed to manage and process legal case backlogs for US and Indian jurisdictions. It uses natural language processing (NLP) to classify and triage cases, builds a vector database for efficient search and retrieval, and provides a web dashboard for monitoring the case queue.
+Instead of relying on manual sorting, CaseTriage utilizes a dual-engine AI approach. It ingests raw legal dockets, categorizes them by region (US, India, International) and law type, and scores their urgency using both a dynamic heuristic rule engine and a trained XGBoost Machine Learning model. 
 
-The system consists of:
-- A React-based frontend dashboard for visualizing the case queue
-- A FastAPI backend server to serve case data
-- AI judgment scripts for automatic case classification
-- A watchdog orchestrator that monitors for new cases and triggers processing
-- Data processing pipelines for fetching, cleaning, and vectorizing case data
+**Key Features:**
+* **Intelligent Triage Queue:** Instantly scores and ranks cases from 1 to 100 based on legal urgency and keyword density.
+* **Explainable AI (XAI):** Utilizes SHAP (SHapley Additive exPlanations) to mathematically break down exactly *why* the ML model assigned a specific score, ensuring judicial transparency.
+* **Precedent Surfacing:** Integrates with a local Vector Database (ChromaDB) to instantly surface the closest historical legal precedent for any new case.
+* **Dynamic Configuration:** Administrators can build, deploy, and stack custom scoring profiles and keyword weights on the fly directly from the UI—no coding required.
+* **System Analytics:** A comprehensive telemetry dashboard featuring live, 3-way regional comparisons (US, India, Overall) across priority histograms, category doughnuts, and keyword radar charts.
+* **PDF Reporting:** One-click generation of beautifully formatted, print-ready docket reports.
 
-## Prerequisites
+---
 
-- Python 3.8 or higher
-- Node.js 16 or higher
-- Git
+## 🛠️ Tech Stack
 
-## Installation
+**Frontend:**
+* **React (TypeScript):** Core UI framework.
+* **Tailwind CSS:** For custom dark-mode styling and responsive design.
+* **Recharts:** High-performance data visualization and analytics.
+* **Framer Motion:** Fluid, physics-based UI animations.
+* **Lucide-React:** Consistent iconography.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Beast-2005-ai/Case-Backlog.git
-   cd "Case Backlog System"
-   ```
+**Backend & AI Engine:**
+* **Python:** Core backend and ML orchestration.
+* **FastAPI & Uvicorn:** High-performance REST API bridge.
+* **Watchdog:** Real-time file system monitoring for automated ingestion.
+* **XGBoost:** Gradient boosted tree model for priority regression.
+* **ChromaDB & SentenceTransformers:** Vector database and embeddings for semantic precedent matching.
+* **SHAP:** Explainable AI framework for feature impact analysis.
 
-2. Install Python dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+---
 
-3. Install frontend dependencies:
-   ```bash
-   cd dashboard
-   npm install
-   cd ..
-   ```
+## 🚀 Getting Started
 
-## Running the Application
+### Prerequisites
+Before you begin, ensure you have the following installed on your machine:
+* **Python 3.9** or higher
+* **Node.js** (v16+ recommended)
 
-### 1. Start the Frontend Dashboard
+### 1. Installation & Setup
+Clone or extract the repository, then install the required dependencies for both the backend and frontend.
 
-The frontend is built with React and Vite. To start the development server:
-
+**Backend Setup:**
+Open a terminal in the root directory and install the Python dependencies:
 ```bash
-cd dashboard
-npm run dev
-```
+pip install -r requirements.txt
 
-This will start the dashboard on `http://localhost:5173` (default Vite port).
+Frontend Setup:
+Open a terminal in your frontend directory (where package.json is located) and install the Node packages:
 
-### 2. Start the API Bridge (FastAPI Server)
+npm install
+npm install recharts lucide-react framer-motion
 
-The API bridge serves the case queue data to the frontend. Run it in a separate terminal:
+### 2. Running the system
+The CaseTriage architecture runs on three separate micro-processes. You will need to open three separate terminal windows.
 
-```bash
+Terminal 1: Start the API Bridge
+Navigate to the root Python directory and boot the FastAPI server.
+
 python api_bridge.py
-```
 
-The FastAPI server will start on `http://localhost:8000` (default FastAPI port).
+The API is now listening on localhost:8000.
 
-### 3. (Optional) Run the Watchdog Orchestrator
+Terminal 2: Start the React Dashboard
+Navigate to the frontend directory and start the UI server.
 
-The watchdog-orchestrator script monitors the `pending_cases_json` folder for new case files. When new JSON files are added (for US or Indian cases), it automatically processes them through the AI judgment system and updates the master queue.
+npm run dev
+# OR npm start (depending on your environment setup)
+Open your browser to the localhost link provided. The system will show as "Idle" until the Watchdog is booted.
 
-To start the orchestrator:
+Terminal 3: Boot the AI Watchdog Orchestrator
+Navigate to the root Python directory and awaken the automated scoring engine.
 
-```bash
 python watchdog-orchestrator.py
-```
+The Watchdog will immediately scan the pending_cases_json folders, process any waiting cases through the XGBoost model and Vector DB, and begin monitoring for live drops.
 
-**What does the watchdog-orchestrator do?**
-- Monitors the `pending_cases_json/US` and `pending_cases_json/Indian` folders for new `.json` case files
-- Processes any backlog of unjudged cases on startup
-- Automatically calls the AI judge (`judge.py`) to classify new cases
-- Updates `master_queue.txt` with verdicts
-- Includes rate limiting (3-second delays) to avoid API throttling
-- Runs continuously, watching for file system changes
+📂 Folder Structure & Routing
+When cases are uploaded via the UI or dropped manually, the API automatically scans the text and routes them into the pending_cases_json/ directory under one of three subfolders:
 
-## How the Project Works
+/US - Triggered by terms like SCOTUS, Federal Court, Texas
 
-1. **Data Ingestion**: Case data is fetched from external sources using scripts like `refetch_us_data.py` and `refetch_indian_data.py`. Cases are stored as JSON files in `pending_cases_json/US` and `pending_cases_json/Indian`.
+/Indian - Triggered by terms like IPC, CrPC, High Court
 
-2. **AI Processing**:
-   - `nlp-cleaner.py`: Cleans and preprocesses legal text
-   - `judge.py`: Uses AI (likely Groq API) to classify cases and provide verdicts
-   - `vectordb-builder.py`: Builds a ChromaDB vector database for semantic search
-
-3. **Orchestration**: The watchdog-orchestrator ensures new cases are automatically processed as they arrive.
-
-4. **API Layer**: `api_bridge.py` provides REST endpoints to access the processed case queue.
-
-5. **Frontend**: The React dashboard displays the case queue, allowing users to view AI verdicts and manage cases.
-
-6. **Bulk Operations**: `bulk_loader.py` handles batch processing of cases.
-
-The system is designed for continuous operation, with the orchestrator ensuring real-time processing of incoming cases while the dashboard provides visibility into the backlog status.
-
-## Additional Scripts
-
-- `query_db.py`: Query the vector database
-- `test_gpu.py`: Test GPU availability for AI processing
-- `data-polish.py`: Additional data processing utilities
-
-## Configuration
-
-- Case files: Stored in `pending_cases_json/`
-- Queue file: `master_queue.txt`
-- Vector DB: `chroma_db_storage/`
-- Dashboard: `dashboard/` directory
-
-## Development
-
-- Frontend: `cd dashboard && npm run dev`
-- Backend: Modify Python scripts and restart `api_bridge.py`
-- AI Models: Ensure API keys are configured for external services (e.g., Groq)
+/International - Fallback for globally ambiguous cases

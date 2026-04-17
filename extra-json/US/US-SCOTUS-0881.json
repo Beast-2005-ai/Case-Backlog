@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0881",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0881",
+    "summary": "1607 Julius ROSENBERG and Ethel Rosenberg, petitioners,v.Wilford L. Special Term 1953 Supreme Court of the United States June 15, 1953 The motion for leave to file petition for an original writ of habeas corpus is denied.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0371",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0371",
+    "summary": "1 As part of the Michigan system for controlling the sale of liquor, bartenders are required to be licensed in all cities having a population of 50,000, or more, but no female may be so licensed unless she be 'the wife or daughter of the male owner' of a licensed liquor establishment. Section 19a...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

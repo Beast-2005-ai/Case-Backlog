@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0325",
+    "timestamp": "2023-01-01",
+    "case_type": "Corporate / IP",
+    "title": "High Court Bail Docket IN-BAIL-2023-0325",
+    "summary": "Subramani Gopalakrishnan, a partner at Price Waterhouse, served as statutory auditor of Satyam Computer Services Ltd. (SCSL) during the years the company falsified accounts, inflating cash and bank balances and misleading shareholders.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

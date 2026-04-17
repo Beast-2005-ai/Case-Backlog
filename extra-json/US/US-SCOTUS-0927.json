@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0927",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0927",
+    "summary": "The question presented is whether the schedule of minimum wage rates included in a Government construction contract, as required by the Davis-Bacon Act,1 is a representation or warranty as to the prevailing wage rates in the contract area. 2 The Davis-Bacon Act requires that the wages of workmen ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

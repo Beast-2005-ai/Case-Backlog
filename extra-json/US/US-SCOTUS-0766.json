@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0766",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0766",
+    "summary": "1 The controlling claim in this case is that there was an unreasonable search and seizure of evidence, the admission of which vitiated the convictions. Before determining these issues conflicting views as to the facts in this case and the inferences to be drawn from them would have to be resolved.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

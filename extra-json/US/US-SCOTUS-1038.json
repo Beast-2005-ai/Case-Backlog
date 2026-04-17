@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1038",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1038",
+    "summary": "1 Petitioner brought this suit under \u00a7 17 of the Fair Labor Standards Act, 52 Stat. \u00a7 201 et seq., to enjoin respondent from violating \u00a7 15(a)(2) and \u00a7 15(a)(5) of the Act.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

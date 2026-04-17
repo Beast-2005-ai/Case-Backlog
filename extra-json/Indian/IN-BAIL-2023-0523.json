@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0523",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0523",
+    "summary": "The accused impersonated an Anti-Corruption Bureau officer and demanded Rs. 3,00,000 from the complainant, an auditor, for allegedly closing a fake complaint.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

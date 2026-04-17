@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0230",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0230",
+    "summary": "Devendra Singh Lodhi was arrested in connection with the death of his wife Rukmani Bai under Section 304B IPC, with allegations of cruelty and dowry harassment. The defense claimed the charge sheet lacked original documents and cited the grant of bail to co-accused.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

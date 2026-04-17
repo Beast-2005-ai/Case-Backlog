@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0920",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0920",
+    "summary": "1 This case presents a matter of federal practice involving inconsistent positions by litigants in court proceedings. We have often held that under the doctrine of res judicata a judgment entered in an action conclusively settles that action as to all matters that were or might have been litigate...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

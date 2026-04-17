@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0620",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0620",
+    "summary": "1 This proceeding brings here the question of the right of a subordinate official of the Department of Justice of the United States to refuse to obey a subpoena duces tecum ordering production of papers of the Department in his possession. The refusal was based upon a regulation1 issued by the At...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

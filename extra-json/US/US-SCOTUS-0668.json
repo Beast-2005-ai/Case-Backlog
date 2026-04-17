@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0668",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0668",
+    "summary": "1 Basing his complaint on the Illinois wrongful death statute,1 appellant administrator brought this action in the Wisconsin state court to recover damages for the death of Harold Hughes, who was fatally injured in an automobile accident in Illinois. The allegedly negligent driver and an insuranc...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0691",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0691",
+    "summary": "The petitioner was accused in a cybercrime case and had been in custody since November 2023. He claimed false implication and invoked parity with co-accused Rizwan Ansari and Bikash Kumar Mandal, who were granted bail.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

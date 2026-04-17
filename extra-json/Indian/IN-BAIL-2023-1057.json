@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1057",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1057",
+    "summary": "Jarin Khan was arrested with 26 grams of brown sugar and remained in custody beyond 90 days without the charge sheet being filed. He sought bail under Section 167(2) CrPC for default in filing the charge sheet.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

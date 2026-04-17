@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1080",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-1080",
+    "summary": "Gurwinder Singh @ Mintu was accused of assembling with others for dacoity preparation. While co-accused were arrested and tried, they were acquitted due to lack of reliable evidence.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

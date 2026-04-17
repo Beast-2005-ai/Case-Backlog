@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0228",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0228",
+    "summary": "Rajkumar @ Monu was accused in connection with the suicide of his wife Sangeeta. She initially survived the hanging attempt on 6 May 2019 but died 11 days later in the hospital.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

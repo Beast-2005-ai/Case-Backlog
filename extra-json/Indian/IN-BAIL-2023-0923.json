@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0923",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0923",
+    "summary": "The case involved the murder of Maruti Avaba Patil by seven accused who allegedly used axes and sticks. The prosecution relied on dying declarations.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

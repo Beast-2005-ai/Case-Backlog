@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0346",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0346",
+    "summary": "2 On February 19, 1945, petitioner Wade was arrested in Palm Beach County, Florida, upon the charge of breaking and entering. He was held in jail until brought to trial before a jury on March 14, 1945, in the Criminal Court of Record of Palm Beach County.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

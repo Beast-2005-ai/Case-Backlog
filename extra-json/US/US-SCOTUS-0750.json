@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0750",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0750",
+    "summary": "1 These two appeals challenge the constitutionality of Okla.Stat. 52, \u00a7\u00a7 286.1\u2014286.17, providing for unitized management of common sources of supply of oil and gas in Oklahoma.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

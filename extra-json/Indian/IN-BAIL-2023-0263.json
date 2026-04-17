@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0263",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0263",
+    "summary": "Subhash Choudhary was accused in a robbery case registered as Kotwali P.S. Initially charged under Section 392 IPC, the charge-sheet was later submitted under Section 395 IPC.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0885",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0885",
+    "summary": "The cause is remanded to the Court of Appeals with directions to reinstate its prior judgment and order after amending it so that it specifically authorizes the Federal Trade Commission to open this proceeding for further evidence and a new order consistent with the Court of Appeals opinion herei...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

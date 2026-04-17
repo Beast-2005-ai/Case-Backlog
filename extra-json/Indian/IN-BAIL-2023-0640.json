@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0640",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0640",
+    "summary": "Saurabh Kumar was apprehending arrest in a cybercrime case under multiple IPC and IT Act sections. The allegations in the FIR were general in nature and did not specifically name him.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

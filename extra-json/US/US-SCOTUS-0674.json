@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0674",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0674",
+    "summary": "1 Rule 24(a) of the Federal Rules of Civil Procedure, 28 U.S.C.A., provides in part as follows: '(a) Intervention of Right. Upon timely application anyone shall be permitted to intervene in an action: * * * (2) when the representation of the applicant's interest by existing parties is or may be i...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

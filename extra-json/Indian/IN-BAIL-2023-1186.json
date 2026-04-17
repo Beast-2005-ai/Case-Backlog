@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1186",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1186",
+    "summary": "Salam Khan, already in custody, sought bail in a case involving allegations of extortion by a criminal gang. Two co-accused were arrested with firearms and named him as a gang member.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

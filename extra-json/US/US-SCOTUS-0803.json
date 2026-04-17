@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0803",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0803",
+    "summary": "1 Petitioner stands convicted under \u00a7 647(5) of the Penal Code of California, which provides in relevant part that 'Every * * * dissolute person * * * Is a vagrant, and is punishable by a fine of not exceeding five hundred dollars ($500), or by imprisonment in the county jail not exceeding six mo...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

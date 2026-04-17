@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0582",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0582",
+    "summary": "Lokesh Sharma was detained under COFEPOSA for alleged involvement in serious gold smuggling. He sought temporary bail on medical grounds, citing age (65) and ailment.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

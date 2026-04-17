@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0520",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0520",
+    "summary": "1 The Federal Communications Commission renewed a radio license only after the applicant, the Board of Regents, carried out a required repudiation of a contract with other persons, respondents here. The Commission had determined that unless the contract were given 'no further effect' a renewal of...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

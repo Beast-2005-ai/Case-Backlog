@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1086",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1086",
+    "summary": "1 The appellants are a partnership and its agent, all residents of Illinois. The partnership was engaged exclusively in the business of selling and issuing money orders in the State of Illinois.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

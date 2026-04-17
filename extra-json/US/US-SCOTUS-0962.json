@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0962",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0962",
+    "summary": "1 April 6, 1953, an order was entered disbarring Isserman from the practice of law in this Court pursuant to Rule 2, par. 5, of this Court's Rules then in effect.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0973",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0973",
+    "summary": "1 The issue in this case is similar to the question presented in Smith v. 194, on the corroboration of respondent's extrajudicial statements concerning his 'opening net worth'.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

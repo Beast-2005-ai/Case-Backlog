@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0949",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0949",
+    "summary": "1 The case having been fully argued and the Court being satisfied that the findings are justified by the evidence and support the decree, the judgment is affirmed.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

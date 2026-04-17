@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0452",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0452",
+    "summary": "Specifically the question to be decided is whether a natural-gas company, subject to the Act, may sell the leases covering an estimated twelve per cent of its total gas reserves without the approval and contrary to an order of the Commission. 2 The issue is made very sharply because the District ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

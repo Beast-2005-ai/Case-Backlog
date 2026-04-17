@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0575",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0575",
+    "summary": "Mayanglambam Arun Singh was arrested on 01.06.2018 in an NDPS case involving seizure of methamphetamine and morphine. He was charged under Sections 21(c), 22(c), and 29 of the NDPS Act.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

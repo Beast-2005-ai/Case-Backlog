@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0412",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0412",
+    "summary": "1 Robert Michael was trustee in bankruptcy of the Central Forging Co. was a competitor of Central and one of its creditors.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

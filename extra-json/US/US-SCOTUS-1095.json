@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1095",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-1095",
+    "summary": "1 The petitioner, while residing in Dade County, Florida, filed a suit for divorce from his wife, who had separated from him and gone to Ohio, where she had established her residence. The wife was not personally served, nor did she appear in person or by attorney in the Florida suit.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

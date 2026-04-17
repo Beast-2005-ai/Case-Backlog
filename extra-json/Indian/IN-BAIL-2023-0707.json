@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0707",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0707",
+    "summary": "Prashanth Kumar M was arrested for allegedly purchasing a child sexual abuse video via UPI payment from a Telegram group run by accused No.1. His mobile phone was seized, and he was interrogated.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1061",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1061",
+    "summary": "1 In 1945 petitioner Stephen Herman pleaded guilty in a Pennsylvania state court to 8 charges of burglary, 12 of larceny, 8 of forgery, and 2 of false pretense.1 He was sentenced to serve 17 1/2 to 35 years in the penitentiary, 2 1/2 to 5 years on each of the charges, some running consecutively, ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

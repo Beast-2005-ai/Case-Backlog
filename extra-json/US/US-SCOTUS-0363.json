@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0363",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0363",
+    "summary": "Herrick, of New York City, for petitioner. Gen., of Washington, D.C., for respondent.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

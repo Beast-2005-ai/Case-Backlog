@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1001",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1001",
+    "summary": "1 Petitioner was born in 1927 and was brought up as a Jehovah's Witness by his parents, both of whom were of that faith. He has been identified with the sect since he was 6 years old, 'was immersed and became a consecrated servant of Jehovah' at 15, and was ordained when 17 years old.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

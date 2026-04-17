@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1007",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1007",
+    "summary": "510 ASSOCIATION OF WESTINGHOUSE SALARIED EMPLOYEESv.WESTINGHOUSE ELECTRIC CORP. Feller, Washington, D.C., for petitioner.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

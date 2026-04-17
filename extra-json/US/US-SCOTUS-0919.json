@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0919",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0919",
+    "summary": "1 The appellants, two natural gas pipeline companies, brought separate suits against Texas State officials, appellees here, in a state district court, seeking a determination that a Texas tax statute as applied to appellants violates the Commerce Clause of the Constitution of the United States, a...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

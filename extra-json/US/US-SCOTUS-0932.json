@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0932",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0932",
+    "summary": "1 The sole question for decision in this case is whether the Interstate Commerce Commission has the power under \u00a7 77 of the Bankruptcy Act to submit a plan of reorganization to a district court whereby a debtor railroad would be compelled to merge with another railroad having no prior connection ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

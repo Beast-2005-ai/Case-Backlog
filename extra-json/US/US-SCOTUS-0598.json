@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0598",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0598",
+    "summary": "45 appellant common carriers by railroad brought this suit against the United States in the District Court for the Northern District of Illinois to enjoin an order of the Interstate Commerce Commission issued June 13, 1949, in a proceeding instituted by the Commission entitled Rail and Barge Join...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

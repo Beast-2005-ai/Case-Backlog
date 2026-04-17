@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0409",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0409",
+    "summary": "1 Petitioners are three wholly owned subsidiaries of Air Reduction Corporation (Airco). They seek a determination of the question whether deficiencies in income and declared value excess profits taxes for the year 1938 found by the Commissioner of Internal Revenue are properly chargeable to them.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

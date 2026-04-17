@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1007",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1007",
+    "summary": "The accused was alleged to have conspired with others to defraud job aspirants by collecting Rs 85 lakhs under false promises of employment. Two FIRs were filed under Sections 408, 420, 506, and 120B IPC.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

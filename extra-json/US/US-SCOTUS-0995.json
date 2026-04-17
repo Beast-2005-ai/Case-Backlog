@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0995",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0995",
+    "summary": "1 The Renegotiation Act of 1942 as amended sets up departmental and Tax Court procedures to save the United States from the burden of 'excessive profits' made by private contractors under war contracts with Government 'Departments.'1 The question in this case is whether an order entered by the Ta...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

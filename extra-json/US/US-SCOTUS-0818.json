@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0818",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0818",
+    "summary": "1 These cases challenge the constitutionality of \u00a7\u00a7 9, 11a, and 20 of the Illinois Motor Vehicle Law, as amended. The statute imposes a tax for the use of the public highways and measures the tax exclusively by gross weight of the vehicle.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1116",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1116",
+    "summary": "Sufija Begum was accused in a case involving the kidnapping and forced marriage of a 17-year-old girl, allegedly involving religious conversion. Her husband and son (the main accused) had already been granted bail.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

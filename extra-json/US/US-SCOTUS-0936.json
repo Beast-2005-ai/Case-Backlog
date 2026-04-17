@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0936",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0936",
+    "summary": "2 The chief Justice did not participate in the consideration or decision of this case. 4 The Court's one-word decision reverses concurring judgments of three highly respected courts\u2014the Court of Appeals of New York, the Appellate Division of the Supreme Court, First Department, and the Supreme Co...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

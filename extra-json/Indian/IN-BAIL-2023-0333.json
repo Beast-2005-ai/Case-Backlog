@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0333",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0333",
+    "summary": "Abul Kalam was arrested following the interception of 10 kg heroin from two accused who named him as a syndicate member. He was later traced and arrested in West Bengal.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

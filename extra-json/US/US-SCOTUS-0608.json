@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0608",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0608",
+    "summary": "1 The parties to this case are the same transit workers, the same transit company, and the Wisconsin Employment Relations Board before the Court in No. This action arises out of the same threatened strike discussed in that case.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

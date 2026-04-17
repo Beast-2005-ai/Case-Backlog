@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1119",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1119",
+    "summary": "Wasim @ Banti was accused in a case involving dacoity and attempted murder. Looted items were recovered from him and identified in a Test Identification Parade.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

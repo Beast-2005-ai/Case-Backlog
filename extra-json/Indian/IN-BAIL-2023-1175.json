@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1175",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1175",
+    "summary": "Satish Babu Lodhi, an employee of Axis Bank, was implicated in a Rs. 50 crore bank fraud involving multiple accused.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

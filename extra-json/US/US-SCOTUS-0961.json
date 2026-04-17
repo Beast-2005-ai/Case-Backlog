@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0961",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0961",
+    "summary": "1 These cases present a common question concerning the jurisdiction of the Federal Power Commission over the rates charged by a natural-gas producer and gatherer in the sale in interstate commerce of such gas for resale. All three cases are an outgrowth of the same proceeding before the Power Com...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

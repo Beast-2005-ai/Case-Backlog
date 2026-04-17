@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0609",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0609",
+    "summary": "1 The question presented is whether the Federal Tort Claims Act1 empowers a United States District Court to require the United States to be impleaded as a third-party defendant and to answer the claim of a joint tort-feasor for contribution as if the United States were a private individual. For t...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

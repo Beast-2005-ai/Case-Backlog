@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0580",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0580",
+    "summary": "1 Petitioner sued in the District Court for a death gratuity under the Act of June 4, 1920, 41 Stat. \u00a7 943, claiming as the widow of a member of the naval service.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

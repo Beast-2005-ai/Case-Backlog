@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1163",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1163",
+    "summary": "The petitioner, Ram Nath Baid @ Gulla, was convicted under Sections 392/34 IPC for committing robbery and sentenced to three years' RI. Though initially the FIR was against unknown persons, he was identified during a Test Identification Parade (TIP) and later during trial by the informant.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

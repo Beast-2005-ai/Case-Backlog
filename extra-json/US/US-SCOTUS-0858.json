@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0858",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0858",
+    "summary": "1 The question presented is whether, in a habeas corpus proceeding attacking the right of a mother to retain possession of her minor children, an Ohio court must give full faith and credit to a Wisconsin decree awarding custody of the children to their father when that decree is obtained by the f...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

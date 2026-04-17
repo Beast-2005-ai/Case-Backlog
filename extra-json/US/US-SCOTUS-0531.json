@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0531",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0531",
+    "summary": "1 Respondent, while serving as an enlisted soldier in the United States Army in Germany, was convicted by a general court-martial of committing murder on December 25, 1946, in violation of the 92d Article of War, 41 Stat. The sentence imposed was dishonorable discharge, forfeiture of all pay and ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

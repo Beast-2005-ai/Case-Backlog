@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0300",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0300",
+    "summary": "3, was arrested in connection with Crime No. 487/2013 for planning to commit dacoity.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

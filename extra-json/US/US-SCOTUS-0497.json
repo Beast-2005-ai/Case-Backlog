@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0497",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0497",
+    "summary": "That question, in turn, requires our consideration of R.S. \u00a7 3477, the 'anti-assignment' statute.2 2 Three cases, each presenting a slightly different aspect of the problem, were heard by the Court.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

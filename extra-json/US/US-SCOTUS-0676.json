@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0676",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0676",
+    "summary": "1 Indictments have been returned in the Southern District of California charging the twelve petitioners with conspiring to violate the Smith Act, 18 U.S.C. Upon their arrest, bail was fixed for each petitioner in the widely varying amounts of $2,500, $7,500, $75,000 and $100,000.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

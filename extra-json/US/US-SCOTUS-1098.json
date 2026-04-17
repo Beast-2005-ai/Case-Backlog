@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1098",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1098",
+    "summary": "1 The sole question in the case is whether the cause of action alleged comes within the admiralty jurisdiction of the District Court. The District Court held that this was an action on a maritime contract, within the admiralty jurisdiction, 129 F.Supp.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

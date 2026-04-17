@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0841",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0841",
+    "summary": "1 The income tax liability of three individual taxpayers for a given year is here before the Court. Only a single question, common to all the cases, is involved.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

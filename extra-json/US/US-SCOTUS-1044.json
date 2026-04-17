@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1044",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1044",
+    "summary": "1 Petitioner applied to the United States District Court, Northern District of California, Southern Division, for a writ of hebeas corpus, claiming that his automatic appeal to the California Supreme Court from a conviction for a capital offense had been heard upon a fraudulently prepared transcr...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

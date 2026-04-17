@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1036",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-1036",
+    "summary": "Anokhilal, an advocate, was accused of conspiring with his client Ekta Jain to extort money from Tarun Kaithwas by threatening to falsely implicate him in a rape case. The case was built on WhatsApp chats between Anokhilal and Ekta Jain.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

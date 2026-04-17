@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0732",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0732",
+    "summary": "Darshan Singh and co-petitioners were accused in a case involving alleged kidnapping, assault, and forced video recording of the complainant. The complaints filed in 2017 and 2018 were found inconsistent during police investigation, and key witnesses denied knowledge of the incident.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

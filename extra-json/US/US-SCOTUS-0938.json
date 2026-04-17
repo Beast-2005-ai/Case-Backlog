@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0938",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0938",
+    "summary": "733 THOMPSONv.LAWSON, Deputy Commissioner of United States Bureau of Employees Compensation, etc., et al. David Carliner, Washington, D.C., for petitioner.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0860",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0860",
+    "summary": "1 At issue is the legality under the Sherman Act of the Times-Picayune Publishing Company's contracts for the sale of newspaper classified and general display advertising space. The Company in New Orleans owns and publishes the morning Times-Picayune and the evening States.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

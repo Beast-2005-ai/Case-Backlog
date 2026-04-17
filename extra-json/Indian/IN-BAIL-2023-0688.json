@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0688",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0688",
+    "summary": "The applicants were accused in a cybercrime case involving forgery and fraud. A co-accused had already been granted bail.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

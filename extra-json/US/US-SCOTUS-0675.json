@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0675",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0675",
+    "summary": "1 Petitioner was convicted in the California Superior Court in 1949 of making and possessing counterfeiting dies or plates in violation of Cal. He did not appeal, but sought to challenge the validity of his conviction by filing successive petitions for a writ of habeas corpus in the California Su...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

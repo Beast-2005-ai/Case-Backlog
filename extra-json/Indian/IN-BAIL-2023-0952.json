@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0952",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0952",
+    "summary": "Gursewak Singh was arrested in 2020 based on allegations of being part of a gang involved in armed robbery and conspiracy to commit terrorist acts with links to foreign entities. He was charged under various sections of IPC, UAPA, Arms Act, and Prisons Act.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

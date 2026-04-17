@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0667",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0667",
+    "summary": "1 The United States brought this civil action to prevent and restrain violations of the Sherman Act1 by appellant, Timken Roller Bearing Co., an Ohio corporation. The complaint charged that appellant, in violation of \u00a7\u00a7 1 and 3 of the Act,2 combined, conspired and acted with British Timken, Ltd.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

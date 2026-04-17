@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0738",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0738",
+    "summary": "1 Acting under \u00a7 5(b) of the Trading with the Enemy Act,1 the Alien Property Custodian vested in himself the American assets of Interhandel, a Swiss corporation.2 Interhandel sued in the District Court to recover the assets. The Custodian3 answered alleging that the Swiss corporation was dominate...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

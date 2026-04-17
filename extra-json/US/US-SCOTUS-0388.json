@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0388",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0388",
+    "summary": "1 Section 124 of the Traffic Regulations of the City of New York1 promulgated by the Police Commissioner provides: 2 'No person shall operate, or cause to be operated, in or upon any street an advertising vehicle; provided that nothing herein contained shall prevent the putting of business notice...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

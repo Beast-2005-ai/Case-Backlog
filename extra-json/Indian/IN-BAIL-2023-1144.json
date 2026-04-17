@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1144",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1144",
+    "summary": "The petitioner, along with others, was apprehended by Byatarayanapura Police while allegedly preparing to commit a robbery. Weapons including an iron rod, knives, and chilli powder were recovered.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0318",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0318",
+    "summary": "1 These cases are here on appeal1 from a judgment of a three-judge District Court2 holding that the defendants had violated \u00a7 1 and \u00a7 2 of the Sherman Act, 26 Stat. \u00a7\u00a7 1, 2, and granting an injunction and other relief.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

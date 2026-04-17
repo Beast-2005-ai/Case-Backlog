@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0410",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0410",
+    "summary": "The applicant was implicated based on a co-accused's statement in a kidnapping case involving a 7-year-old boy. The child was recovered the next day but not from the applicant's possession.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

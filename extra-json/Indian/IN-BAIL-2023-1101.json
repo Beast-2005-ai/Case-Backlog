@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1101",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1101",
+    "summary": "Yuvraj Sawant, an employee of MHADA, was accused in a fraud involving \u20b926.5 lakhs related to misrepresentation and sale of premises under a fake 'Special Quota Scheme'. The complainant alleged being misled by estate agents and accused persons.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

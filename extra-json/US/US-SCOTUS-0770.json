@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0770",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0770",
+    "summary": "Northwestern National Bank & Trust Co., 1936, 298 U.S. 2 The Civil Aeronautics Board has applied to this Court for an order requiring the Court of Appeals to send up the entire record.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

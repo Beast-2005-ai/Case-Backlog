@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0745",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0745",
+    "summary": "New York City has a program which permits its public schools to release students during the school day so that they may leave the school buildings and school grounds and go to religious centers for religious instruction or devotional exercises. A student is released on written request of his pare...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

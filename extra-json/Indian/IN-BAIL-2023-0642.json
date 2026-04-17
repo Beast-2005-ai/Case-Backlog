@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0642",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0642",
+    "summary": "Ajay Pandey was accused in a case involving the kidnapping of a minor child, allegedly involving serious charges like criminal conspiracy and attempted murder. The FIR claimed the child was abducted, but was found at home shortly after the alleged incident.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

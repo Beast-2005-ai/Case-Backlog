@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0909",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0909",
+    "summary": "Hiphajat Alam, a 50\u201355 year-old police employee, sought bail after being arrested in connection with a \u20b998 lakh Axis Bank robbery case. Though unnamed in the FIR, he was later implicated via his confessional statement, which led to recovery of looted property and documents.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

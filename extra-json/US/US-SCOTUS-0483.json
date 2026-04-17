@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0483",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0483",
+    "summary": "1 Twenty-one Negro firemen, sometime employed by southern railroads, brought this suit against the principal defendant, the Brotherhood of Locomotive Firemen and Enginemen, three railroads, two local lodges of the Brotherhood, and certain officers of those lodges. The complaint alleges in substan...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

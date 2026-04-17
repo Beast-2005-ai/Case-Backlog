@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1173",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1173",
+    "summary": "The petitioner sought anticipatory bail in a case involving robbery of a DIGI track machine by three unknown persons. Although he was not named in the FIR, he was later identified by an independent eyewitness during investigation.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

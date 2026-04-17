@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0314",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0314",
+    "summary": "On 15.06.2021, police intercepted a vehicle driven by Surendra Bhati with co-accused Vimal Kumar Bairva. Upon search, 7.5 kg of poppy juice was recovered from the vehicle.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

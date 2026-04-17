@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0964",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0964",
+    "summary": "1 The petitioner brought suit against the United States under the Suits in Admiralty Act, 46 U.S.C. \u00a7 741 et seq., to recover damages for negligence in creating conditions aboard ship whereby he contracted polio and for negligence in the treatment thereof.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

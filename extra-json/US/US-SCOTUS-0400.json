@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0400",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0400",
+    "summary": "50, to review two judgments of the Court of Appeals for the Seventh Circuit, 167 F.2d 531, involving the same patent. What we shall call the Jones patent was No.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

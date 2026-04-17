@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0819",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0819",
+    "summary": "1 The issue raised by this appeal is the constitutionality of the occupational tax provisions of the Revenue Act of 1951,1 which levy a tax on persons engaged in the business of accepting wagers, and require such persons to register with the Collector of Internal Revenue. The unconstitutionality ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1111",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1111",
+    "summary": "Kari Choudhary was accused of kidnapping the daughter-in-law and grandchild of the complainant under the pretext of negotiating a compromise related to a pending POCSO case against the complainant's son. The woman and child were allegedly taken away and remained missing.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

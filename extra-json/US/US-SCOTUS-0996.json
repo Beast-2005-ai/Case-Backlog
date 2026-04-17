@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0996",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0996",
+    "summary": "1 The Shanghai-Nanking Railway Administration, an official agency of respondent Republic of China, established a $200,000 deposit account in 1948 with the New York head office of petitioner National City Bank of New York. Subsequently, respondent sought to withdraw the funds, but petitioner refus...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

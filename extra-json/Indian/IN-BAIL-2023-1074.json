@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1074",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1074",
+    "summary": "Brijendra Singh Yadav, a former police personnel, was detained under the National Security Act (NSA) for inciting other police officials to protest and boycott duties. He was accused of giving inflammatory speeches, mobilizing mess strikes, and encouraging officers to defy superiors.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

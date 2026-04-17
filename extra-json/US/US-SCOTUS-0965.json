@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0965",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0965",
+    "summary": "1 This case is here on review of a modified affirmance by the Court of Appeals of an order by the District Court summarily committing the petitioner for criminal contempt. 2 The proceeding grew out of the trial of one Peckham for abortion under D.C.Code 1951, \u00a7 22\u2014201, 31 Stat.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0352",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0352",
+    "summary": "1 The question in this case is whether the State of Alabama deprived the petitioner of due process of law under the Fourteenth Amendment1 to the Constitution of the United States when the Supreme Court of that State denied him permission to file a petition for writ of error coram nobis in the Cir...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

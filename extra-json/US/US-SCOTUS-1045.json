@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1045",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1045",
+    "summary": "6 STATE OF MISSISSIPPI, Plaintiff,v.STATE OF LOUISIANA. Thames, Vicksburg, Miss., for plaintiff.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

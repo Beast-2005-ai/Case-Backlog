@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0787",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0787",
+    "summary": "1 Each of the respondent oil companies owned terminal facilities in the Pandacan district of Manila at the time of the Japanese attack upon Pearl Harbor. These were used to receive, handle and store petroleum products from incoming ships and to release them for further distribution throughout the...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

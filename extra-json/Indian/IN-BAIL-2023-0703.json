@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0703",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0703",
+    "summary": "Brayan Bogonko, a Kenyan student in Karnataka, was accused of aiding cyber fraud by getting four bank accounts opened under false pretenses. He allegedly received \u20b98,000 per account from the main accused for linking these accounts to fraudulent transactions.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

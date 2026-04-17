@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1189",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1189",
+    "summary": "Jitendra Kumar was arrested in connection with a robbery case under Section 392 IPC, where a looted mobile phone was recovered from his possession. He applied for bail in the Patna High Court.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

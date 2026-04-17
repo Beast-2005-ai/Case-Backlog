@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0349",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0349",
+    "summary": "1 The initial question presented in this case is the one we reserved in Ex parte Mitsuye Endo, 323 U.S. 243, viz., whether the presence within the territorial jurisdiction of the District Court of the person detained is prerequisite to filing a petition for a writ of habeas corpus.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

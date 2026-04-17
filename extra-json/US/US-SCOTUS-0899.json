@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0899",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0899",
+    "summary": "1 The respondent Charles Hawn sustained severe physical injuries when he slipped and fell through an uncovered hatch hole on the petitioner Pope & Talbot's vessel. The ship was then berthed at a pier located in Pennsylvania waters of the Delaware River.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

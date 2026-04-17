@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0654",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0654",
+    "summary": "1 This is an appeal from the affirmance of an order of the Michigan Public Service Commission requiring appellant to obtain a certificate of public convenience and necessity before selling natural gas direct to industrial consumers in a municipality already served by a public utility. 2 Appellant...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

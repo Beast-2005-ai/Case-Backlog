@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0808",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0808",
+    "summary": "1 Petitioner was a member of one of respondent's section crews and while in the course of his employment severely injured his back. He brought this action for damages in the Missouri courts under the Federal Employers' Liability Act, 35 Stat.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

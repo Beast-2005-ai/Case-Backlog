@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0547",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0547",
+    "summary": "On 3rd July 1985, Vijender Kumar Jain and co-accused were apprehended at Palam Airport with large amounts of foreign currency while attempting to board a flight to Hong Kong. The currency was passed to them after customs clearance by an Indian Airlines employee.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

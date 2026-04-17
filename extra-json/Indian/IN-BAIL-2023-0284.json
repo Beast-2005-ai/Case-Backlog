@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0284",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0284",
+    "summary": "Kantilal was arrested in connection with an alleged attempted robbery at a school in Bhilwara, Rajasthan. The prosecution claimed he and others planned the act and assaulted police during intervention.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

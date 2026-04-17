@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0918",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0918",
+    "summary": "561 IRVINEv.PEOPLE OF STATE OF CALIFORNIA. Morris Lavine, Los Angeles, Cal., for petitioner.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

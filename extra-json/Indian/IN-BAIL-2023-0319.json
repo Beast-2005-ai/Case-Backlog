@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0319",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0319",
+    "summary": "On 30.11.2023, 50 bottles of Codeine Phosphate-based cough syrup were seized from Pankaj Kumar, who named Deepak Rawat as the seller. Bank records confirmed a payment of \u20b99,600 from the main accused to Deepak Rawat.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

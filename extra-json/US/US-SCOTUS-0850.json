@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0850",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0850",
+    "summary": "1 Invoking the Federal Employers' Liability Act,1 petitioner sued his employer, an interstate railroad company, for injuries sustained during the course of his employment, allegedly through respondent's negligence. The injury occurred in Ben Hill County, Georgia, which was the place of petitioner...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

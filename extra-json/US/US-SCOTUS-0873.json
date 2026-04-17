@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0873",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0873",
+    "summary": "(Mackay) provides radiotelegraph service between the United States and a number of foreign countries. Over the opposition of RCA Communications, Inc.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

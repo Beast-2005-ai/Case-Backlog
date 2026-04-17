@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0690",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0690",
+    "summary": "1 Petitioners brought suit in the District Court for the District of Columbia to restrain on constitutional grounds the enforcement of certain legislation passed by Congress for the administration of the District of Columbia school system. Petitioners' request that a court of three judges be conv...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

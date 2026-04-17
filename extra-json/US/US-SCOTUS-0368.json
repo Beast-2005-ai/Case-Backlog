@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0368",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0368",
+    "summary": "1 Petitioners were convicted in the District Court on evidence obtained by a search made without a warrant. The Court of Appeals affirmed on a divided vote.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

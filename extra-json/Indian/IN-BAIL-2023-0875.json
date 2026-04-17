@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0875",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0875",
+    "summary": "Mohammed Mehtab was accused of robbing a gold chain along with a co-accused and selling it to a third person. He was initially granted bail but failed to appear in court later.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

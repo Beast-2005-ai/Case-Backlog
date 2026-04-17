@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0847",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0847",
+    "summary": "Saiful Ahmed filed for anticipatory bail in connection with a domestic violence case under IPC Sections 498A, 325, 384, 307, and 34. He had earlier been granted interim bail and had complied with conditions, including appearing before the IO and giving a statement.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

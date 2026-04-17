@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0398",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0398",
+    "summary": "1 The principal question for decision is whether the circumstances justified the finding of an unfair labor practice. A union organizer was refused the use of a company-owned meeting hall, and the union complained to the Board.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0984",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0984",
+    "summary": "1 The question in this case is whether an appeal may be taken to a court of appeals from a district court order refusing to stay an action for an accounting pending arbitration. 2 This equitable action was brought in a state court for an accounting of the profits of a joint venture in constructio...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

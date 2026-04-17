@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1004",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1004",
+    "summary": "1 The sole question presented by this case is whether a payment is taxable as gross income when received by a corporation pursuant to the 'insider profits' provisions of the Securities Exchange Act of 19341 and the Investment Company Act of 1940.2 Subject to exceptions not presently relevant, \u00a7 1...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

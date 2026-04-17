@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0554",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0554",
+    "summary": "Narender Kumar Jain was detained under COFEPOSA for allegedly smuggling large quantities of foreign-origin gold through consignments from Guwahati to Delhi using employees and aliases. He was arrested following seizure of 9.9 kg of gold and implicated in prior smuggling cases.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

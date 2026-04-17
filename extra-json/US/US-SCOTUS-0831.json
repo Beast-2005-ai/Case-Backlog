@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0831",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0831",
+    "summary": "1 On april 17, 1952, the Governor of Michigan signed the Michigan Communist Control Bill. On April 22, 1952, the Communist Party of Michigan and William Albertson, its Executive Secretary, filed a complaint in the United States District Court or the Eastern District of Michigan.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

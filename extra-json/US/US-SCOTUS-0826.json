@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0826",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0826",
+    "summary": "1 This is an action brought by the United States to recover liquidated damages under the Walsh-Healey Act. That Act provides that a contractor furnishing the Government materials, supplies, etc., in an amount exceeding $10,000 must meet specified labor standards.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

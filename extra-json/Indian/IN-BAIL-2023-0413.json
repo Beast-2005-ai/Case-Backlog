@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0413",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0413",
+    "summary": "The petitioner was accused of handling proceeds of crime linked to PACL Ltd. via a web of companies such as DDPL and Unicorn while acting as a non-executive nominee director.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

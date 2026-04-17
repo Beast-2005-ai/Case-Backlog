@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1079",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1079",
+    "summary": "2 On May 24, 1954, we issued a mandate in this case to the Supreme Court of Florida. We directed that the case be reconsidered in light of our decision in the Segregation Cases decided May 17, 1954, Brown v.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

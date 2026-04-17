@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0959",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0959",
+    "summary": "1 Respondent was born in the Philippine Islands in 1913 and came therefrom to the continental United States in 1930. In 1941, he was convicted in the State of California of assault with a deadly weapon and was sentenced to imprisonment for one year in the Alameda County jail.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

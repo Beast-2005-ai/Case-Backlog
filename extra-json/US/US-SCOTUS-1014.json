@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1014",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1014",
+    "summary": "1 The three petitioners, dining car employees, filed separate suits in the United States District Court for the Eastern District of Pennsylvania, against the Atlantic Coast Line Railroad Co. They sued under the Federal Employers' Liability Act, 45 U.S.C.A.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0277",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0277",
+    "summary": "The accused, Sunil, was alleged to have committed robbery of a tempo and had been in jail since 31.10.2020. His first bail application was rejected, and this was his second application citing long detention and trial delay with no charges framed yet.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

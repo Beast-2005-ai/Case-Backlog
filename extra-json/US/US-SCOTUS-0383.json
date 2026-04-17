@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0383",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0383",
+    "summary": "1 This is a federal estate tax controversy. The particular provision requires including in a decedent's gross estate the value at his death of all property 'To the extent of any interest therein of which the decedent has at any time made a transfer, by trust or otherwise * * * intended to take ef...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

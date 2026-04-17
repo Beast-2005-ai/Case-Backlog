@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0392",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0392",
+    "summary": "1 The petitioner brought this suit under the Federal Employers' Liability Act, 45 U.S.C.A. \u00a7 51 et seq., in an Alabama state court.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

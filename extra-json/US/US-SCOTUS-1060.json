@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1060",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-1060",
+    "summary": "1 This case presents two questions as to the liability of a stevedoring contractor to reimburse a shipowner for damages paid by the latter to one of the contractor's longshoremen on account of injuries received by him in the course of his employment on shipboard. The first question is whether the...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

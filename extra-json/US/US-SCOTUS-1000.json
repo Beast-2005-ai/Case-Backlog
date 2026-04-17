@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1000",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-1000",
+    "summary": "1 Petitioner, a member of the Jehovah's Witnesses, stands convicted of failing to submit to induction into the armed forces in violation of \u00a7 12(a) of the Universal Military Training and Service Act, 62 Stat. 622, 50 U.S.C.Appendix, \u00a7 462(a), 50 U.S.C.A.Appendix, \u00a7 462(a).",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

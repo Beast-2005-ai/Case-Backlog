@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0462",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0462",
+    "summary": "1 These two cases raise issues which, as the facts set out below indicate, are controlled by our decision in Cosmopolitan Shipping Co. 2 The petitioner, Fink, signed on the S.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0416",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0416",
+    "summary": "The accused, acting as an auto-rickshaw driver, along with others, allegedly diverted passengers from their intended route and robbed them at knife-point of mobile phones, Rs. 500 each, and funds via PhonePe app.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

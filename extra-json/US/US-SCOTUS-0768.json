@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0768",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0768",
+    "summary": "1 Appellant was charged with murder in the first degree. He pleaded not guilty and gave notice of his intention to prove insanity.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0430",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0430",
+    "summary": "1 Missouri has a statute which limits the life of a judgment to ten years after its original rendition or ten years after its revival.1 Missouri also provides that no judgment can be revived after ten years from its rendition.2 These provisions are applicable to all judgments whether rendered by ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

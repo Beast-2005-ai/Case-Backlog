@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0446",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0446",
+    "summary": "1 On December 29, 1945, petitioner Joy Oil Company, Ltd., purchased 1,500,000 gallons of gasoline from Mid-West Refineries, Inc., of Grand Rapids, Michigan. The bills of lading issued by the railroad to which the gasoline was delivered were marked 'For Export Only,' but the gasoline was consigned...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

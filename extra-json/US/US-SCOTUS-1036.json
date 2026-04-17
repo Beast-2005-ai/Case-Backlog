@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1036",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1036",
+    "summary": "1143, this case illustrates the integration of the federal and state jurisdictions in licensing water power projects under the Federal Power Act.1 In the First Iowa case we sustained the authority of the Commission to license a power project to use navigable waters of the United States located in...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

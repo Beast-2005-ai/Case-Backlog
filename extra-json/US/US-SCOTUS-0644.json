@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0644",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0644",
+    "summary": "817 JOINT ANTI-FASCIST REFUGEE COMMITTEEv.McGRATH, Atty. NATIONAL COUNCIL OF AMERICAN-SOVIET FRIENDSHIP, Inc., et al.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

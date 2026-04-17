@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0627",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0627",
+    "summary": "1 In this case the respondent Reggie Hammerstein, by her mother and guardian, commenced a paternity action against the petitioner in the Superior Court of California. Petitioner entered a special appearance in that court, alleging that it had no personal jurisdiction over him, as he was a New Yor...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

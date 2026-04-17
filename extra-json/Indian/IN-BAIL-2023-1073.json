@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1073",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1073",
+    "summary": "Asgar and Mazid were convicted by the trial court under Sections 399 and 402 IPC for allegedly making preparations to commit dacoity along with an absconding co-accused. Police arrested them in a Dharamshala with weapons.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

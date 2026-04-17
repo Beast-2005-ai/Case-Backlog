@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0378",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0378",
+    "summary": "1 The issue here is the validity of United States Patent No. 2,118,468 which covers a 'method of casting articles of intricate design and a product thereof.' 2 The patent was granted to Jungersen on May 24, 1938.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

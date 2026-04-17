@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0684",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0684",
+    "summary": "Simmons, Jr., Scottsbluff, Neb., for petitioner. Kyle, Lincoln, Neb., for the State of Nebraska.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

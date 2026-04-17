@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0822",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0822",
+    "summary": "1 Section 7(a) of the Fair Labor Standards Act requires employers to pay each employee covered by the Act not less than one and one-half times his regular pay rate for every hour worked in excess of a forty-hour week; \u00a7 11(c) requires employers to keep appropriate employment records.1 Employees c...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

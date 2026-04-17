@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0934",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0934",
+    "summary": "1 These cases are before us on direct appeal from the decision of a three-judge District Court in the Southern District of New York, enjoining the Federal Communications Commission from enforcing certain provisions in its rules relating to the broadcasting of so-called 'give-away' programs. The q...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

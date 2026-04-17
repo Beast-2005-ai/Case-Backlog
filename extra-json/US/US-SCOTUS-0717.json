@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0717",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0717",
+    "summary": "1 Missouri has a statute, Mo.Rev.Stat., 1949, \u00a7 129.060, V.A.M.S., first enacted in 1897, which was designed to end the coercion of employees by employers in the exercise of the franchise. It provides that an employee may absent himself from his employment for four hours between the opining and c...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

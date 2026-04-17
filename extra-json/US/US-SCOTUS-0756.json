@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0756",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0756",
+    "summary": "1 Petitioner was convicted of voluntary manslaughter for the fatal shooting of an eighteen-year-old woman in an altercation growing out of a business transaction. A second woman was wounded in the affray.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

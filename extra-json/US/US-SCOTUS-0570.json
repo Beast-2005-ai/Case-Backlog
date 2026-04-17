@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0570",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0570",
+    "summary": "1 Petitioner, who is confined in a California state prison, sought to file a petition in forma pauperis for a writ of injunction in the District Court below. That court denied leave to proceed in forma pauperis, holding that petitioner was not entitled to the benefits of 28 U.S.C.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

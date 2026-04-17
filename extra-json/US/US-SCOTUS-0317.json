@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0317",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0317",
+    "summary": "1 This is an appeal from a decision of the Supreme Court of Oklahoma, arising from an order of the State Corporation Commission which concerned the correlative rights of owners of natural gas drawn from a common source. 2 Since 1913, Oklahoma has regulated the extraction of natural gas, partly to...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0597",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0597",
+    "summary": "The complainant, Aarti Ranjeet Singh, lodged an FIR under Section 377 IPC against her husband alleging unnatural sexual assault within marriage. The husband was initially arrested and granted bail by the Sessions Court.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

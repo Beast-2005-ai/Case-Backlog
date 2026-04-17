@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0638",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0638",
+    "summary": "1 Appellant is an unincorporated association which the California District Court of Appeal analogizes to a mutual insurance corporation. The details of its organization and operation are not important here.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

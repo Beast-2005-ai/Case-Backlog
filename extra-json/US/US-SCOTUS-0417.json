@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0417",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0417",
+    "summary": "1 We are asked to assess the effect of the Defense Supplies Corporation's dissolution on an action to which it was a party at the time of dissolution. Petitioners are the Defense Supplies Corporation and the Reconstruction Finance Corporation.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

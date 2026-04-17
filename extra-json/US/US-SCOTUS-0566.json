@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0566",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0566",
+    "summary": "1 This is a suit by respondent Hazeltine Research, Inc., as assignee of the licensor's interest in a nonexclusive patent license agreement covering a group of 570 patents and 200 applications, against petitioner Automatic Radio Manufacturing Company, Inc., the licensee, to recover royalties. The ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

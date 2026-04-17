@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0432",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0432",
+    "summary": "Adarsh Singh Rajawat, a Navy personnel, was accused of sharing sensitive naval information with a foreign handler via social media. He allegedly shared details about naval ships and installations, deleted incriminating chats, and used covert language to evade detection.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

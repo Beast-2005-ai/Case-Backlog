@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0500",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0500",
+    "summary": "1 This action was brought under the Federal Employers' Liability Act, 45 U.S.C. The complaint mingled in a single count or cause of action charges of general negligence and a specific charge that defendant 'carelessly and negligently' violated the Safety Appliance Act, 45 U.S.C.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

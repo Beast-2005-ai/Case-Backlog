@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0552",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0552",
+    "summary": "1 It is the public policy of the State of Washington that employers shall not coerce their employees' choice of representatives for purposes of collective bargaining. Do the First and Fourteenth Amendments to the Federal Constitution permit the State, in reliance on this policy, to enjoin peacefu...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

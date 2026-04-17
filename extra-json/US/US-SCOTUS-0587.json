@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0587",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0587",
+    "summary": "1 A common issue arising under the Tort Claims Act, as to which Courts of Appeals are in conflict, makes it appropriate to consider three cases in one opinion. 2 The Feres case: The District Court dismissed an action by the executrix of Feres against the United States to recover for death caused ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

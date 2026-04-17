@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0434",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0434",
+    "summary": "1 There was a cement plant in Merced County, California, which was sold to petitioner\u2014a corporation of Colombia\u2014for export to South America. An export license was obtained and a letter of credit in favor of the seller deposited here.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

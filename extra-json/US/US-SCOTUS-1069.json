@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1069",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1069",
+    "summary": "1 This case presents questions under Title II of the Federal Power Act, 49 Stat. \u00a7 824 et seq., which are in part similar to those we have decided today under the Natural Gas Act, 15 U.S.C.A.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

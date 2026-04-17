@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0449",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0449",
+    "summary": "1 This is suit in the Court of Claims under \u00a7 902 of the Merchant Marine act of 1936, as amended, 49 Stat. \u00a7 1242, to recover the balance of 'just compensation' alleged to be due respondent from the United States for requisition his steam tug, the MacArthur, in October, 1942.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

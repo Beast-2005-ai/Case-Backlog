@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0711",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0711",
+    "summary": "1 Appellant, an Ohio corporation, owns boats and barges which it employs for the transportation of oil along the Mississippi and Ohio Rivers. The vessels neither pick up oil nor discharge it in Ohio.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

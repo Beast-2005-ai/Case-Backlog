@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0343",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0343",
+    "summary": "1 After a conviction for robbery, petitioner sued out a writ of habeas corpus in a Superior Court of North Carolina claiming that the sentence he is serving involved a denial of his rights under the Fourteenth Amendment. The writ was dismissed and the dismissal affirmed by the Supreme Court of No...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

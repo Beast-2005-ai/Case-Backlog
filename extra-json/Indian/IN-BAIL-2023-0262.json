@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0262",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0262",
+    "summary": "Somar Yadav was arrested along with co-accused Birendra Yadav while fleeing from the scene after allegedly committing robbery in a shop. Although the co-accused had been granted bail, Somar Yadav was found to have 12 prior criminal cases against him.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

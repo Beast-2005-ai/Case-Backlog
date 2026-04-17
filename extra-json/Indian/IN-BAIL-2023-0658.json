@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0658",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0658",
+    "summary": "The petitioner was already granted bail in FIR No. 16/2020 registered at Cyber Crime Police Station, Jaipur.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

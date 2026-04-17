@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0807",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0807",
+    "summary": "1 The petitioner and two others, Jim Cook and Elmer Matthews, employees on strike from a mill at Tarboro, North Carolina, were arrested for firing five shots from a passing auto into the house of a watchman at the mill, J. Wyatt's house was occupied at the time of the shooting by himself, his wif...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

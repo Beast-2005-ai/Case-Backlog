@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0985",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0985",
+    "summary": "1 This case involves the relative priority between an attachment lien and the liens of the United States for unpaid taxes. The District Court found the attachment lien prior to the liens of the United States, 109 F.Supp.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

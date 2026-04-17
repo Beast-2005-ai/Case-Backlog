@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0568",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0568",
+    "summary": "1 In this case, we are faced with the question whether a state may, after admitting a student to graduate instruction in its state university, afford him different treatment from other students solely because of his race. We decide only this issue; see Sweatt v.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

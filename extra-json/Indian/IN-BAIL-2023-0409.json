@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0409",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0409",
+    "summary": "Rajiv Bajpai was granted bail in a case involving allegations under IPC Sections 306 and 498A. The complainant later sought cancellation of bail on the grounds that the accused was influencing their child witness through video calls by making disparaging comments about the maternal relatives.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

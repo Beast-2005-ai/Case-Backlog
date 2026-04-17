@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0508",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0508",
+    "summary": "1 A corporation selling its physical properties is taxed on capital gains resulting from the sale.1 There is no corporate tax, however, on distribution of assets in kind to shareholders as part of a genuine liquidation.2 The respondent corporation transferred property to its shareholders as a liq...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

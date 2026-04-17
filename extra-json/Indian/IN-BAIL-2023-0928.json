@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0928",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0928",
+    "summary": "Veeramani was involved in multiple cases including murder, attempt to murder, assault on police, and illegal arms. While detained, he secured bail under Section 167(2) CrPC due to delay in charge-sheet filing but did not avail it until later.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1050",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1050",
+    "summary": "1 Petitioners brought suit in the United States District Court for the Southern District of Mississippi, seeking recovery under the Federal Tort Claims Act, 28 U.S.C. \u00a7 1346(b), for damages alleged to have been caused by the negligence of the Coast Guard in the operation of a lighthouse light.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

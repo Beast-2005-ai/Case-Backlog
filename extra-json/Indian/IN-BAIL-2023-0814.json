@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0814",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0814",
+    "summary": "Vishal Goswami was accused in a cybercrime case involving cheating and forgery under IPC and IT Act sections. He was granted interim bail on 14.10.2024, complied with all court-imposed conditions including surrendering his passport.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

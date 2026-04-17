@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0838",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0838",
+    "summary": "1 Respondent California Electric Power Company produces electricity in California, partially by hydroelectric projects licensed under Part I of the Federal Power Act, 41 Stat. 1063, as amended by Title II of the Public Utility Act of 1935, 49 Stat.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

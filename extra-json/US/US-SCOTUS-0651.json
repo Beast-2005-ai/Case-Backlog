@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0651",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0651",
+    "summary": "1 Wheelock Bros., Inc., a private motor carrier, sued in the Court of Claims to recover just compensation for an alleged temporary taking of its properties and business by the United States pursuant to Executive Order No. The Court of Claims entered judgment awarding Wheelock Bros., Inc., just co...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

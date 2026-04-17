@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0649",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0649",
+    "summary": "Shivam Rajpoot was implicated in a cyber fraud case involving impersonation of services through the Just Dial app. Five persons were arrested based on an informer tip during a police check and various financial documents were recovered.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0628",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0628",
+    "summary": "1 This proceeding attacks, under the Commerce Clause of the Constitution of the United States, art. 3, the validity of a state tax imposed upon the franchise of a foreign corporation for the privilege of doing business within the State when (1) the business consists solely of interstate commerce,...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

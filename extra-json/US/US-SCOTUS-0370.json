@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0370",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0370",
+    "summary": "1 In 1947 petitioner Michelson was convicted of bribing a federal revenue agent.1 The Government proved a large payment by accused to the agent for the purpose of influencing his official action. The defendant, as a witness on his own behalf, admitted passing the money but claimed it was done in ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

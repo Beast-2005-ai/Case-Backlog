@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1087",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1087",
+    "summary": "Rajesh Kumar Sondhiya was arrested in connection with a case involving looting of two vehicles. He had previously withdrawn a bail application and later filed a fresh one under Section 439 CrPC.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

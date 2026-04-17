@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0432",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0432",
+    "summary": "1 This is a suit against the United States under the Federal Tort Claims Act, 28 U.S.C. The question is whether members of the United States armed forces can recover under that Act for injuries not incident to their service.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

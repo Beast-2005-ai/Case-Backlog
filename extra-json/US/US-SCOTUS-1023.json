@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1023",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1023",
+    "summary": "1 In 1829 this Court decided in Weston v. 481, that obligations of the Federal Government are immune from state taxation.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

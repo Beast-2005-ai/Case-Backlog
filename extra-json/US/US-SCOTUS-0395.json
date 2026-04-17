@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0395",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0395",
+    "summary": "1 This is a civil contempt proceeding arising out of Walling v. The District Court had held that none of respondent's employees in specified classes were covered by Fair Labor Stand rds Act.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

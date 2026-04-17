@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0503",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0503",
+    "summary": "44, to review a decision of the Court of Appeals for the Fifth Circuit, 174 F.2d 7, affirming judgments of the District Court for the Southern District of Florida in favor of the United States on claims arising under the Federal Tort Claims Act. Before argument, petitioners and the Solicitor Gene...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

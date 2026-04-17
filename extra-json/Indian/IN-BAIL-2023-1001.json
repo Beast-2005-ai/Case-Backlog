@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1001",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-1001",
+    "summary": "The informant alleged that the petitioner purchased cattle feed worth over \u20b975 lakhs over 4\u20135 years, but stopped payments in the last 2\u20133 years. On 16 June 2022, the petitioner allegedly threatened the informant with a pistol and demanded \u20b91 crore as extortion.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

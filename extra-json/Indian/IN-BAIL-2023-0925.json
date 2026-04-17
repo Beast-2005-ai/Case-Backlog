@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0925",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0925",
+    "summary": "The petitioner was arrested in April 2015 in connection with an attempt to murder case involving alleged use of firearms. He remained in custody for over two and a half years.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1025",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1025",
+    "summary": "1 This case involves, primarily, the coverage of the agriculture exemption1 of the Fair Labor Standards Act of 1938, 52 Stat. The petitioners are 31 employees of respondent corporation,2 which is engaged in the growing, harvesting and processing of sugar cane at its plantation in the Territory of...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

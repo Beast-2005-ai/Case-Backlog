@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0926",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0926",
+    "summary": "Mayaram Sharma was arrested on 17/08/2020 for alleged involvement in a shooting incident where co-accused Pankaj caused firearm injury. The allegation against Sharma was limited to exhortation without any direct assault.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

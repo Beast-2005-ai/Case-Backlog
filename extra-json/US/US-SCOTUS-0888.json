@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0888",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0888",
+    "summary": "1 This case involves the proper application of the notice provisions of the Longshoremen's and Harbor Workers' Compensation Act, 44 Stat. by a Deputy Commissioner to the claim of an employee admittedly subject to the provisions of the Act.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1054",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1054",
+    "summary": "1 The motion of California to join the States of Colorado and Wyoming as parties to this cause is denied. The motion to join Utah and New Mexico as parties is granted only to the extent of their interest in Lower Basin waters.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

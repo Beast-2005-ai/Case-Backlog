@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0742",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0742",
+    "summary": "1 The Supreme Court of Alabama upheld a peremptory writ of mandamus requiring the petitioner, the chairman of that state's Executive Committee of the Democratic Party, to certify respondent Edmund Blair, a member of that party, to the Secretary of State of Alabama as a candidate for Presidential ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

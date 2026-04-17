@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0517",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0517",
+    "summary": "1 This action by a lessee of coal-mining rights in public lands seeks to prevent leasing of similar rights in other lands to a competitor. The case is before us only on pleadings.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

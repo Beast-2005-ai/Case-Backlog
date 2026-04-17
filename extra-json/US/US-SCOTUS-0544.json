@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0544",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0544",
+    "summary": "1 This controversy questions the constitutional sufficiency of notice to beneficiaries on judicial settlement of accounts by the trustee of a common trust fund established under the New York Banking Law, Consol.Laws, c. The New York Court of Appeals considered and overruled objections that the st...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

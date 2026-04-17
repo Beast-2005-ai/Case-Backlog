@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1003",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1003",
+    "summary": "Sumit Mehta was accused in a criminal case under IPC sections related to cheating and forgery. While the Delhi High Court had granted anticipatory bail, it imposed a condition requiring the accused to deposit Rs.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

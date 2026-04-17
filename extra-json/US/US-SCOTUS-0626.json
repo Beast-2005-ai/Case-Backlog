@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0626",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0626",
+    "summary": "1 The Federal Food, Drug, and Cosmetic Act authorizes the United States to bring a libel against any article of food which is 'misbranded' when using the channels of interstate commerce. The Act defines 'misbranded' in the eleven paragraphs of \u00a7 403.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

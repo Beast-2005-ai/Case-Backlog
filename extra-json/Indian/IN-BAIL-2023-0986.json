@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0986",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0986",
+    "summary": "Madan was arrested in an extortion case where the prosecutrix allegedly filed a false FIR under Section 376 IPC to blackmail and demand Rs. 50 lakhs from the complainant for withdrawal.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

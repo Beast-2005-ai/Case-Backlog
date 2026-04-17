@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0840",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0840",
+    "summary": "1 This case involves the question of whether the Town of Walpole, New Hampshire, or the Federal Government has the prior right to a fund in the hands of a state court receiver of the respondent-taxpayer, an insolvent corporation. The Supreme Court of New Hampshire held the Town was entitled to pr...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

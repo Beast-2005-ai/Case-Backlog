@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0825",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0825",
+    "summary": "1 The petitioner Thomas sued the respondent Hempt Brothers in a Pennsylvania Court of Common Pleas to recover overtime wages, liquidated damages, and counsel fees under the provisions of \u00a7\u00a7 6, 7 and 16(b) of the Fair Labor Standards Act.* The complaint alleged these facts: Hempt Brothers operate ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

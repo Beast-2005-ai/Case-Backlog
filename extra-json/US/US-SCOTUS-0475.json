@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0475",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0475",
+    "summary": "1 On August 3, 1945, at Old Point Comfort, Virginia, petitioners, Mrs. Stinemeyer, purchased tickets and embarked as passengers on the Meteor, a steamboat owned by the United States through the War Shipping Administration and operating between Norfolk, Virginia, and Washington, D.C.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

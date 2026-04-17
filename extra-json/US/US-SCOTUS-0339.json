@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0339",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0339",
+    "summary": "1 This case adds another chapter to the body of law growing out of the Fourth Amdndment to the Constitution of the United States. That Amendment provides: 'The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

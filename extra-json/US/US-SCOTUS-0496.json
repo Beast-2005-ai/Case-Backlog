@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0496",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0496",
+    "summary": "1 In December 1945, 112 of the 117 employees of an oil company, including petitioners, went out on strike. About five o'clock one afternoon, petitioners, with several other strikers, assembled near the plant's entrance.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

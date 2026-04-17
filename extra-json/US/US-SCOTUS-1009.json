@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1009",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1009",
+    "summary": "In this case we have to decide the question whether, under similar circumstances, a union has open to it, without resorting to the appellate procedures of the State and eventually of this Court, jurisdiction of a federal district court to enjoin the employer from pursuing his action in the state ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

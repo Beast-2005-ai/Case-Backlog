@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1191",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1191",
+    "summary": "Ayub Khan was accused of participating in a robbery where the complainant, returning from Bangalore with \u20b945,000, was attacked at night by multiple individuals on motorcycles. He was beaten and his money was snatched.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

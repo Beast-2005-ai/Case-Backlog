@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0540",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0540",
+    "summary": "1 Section 3 of the Railway Labor Act confers jurisdiction on the National Railway Adjustment Board to hold hearings, make findings, and enter awards in all disputes between carriers and their employees 'growing out of grievances or out of the interpretation or application of agreements concerning...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

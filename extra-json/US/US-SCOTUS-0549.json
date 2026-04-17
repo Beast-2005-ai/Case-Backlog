@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0549",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0549",
+    "summary": "995 INTERNATIONAL BROTHERHOOD OF TEAMSTERS, CHAUFFEURS, WAREHOUSEMEN & HELPERS UNION, LOCAL 309, et al.v.HANKE et al. AUTOMOBILE DRIVERS & DEMONSTRATORS LOCAL UNION NO.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

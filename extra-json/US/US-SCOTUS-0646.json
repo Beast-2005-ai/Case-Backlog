@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0646",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0646",
+    "summary": "1 These actions involve questions concerning the precise scope of rights to employment in the federal service granted by the Veterans' Preference Act of 1944. The ultimate issues are two: (1) whether under \u00a7 12 of the Act veterans with temporary war-service appointments are entitled to retention ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

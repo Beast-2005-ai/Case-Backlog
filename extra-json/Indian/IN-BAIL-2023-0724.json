@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0724",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0724",
+    "summary": "Rajendra Sah and his co-petitioner were accused in a criminal case arising from a public protest against the kidnapping of a girl. The protest allegedly escalated to road blockage and violence against authorities.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

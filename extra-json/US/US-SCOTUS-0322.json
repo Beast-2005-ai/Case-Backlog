@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0322",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0322",
+    "summary": "1 This case involves questions as to the application of the overtime provisions of the Fair Labor Standards Act1 to certain persons who worked in a government-owned plant in which respondent produced munitions under a cost-plus-fixed-fee contract with the War Department. It involves such subsidia...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

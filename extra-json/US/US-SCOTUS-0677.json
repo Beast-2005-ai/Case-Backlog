@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0677",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0677",
+    "summary": "1 Petitioner, a seaman, brought this suit in admiralty alleging in the first count a cause of action based on negligence and unseaworthiness, while in the second count he sought maintenance and cure. He alleged the actionable wrongs to have taken place in November and December of 1945, but he did...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

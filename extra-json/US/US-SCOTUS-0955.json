@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0955",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0955",
+    "summary": "1 Petitioner brought this action for divorce in the Virgin Islands. Following argument and submission of the case in this Court, we were authoritatively advised that a final divorce decree had been entered on April 28, 1954, in the State of Connecticut on application of the respondent.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

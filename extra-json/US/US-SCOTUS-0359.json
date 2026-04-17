@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0359",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0359",
+    "summary": "Escanaba Victory, a vessel owned by the United States and operated under an agreement between the War Shipping Administration1 and the American-South African Line, Inc., the provisions of which are unnecessary to relate here. He was injured while the vessel was docked at the port of San Francisco...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

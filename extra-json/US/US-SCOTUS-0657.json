@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0657",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0657",
+    "summary": "1 William Brandhove brought this action in the United States District Court for the Northern District of California, alleging that he had been deprived of rights guaranteed by the Federal Constitution. Tenney and other members of a committee of the California Legislature, the Senate Fact-Finding ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

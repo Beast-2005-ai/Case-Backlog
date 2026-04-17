@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0963",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0963",
+    "summary": "1 Petitioner is held in the custody of respondent, Warden of the Tennessee State Penitentiary, under a sentence of life imprisonment as an habitual criminal. Challenging the validity of that sentence under the Fourteenth Amendment, he commenced this action in the Tennessee courts to obtain his fr...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

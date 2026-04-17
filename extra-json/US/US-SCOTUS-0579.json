@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0579",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0579",
+    "summary": "1 The United States filed a complaint on two counts against the respondent, alleging violations of a regulation fixing the maximum price of commodities which respondent sold. The first count prayed for an injunction, the second sought treble damages.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

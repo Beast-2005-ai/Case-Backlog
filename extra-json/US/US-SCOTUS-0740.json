@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0740",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0740",
+    "summary": "1 Section 20 of the Immigration Act of 1917, as amended, 39 Stat. \u00a7 156, contains provisions designed to expedite the deportation of aliens.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

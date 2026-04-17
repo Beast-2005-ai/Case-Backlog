@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1066",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1066",
+    "summary": "On 29 September 2018, police recovered 289 kg of dry ganja from the house of Tapan Sarkar, who claimed he was storing it on behalf of Pritam Roy. Further arrests were made of individuals allegedly waiting to purchase the contraband.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0285",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0285",
+    "summary": "Amit Kumar Vishwakarma was arrested in connection with a bank robbery case. He had been in custody since 22.02.2023.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

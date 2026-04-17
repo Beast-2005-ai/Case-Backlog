@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0968",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0968",
+    "summary": "1 This case concerns the Louisiana direct action statute. This Court has today had occasion to test that statute against certain claims of unconstitutionality, Watson v.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0407",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0407",
+    "summary": "Lal Singh was implicated in a kidnapping case where a child was abducted and ransom demanded. He was accused of providing the vehicle used in the crime and was not named in the initial FIR.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

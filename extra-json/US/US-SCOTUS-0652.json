@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0652",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0652",
+    "summary": "1 Petitioner and respondent are public electric utilities companies engaged in interstate commerce. Petitioner's predecessor and respondent were under the same management through interlocking directorships and joint officers.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

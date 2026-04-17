@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0213",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0213",
+    "summary": "Rakesh @ Hari Om was arrested in connection with the death of his wife, who allegedly died by hanging within 24 hours due to dowry harassment. Statements under Section 161 CrPC recorded from her family accused him of sustained harassment.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0252",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0252",
+    "summary": "Mange Lal was arrested during a police raid on 30 September 2020, following a robbery complaint from the day before involving theft of gold and silver ornaments. He was caught along with two co-accused on a motorcycle.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

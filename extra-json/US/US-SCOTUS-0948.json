@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0948",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0948",
+    "summary": "1 This case challenges the validity of segregation in the public schools of the District of Columbia. The petitioners, minors of the Negro race, allege that such segregation deprives them of due process of law under the Fifth Amendment.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

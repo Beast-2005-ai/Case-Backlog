@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0683",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0683",
+    "summary": "1 On December 2, 1943, the Circuit Court of Frederick County, Maryland, issued a certificate of naturalization to petitioner after proceedings that conformed with the requirements of the Nationality Act of 1940. Seven days later, and at the same term of court, the Government moved to vacate and s...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

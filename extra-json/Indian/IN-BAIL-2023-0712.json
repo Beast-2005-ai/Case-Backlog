@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0712",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0712",
+    "summary": "Shivasubramanyam, an investigative journalist, was arrested under IPC, Arms Act, and Explosive Substances Act provisions for allegedly harboring and assisting Veerappan's gang. He was accused of revealing hidden weapons and explosives in the forest and publishing photos of torture by the gang.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0541",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0541",
+    "summary": "1 The Georgia statute which appellants attack as violative of the Fourteenth and Seventeenth Amendments provides that county unit votes shall determine the outcome of a primary election.1 Each county is allotted a number of unit votes, ranging from six for the eight most populous counties, to two...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

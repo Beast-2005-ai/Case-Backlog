@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0373",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0373",
+    "summary": "1 Respondents are the executors and trustees of the estate of William Bate Williams. They brought this action for refund, with interest, of $35,899.12 of federal estate taxes and interest paid under protest.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0673",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0673",
+    "summary": "Mehrajuddin filed an anticipatory bail application under Section 438 CrPC in connection with Crime No. 14/2016 registered at Cyber Cell Police Station, District Gwalior.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0621",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0621",
+    "summary": "The applicant was accused of rape under Sections 376 and 376(2)(n) IPC by a woman who had a prior consensual relationship with him. She later married another man and filed domestic violence proceedings against him.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

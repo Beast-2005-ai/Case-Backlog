@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0223",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0223",
+    "summary": "Mahesh was arrested for the dowry death of his wife, who died by hanging. The prosecution alleged harassment for dowry based on a statement by the deceased\u2019s mother, who claimed the deceased had informed her of such harassment shortly before her death.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

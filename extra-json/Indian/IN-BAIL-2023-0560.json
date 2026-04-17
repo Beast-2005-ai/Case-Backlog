@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0560",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0560",
+    "summary": "Adarsh Pal Singh was apprehended upon arrival from Bangkok with fake Indian currency notes (FICN) concealed in a Sony LCD TV. He was arrested under the Customs Act and later charged under IPC sections related to counterfeiting.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

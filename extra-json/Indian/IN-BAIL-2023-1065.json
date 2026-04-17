@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1065",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1065",
+    "summary": "Sudhir Sarkar was arrested following a police raid at his residence based on secret information. The raid led to the recovery of 93.9 kg of dry cannabis leaves stored in plastic drums and bags.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

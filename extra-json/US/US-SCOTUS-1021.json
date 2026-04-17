@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1021",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1021",
+    "summary": "1 The respondent, Dauntless Towing Line, contracted to use two of its tugs in assisting the United States, petitioner here, move its steamship Christopher Gale from Hoboken to a Brooklyn pier. The Gale was to move under its own propelling power under guidance of one of respondent's tugboat captai...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

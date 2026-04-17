@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0830",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0830",
+    "summary": "1 The present suit was brought by the Federal Trial Examiners Conference,1 an unincorporated association of trial examiners, and by a number of individual trial examiners, against the members of the United States Civil Service Commission and the National Labor Relations Board. The plaintiffs, who...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

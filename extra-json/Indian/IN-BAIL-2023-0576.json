@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0576",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0576",
+    "summary": "Farman Ali was implicated in a wildlife smuggling case involving the illegal sale of tiger and leopard skins. Based on a sting operation by police and a wildlife expert, a deal was struck with the accused for the sale of ten tiger and ten leopard skins.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

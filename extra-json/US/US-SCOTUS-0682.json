@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0682",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0682",
+    "summary": "1 This Court is again called upon to determine the meaning of the 'finality clause' of a standard form government contract. Respondents agreed to build a dam for the United States under a contract containing the usual 'Article 15.'1 That Article provides that all disputes involving questions of f...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

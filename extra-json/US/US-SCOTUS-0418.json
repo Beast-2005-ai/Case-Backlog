@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0418",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0418",
+    "summary": "Filson brought this suit in the District Court for the District of Columbia, claiming a $6,000 interest in certain New Jersey realty. Fountain, the defendants, acquired title to this realty subject to a resulting trust in favor of the Filsons in that amount.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0845",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0845",
+    "summary": "1 In these cases we sustain the validity of collective-bargaining agreements whereby an employer, in determining relative seniority of employment among its employees, gives them credit for pre-employment military service as well as the credit required by statute for post-employment military servi...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

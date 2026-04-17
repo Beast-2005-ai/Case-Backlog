@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0764",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0764",
+    "summary": "1 Petitioner was convicted on a two-count indictment, one charging the substantive offense of selling a pound of opium in violation of 21 U.S.C. \u00a7\u00a7 173, 174, the other conspiring to sell the opium in violation of 18 U.S.C.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

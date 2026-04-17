@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0799",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0799",
+    "summary": "Two trucks owned by the petitioners were found transporting illegally extracted sand without valid documents or permits. The drivers were arrested on the spot, and the petitioners claimed the trucks were operated without their consent.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1075",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1075",
+    "summary": "Akhand Pratap Singh, a former Chief Secretary of U.P., was arrested by the CBI in a corruption and forgery case involving benami properties and forged documents. The CBI sought cancellation of his bail, claiming he influenced witnesses and fabricated evidence.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

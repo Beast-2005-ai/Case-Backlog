@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0498",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0498",
+    "summary": "1 Section 1700(a)(1) of the Internal Revenue Code, as amended, 26 U.S.C.A. \u00a7 1700(a)(1), provides for the imposition, except as to certain classes of persons under circumstances not important here, of 'A tax of 1 cent for each 10 cents or fraction thereof of the amount paid for admission to any p...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0656",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0656",
+    "summary": "1 The Southern Railway Company, appellee, brought this action in the Federal District Court to enjoin the members of the Alabama Public Service Commission and the Attorney General of Alabama, appellants, from enforcing laws of Alabama prohibiting discontinuance of certain railroad passenger servi...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

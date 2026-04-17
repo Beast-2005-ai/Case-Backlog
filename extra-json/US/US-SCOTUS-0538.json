@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0538",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0538",
+    "summary": "1 This case raises the same statutory question as Slocum v. The petitioner, Order of Railway Conductors, is the only accredited bargaining representative of conductors employed by the respondent Southern Railway.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0847",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0847",
+    "summary": "1 This is an appeal under the Criminal Appeals Act, 18 U.S.C. \u00a7 3731, from an order of the District Court dismissing an indictment.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

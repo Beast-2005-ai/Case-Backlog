@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0956",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0956",
+    "summary": "Deepak Dabas, a repeat offender, was granted interim bail in 9 serious criminal cases to facilitate his marriage. The State challenged this bail, arguing the accused was involved in more than 20 cases including multiple murders, robberies, and extortion.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

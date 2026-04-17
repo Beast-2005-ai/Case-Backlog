@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0487",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0487",
+    "summary": "29, the issue is whether, under the Selective Training and Service Act of 1940,1 one year of reemployment of a veteran by his preservice employer terminated that veteran's right to the seniority to which he was entitled by virtue of that Act's treatment of him as though he had remained continuous...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

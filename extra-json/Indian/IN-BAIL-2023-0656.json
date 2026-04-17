@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0656",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0656",
+    "summary": "Umar was implicated in the theft of Rs. 14.60 lakh from an ATM without physical damage.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

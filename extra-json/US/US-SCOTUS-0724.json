@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0724",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0724",
+    "summary": "1 Appellants, on behalf of themselves and other Negroes 'similarly situated,' sued in the District Court to enjoin appellees from alleged violations of the Fourteenth Amendment in refusing to admit Negroes to the University of Tennessee. A three-judge court, convened at appellants' request, held ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

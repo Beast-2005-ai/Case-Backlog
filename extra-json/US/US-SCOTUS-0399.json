@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0399",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0399",
+    "summary": "1 Certain labor legislation of the State of Wisconsin,1 as applied by its Supreme Court, is challenged because it is said to transgress constitutional limitations imposed by the Thirteenth and Fourteenth Amendments and by the Commerce Clause2 as implemented by the National Labor Relations Act3 an...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0415",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0415",
+    "summary": "The accused, a senior state government engineer, was allegedly involved in laundering demonetized currency worth Rs. 6.12 crore through intermediaries.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

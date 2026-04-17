@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0361",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0361",
+    "summary": "1 This was a suit in the United States District Court for the Eastern District of Pennsylvania in which the petitioner claimed damages under the Federal Employers' Liability Act1 and the Boiler Inspection Act2 for the death of her husband while in the respondent's employ as a brakeman. 2 In respo...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

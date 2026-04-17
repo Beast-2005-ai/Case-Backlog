@@ -15,8 +15,10 @@ QUEUE_PATH = os.path.join(BASE_DIR, "master_queue.txt")
 MODEL_PATH = os.path.join(BASE_DIR, "priority_model.pkl")
 CONFIG_PATH = os.path.join(BASE_DIR, "system_config.json")
 
+device = "cuda" if torch.cuda.is_available() else "cpu"
+
 chroma_client = chromadb.PersistentClient(path=DB_PATH)
-gpu_embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2", device="cuda")
+gpu_embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2", device=device)
 collection = chroma_client.get_collection(name="legal_precedents", embedding_function=gpu_embedding_function)
 
 BASE_URGENCY_KEYWORDS = {

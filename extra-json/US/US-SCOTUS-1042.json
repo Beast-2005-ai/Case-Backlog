@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1042",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1042",
+    "summary": "1 This action was instituted by petitioner in the District Court for the District of Columbia. The principal relief sought is a declaration that petitioner's removal and debarment from federal employment were invalid.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

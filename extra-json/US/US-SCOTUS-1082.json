@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1082",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1082",
+    "summary": "1 On November 10, 1954, the United States Attorney for the Southern District of New York filed an application under the Immunity Act of 1954, 68 Stat. \u00a7 3486, for an order requiring petitioner to testify before a grand jury.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

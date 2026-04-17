@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0313",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0313",
+    "summary": "1 This is a companion case to United States v. 941, and is here by way of appeal from the District Court.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

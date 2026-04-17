@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0827",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0827",
+    "summary": "1 These suits under the Tort Claims Act1 arise from the death of three civilians in the crash of a B\u201429 aircraft at Waycross, Georgia, on October 6, 1948. 2 The aircraft had taken flight for the purpose of testing secret electronic equipment, with four civilian observers aboard.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

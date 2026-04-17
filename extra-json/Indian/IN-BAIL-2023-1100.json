@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1100",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-1100",
+    "summary": "The petitioner was detained under the MPDA Act as a 'dangerous person' due to his alleged involvement in over a dozen criminal cases including robbery and extortion. He was accused of robbing a wine shop owner and threatening extortion.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

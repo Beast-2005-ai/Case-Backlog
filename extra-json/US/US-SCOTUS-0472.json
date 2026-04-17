@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0472",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0472",
+    "summary": "1 Brinegar was convicted of importing intoxicating liquor into Oklahoma from Missouri in violation of the federal statute which forbids such importation contrary to the laws of any state.1 His conviction was based in par on the use in evidence against him of liquor seized from his automobile in t...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

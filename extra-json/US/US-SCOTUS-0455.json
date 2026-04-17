@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0455",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0455",
+    "summary": "1 In 1945 the National Labor Relations Board, petitioner here, issued its complaint charging respondent with the commission of certain unfair labor practices in the course of operating its fleet of Great Lakes bulk cargo vessels. As developed at a hearing before a trial examiner, the Board's char...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0809",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0809",
+    "summary": "1 Respondent is a producer and distributor of advertising motion pictures which depict and describe commodities offered for sale by commercial establishments. Respondent contracts with theatre owners for the display of these advertising films and ships the films from its place of business in Loui...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

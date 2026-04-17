@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0407",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0407",
+    "summary": "52, Stainback, Governor of the Territory of Hawaii, et al. 474, a case with the same short title, seek review of a judgment of the District Court of the United States for the District of Hawaii.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

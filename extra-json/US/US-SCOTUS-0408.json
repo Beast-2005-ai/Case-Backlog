@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0408",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0408",
+    "summary": "1 The District Court, after trial, has denied the Government's plea for an injunction, and other relief, against appellees under the Sherman Act.1 75 F.Supp. The cause is brought here by direct appeal, as Congress has authorized.2 Defendants below and appellees here are an unincorporated trade as...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

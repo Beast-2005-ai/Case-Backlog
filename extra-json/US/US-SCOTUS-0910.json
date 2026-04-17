@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0910",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0910",
+    "summary": "3 The argument of Ohio and New York that the government may establish censorship over moving pictures is one I cannot accept. In 1925 Minnesota passed a law aimed at suppressing before publication any 'malicious, scandalous and defamatory newspaper'.1 The Court, speaking through Chief Justice Hug...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

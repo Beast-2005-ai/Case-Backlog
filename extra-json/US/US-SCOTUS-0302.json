@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0302",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0302",
+    "summary": "1 The Circuit Court of Appeals for the Tenth Circuit, acting under Judicial Code \u00a7 239, 28 U.S.C. \u00a7 346, has certified the following question for our determination: '(1) Is the United States a necessary party to a proceeding to determine the heirship of a deceased citizen allottee of the Five Civ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

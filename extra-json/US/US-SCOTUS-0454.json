@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0454",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0454",
+    "summary": "1 This case was brought in the District Court for Mississippi on the grounds of diversity of citizenship. Respondent, a Tennessee corporation, sued petitioner, a resident of Mississippi, for a broker's commission alleged to be due for the sale of real estate of petitioner in Mississippi.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

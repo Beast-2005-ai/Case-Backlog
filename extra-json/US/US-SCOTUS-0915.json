@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0915",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0915",
+    "summary": "455 RADIO OFFICERS' UNION OF COMMERCIAL TELEGRAPHERS UNION, A.F.L.v.NATIONAL LABOR RELATIONS BOARD. INTERNATIONAL BROTHERHOOD OF TEAMSTERS, CHAUFFEURS, WAREHOUSEMEN & HELPERS OF AMERICA et al.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

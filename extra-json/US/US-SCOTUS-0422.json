@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0422",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0422",
+    "summary": "1 The question in this case is whether the Civil Aeronautics Board has authority to fix a new mail rate for air carriers and to make it retroactive for a period in which a final rate previously fixed by the Board was in effect and unchallenged by the initiation of a mail rate proceeding. The answ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

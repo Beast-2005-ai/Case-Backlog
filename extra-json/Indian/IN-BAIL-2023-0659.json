@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0659",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0659",
+    "summary": "Anil Rajan Nair was granted conditional bail in 2007 in a cybercrime case. The prosecution later sought cancellation of bail due to his non-cooperation.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

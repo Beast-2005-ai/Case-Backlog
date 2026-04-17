@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0521",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0521",
+    "summary": "1 This is a controversy as to the power of the Federal Trade Commission to require corporations to file reports showing how they have complied with a decree of the Court of Appeals enforcing the Commission's cease and desist order, in addition to those reports required by the decree itself. 2 Pro...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

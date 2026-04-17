@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0591",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0591",
+    "summary": "1 This is a companion case to Cities Service Gas Co. Appellant a producer in the Guymon-Hugoton Field, owning leases on approximately 183,000 acres, but unlike Cities Service it does not purchase from other producers in this field.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

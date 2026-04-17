@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0621",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0621",
+    "summary": "1 This action, brought under the Federal Employers' Liability Act1 in the United States District Court for the Eastern District of Virginia on behalf of a surviving widow and children, charged negligence against respondent railroad in the death of petitioner's decedent, who was acting in the cour...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

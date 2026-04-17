@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0600",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0600",
+    "summary": "1 These cases test the validity of the Securities and Exchange Commission's finding that a plan of reorganization is 'fair and equitable' within the meaning of \u00a7 11 of the Public Utility Holding Company Act of 1935,1 although the plan makes no provision for the participaton of outstanding stock o...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

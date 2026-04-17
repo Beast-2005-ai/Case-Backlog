@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0739",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0739",
+    "summary": "1 Petitioner has been convicted of first degree murder and sentenced to death. He asks this Court to reverse his conviction as wanting in that due process of law guaranteed against state encroachment by the Fourteenth Amendment.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

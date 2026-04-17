@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0595",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0595",
+    "summary": "Pujar, a Deputy Superintendent of Police, was the investigating officer in an NDPS case involving digital evidence. He was accused of tampering with seized electronic gadgets (MacBooks, hard drives, etc.) after their seizure while they were supposed to be sealed.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

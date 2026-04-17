@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0806",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0806",
+    "summary": "To implicate the two petitioners, it relied principally on one Marshall, who, in Detroit, had pleaded guilty to unlawful possession of the film. Marshall testified that he and a codefendant, Swartz, who died before trial, on several occasions had driven from Detroit to Chicago and back.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

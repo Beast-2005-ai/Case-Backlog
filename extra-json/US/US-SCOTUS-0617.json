@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0617",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0617",
+    "summary": "1 These appeals, by the Interstate Commerce Commission, and by the intervenor, Regular Common Carrier Conference of American Trucking Associations, Inc., from the judgment of a three-judge federal district court setting aside two orders of the Interstate Commerce Commission, and entering a perman...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1063",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1063",
+    "summary": "1 Petitioner was indicted for the unlawful acquisition of marihuana in violation of 26 U.S.C. The indictment, found in September 1953, was based on evidence obtained by a search warrant issued by a United States Commissioner, as authorized by Rule 41(a) of the Rules of Criminal Procedure, 18 U.S....",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

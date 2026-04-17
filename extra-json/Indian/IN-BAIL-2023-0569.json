@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0569",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0569",
+    "summary": "Poonam Devi, mother-in-law of co-accused Neha, was accused in a case involving the kidnapping of a minor child. She was not named in the FIR and her involvement was based solely on the alleged confessional statement of another accused, Usha, who was already granted bail.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

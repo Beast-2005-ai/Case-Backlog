@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0543",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0543",
+    "summary": "Chowdarapu Raghunandan was arrested at Chennai Airport with mobile phones and accessories valued at Rs. 13.9 lakhs, allegedly brought from Singapore.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

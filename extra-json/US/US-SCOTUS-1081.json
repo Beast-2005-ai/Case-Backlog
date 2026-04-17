@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1081",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1081",
+    "summary": "1 The Interstate Commerce Commission brings an appeal from a three-judge district court, 49 U.S.C. \u00a7 305(g), that reversed an order of the ICC, 62 M.C.C.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0677",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0677",
+    "summary": "Vineet Jhavar was accused of participating in a cyber extortion scam where victims were lured via fraudulent loan apps. Upon installation, the app accessed users' personal data and contacts.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

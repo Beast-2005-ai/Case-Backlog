@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1028",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-1028",
+    "summary": "The complainant was abducted by a group under the pretext of purchasing medicines, taken to a deserted place and tortured. He was threatened with false implication in cases involving firearms and black-market Remdesivir injections.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

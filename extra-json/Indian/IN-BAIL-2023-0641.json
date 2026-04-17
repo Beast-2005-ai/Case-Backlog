@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0641",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0641",
+    "summary": "Pintu Kumar was accused in a cybercrime case involving forgery and cheating, but the FIR contained general allegations without specific accusations against him. He maintained clean antecedents and assured the court of full cooperation with the investigation.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

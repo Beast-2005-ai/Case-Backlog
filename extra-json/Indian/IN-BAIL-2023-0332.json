@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0332",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0332",
+    "summary": "Muhsin Ali was arrested after 5 grams of heroin were recovered from a hotel room where he stayed with co-accused. His disclosure led to the interception of a 980g heroin parcel.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0924",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0924",
+    "summary": "Four accused were charged with a double murder committed with deadly weapons and in furtherance of common object. Two of the accused were initially absconding and later granted bail improperly without being taken into custody.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

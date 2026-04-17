@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0983",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0983",
+    "summary": "Neeraj was arrested in connection with a case where the prosecutrix allegedly filed a false rape FIR and then, along with family members, tried to extort Rs. 50 lakhs from the complainant to withdraw the case.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

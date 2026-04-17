@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0769",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0769",
+    "summary": "Sameer Taj Khan was implicated in a case under MCOCA involving extortion allegedly planned during a birthday party attended by over 200 guests. The FIR originally named only Riyaz Bhati and Salim Fruit, with Sameer added later based on supplementary witness statements alleging a conspiracy.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

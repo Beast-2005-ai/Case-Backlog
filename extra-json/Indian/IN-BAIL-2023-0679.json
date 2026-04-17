@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0679",
+    "timestamp": "2023-01-01",
+    "case_type": "Corporate / IP",
+    "title": "High Court Bail Docket IN-BAIL-2023-0679",
+    "summary": "Rafikul Islam, a businessman from Assam, discovered unauthorized transactions in his business bank account and reported it to his bank. Subsequently, he received a notice from Karnataka Police regarding a cybercrime case registered in Telangana under IPC Section 420 and Section 66(D) of the I.T.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

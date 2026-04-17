@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0705",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0705",
+    "summary": "1 This is a case brought under \u00a7 9(a) of the Trading with the Enemy Act, 40 Stat. \u00a7 1 et seq., 50 U.S.C.A.Appendix, \u00a7 1 et seq.,1 to recover property vested by the Alien Property Custodian.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

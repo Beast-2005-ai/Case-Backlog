@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0866",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0866",
+    "summary": "1 Respondent, an Iowa corporation which publishes Look magazine, maintains no offices in Florida, but sells its magazines to two independent wholesale companies which distribute them to retailers in Florida. Respondent does employ two 'circulation road men' whose job is to check retail outlets in...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

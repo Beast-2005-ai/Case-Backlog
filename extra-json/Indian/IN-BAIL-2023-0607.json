@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0607",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0607",
+    "summary": "Ataul Ansari was arrested for defrauding a woman of \u20b923 lakhs via phishing. He was not named in the FIR but added after a supplementary statement based on hearsay.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

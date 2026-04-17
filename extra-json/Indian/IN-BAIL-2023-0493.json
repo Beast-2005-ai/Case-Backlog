@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0493",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0493",
+    "summary": "Rajadurai, convicted in a prior POCSO case involving the complainant (his now-wife), was granted anticipatory bail in a subsequent FIR for domestic violence and threats. The complainant sought cancellation of this bail, citing suppression of prior conviction and continued harassment.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

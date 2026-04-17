@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0367",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0367",
+    "summary": "On the basis of a tip-off, the NCB seized a parcel at DHL Express in Delhi containing 677 grams of Ketamine hidden inside ladies purses. The parcel was booked using fake documents.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

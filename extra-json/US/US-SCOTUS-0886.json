@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0886",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0886",
+    "summary": "1 For present purposes the facts may be briefly stated. The railroad brought suit in the United States District Court for the Western District of Kentucky against Olberding, the owner of a truck, which, while on temporary business in Kentucky, collided with an overpass of the railroad, causing a ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

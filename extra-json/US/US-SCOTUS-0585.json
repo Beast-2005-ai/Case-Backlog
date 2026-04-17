@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0585",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0585",
+    "summary": "1 These are admiralty proceedings involving the Government's liability on a policy of war risk insurance by which it insured petitioner's steam tanker John Worthington against 'all consequences of hostilities or warlike operations.'1 Stipulated facts show that on December 16, 1942, there was a co...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

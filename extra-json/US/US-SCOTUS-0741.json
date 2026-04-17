@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0741",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0741",
+    "summary": "1 Petitioner sued in the District Court for the District of Columbia for the return of certain of its property vested by the Alien Property Custodian in 1942 under the Trading with the Enemy Act of 1917, 40 Stat. 411, as amended by the First War Powers Act, 1941, 55 Stat.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0532",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0532",
+    "summary": "1 On December 5, 1947, petitioner filed suit in the Court of Claims to recover just compensation for certain of its properties in the Philippine Islands which the United States had allegedly requisitioned for military purposes. On March 24, 1948, petitioner filed an amended petition, including fo...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

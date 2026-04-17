@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0907",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0907",
+    "summary": "1 This case for sale of a vessel and partition of the proceeds pursuant to a California statute began in the Superior Court of San Diego, the home port of the vessel. The plaintiffs were eight individuals including Edward, Anthony, and Joseph Madruga.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

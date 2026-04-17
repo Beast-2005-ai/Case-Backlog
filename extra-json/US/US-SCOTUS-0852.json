@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0852",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0852",
+    "summary": "1 These are appeals from the Supreme Court of Tennessee, affirming a Chancery Court judgment for some $196,000 in favor of the State Commissioner of Finance and Taxation, against Esso Standard Oil Co., the party of record in No. Ultimately liable, the United States intervened in that litigation a...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

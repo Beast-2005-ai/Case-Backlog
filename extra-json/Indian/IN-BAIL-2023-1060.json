@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1060",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1060",
+    "summary": "Paras Singh was found in possession of 288 capsules of Spas Trancan Plus containing 14.4g of Tramadol and 100 bottles (10 liters) of Onerex cough syrup containing Codeine. This quantity qualifies as commercial under NDPS.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

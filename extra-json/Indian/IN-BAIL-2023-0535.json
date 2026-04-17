@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0535",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0535",
+    "summary": "The petitioner alleged that the respondent Karuthapandi and his son took Rs. 7,00,000 promising a job at Madurai Kamaraj University and issued a forged appointment letter.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

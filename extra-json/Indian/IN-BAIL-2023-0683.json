@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0683",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0683",
+    "summary": "Parmod Devgan was booked under various IPC sections and Section 66-D of the Information Technology Act in a cyber crime case. The FIR alleged financial wrongdoing.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

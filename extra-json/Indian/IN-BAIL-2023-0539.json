@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0539",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0539",
+    "summary": "Rajesh Gulati was arrested for smuggling 40 mobile phones hidden in a microwave oven. He was alleged to have travelled multiple times to Dubai under instructions from his employer.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

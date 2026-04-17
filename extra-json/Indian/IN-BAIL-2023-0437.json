@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0437",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0437",
+    "summary": "Umesh Agarwal was accused in a case related to illegal mining and coal transaction under Nawadih P.S. The FIR alleged involvement in handling or dealing in stolen property.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

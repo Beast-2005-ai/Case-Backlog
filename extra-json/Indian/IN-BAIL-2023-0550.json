@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0550",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0550",
+    "summary": "Martins Hans Peter, a German national, was found at Calcutta airport carrying 26 gold tablets weighing 3742.4 grams without legal documents. Initially denied, he later admitted to intending to carry the gold to Zurich.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

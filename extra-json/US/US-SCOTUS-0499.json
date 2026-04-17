@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0499",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0499",
+    "summary": "1 We are faced again with elusive questions of property valuation in determining whether the United States awarded 'just compensation' under the Fifth Amendment when it took the respondent's car ferry, the Maitland No. 1, under the authority of \u00a7 902 of the Merchant Marine Act of 1936, as amended...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

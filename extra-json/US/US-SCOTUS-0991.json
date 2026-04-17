@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0991",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0991",
+    "summary": "1 In this case the United States District Court directed a verdict for respondent because petitioner failed to present evidence of either a breach of contract or resulting damages sufficient to sustain a verdict for petitioner. The Court of Appeals, however, affirmed the judgment on the ground th...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0855",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0855",
+    "summary": "1 Respondent, a Missouri corporation, owns a leasehold of a plot of ground together with an office building erected on it. In 1942 the Commissioner assessed deficiencies against respondent for the taxable years 1933, 1938, and 1939, determining that it had claimed an excessive value as its basis ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

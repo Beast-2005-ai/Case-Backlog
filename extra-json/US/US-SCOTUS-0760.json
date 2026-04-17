@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0760",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0760",
+    "summary": "1 Petitioner is a musician and composer who between the years 1936 and 1939 composed a symphony. Reichhold, a philanthropist, established a music award offering $25,000, $5,000, and $2,500 for the three best symphonic works written by native-born composers of this hemisphere.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

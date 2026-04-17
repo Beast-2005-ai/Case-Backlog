@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0319",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0319",
+    "summary": "1 The Federal Trade Commission, after a hearing, found that the respondent, which manufacturers and sells table salt in interstate commerce, had discriminated in price between different purchasers of like grades and qualities, and concluded that such discriminations were in violation of \u00a7 2 of th...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0704",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0704",
+    "summary": "Krishna Kumar Yadav was arrested with 8 mobile phones, 44 ATM cards, cash, SIMs, and an ATM cloning machine. He was accused in multiple cyber fraud cases, including prior involvement in similar offenses and statements by victims alleging monetary loss via e-wallet transfers.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

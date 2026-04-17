@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0721",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0721",
+    "summary": "1 John Louis Nelson was killed when one of respondent's airliners crashed in Utah. Claiming $200,000 under the Utah wrongful death statute, petitioner brought this action in a United States district court in Illinois.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

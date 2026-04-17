@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0347",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0347",
+    "summary": "1 The Commonwealth of Pennsylvania holds petitioner prisoner under two indeterminate sentences, not exceeding 10 to 20 years, upon a plea of guilty to burglary and robbery. On review here of the State Supreme Court's denial of habeas corpus,1 the prisoner demands a discharge by this Court on fede...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

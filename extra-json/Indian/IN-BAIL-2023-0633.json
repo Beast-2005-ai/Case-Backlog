@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0633",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0633",
+    "summary": "Mukesh Mandal was arrested by Deoghar Cyber Police in a case related to cybercrime under several IPC and IT Act sections. A mobile phone was recovered from him.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

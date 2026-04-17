@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0707",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0707",
+    "summary": "1 The petitioner is charged with the violation of a regulation promulgated by the Interstate Commerce Commission under 18 U.S.C. \u00a7 835.1 The Regulation provides: 'Drivers of motor vehicles transporting any explosive, inflammable liquid, inflammable compressed gas, or poisonous gas shall avoid, so...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0309",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0309",
+    "summary": "Those respondents are: The Cement Institute, an unincorporated trade association composed of 74 corporations1 which manufacture, sell and distribute cement; the 74 corporate members of the Institute;2 and 21 individuals who are associated with the Institute. It took three years for a trial examin...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

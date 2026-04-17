@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0382",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0382",
+    "summary": "1 These cases, here on appeal from the Wisconsin Supreme Court, 28 U.S.C. 54, present the question whether a certification of a union by the Wisconsin Employment Relations Board, Wis.Stats.1947, ch.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0996",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0996",
+    "summary": "Sunil was accused of raping the prosecutrix in 2004 after luring her to a job interview under a false identity. The complaint was filed only in 2021, despite prior attempts in 2007 and 2019.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

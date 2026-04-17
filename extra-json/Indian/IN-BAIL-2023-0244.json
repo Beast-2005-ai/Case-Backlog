@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0244",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0244",
+    "summary": "Golu @ Goldi filed for release claiming he was a juvenile at the time of the offence committed in 2006. He submitted baptism and school certificates to prove his age.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

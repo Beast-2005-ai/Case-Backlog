@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0601",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0601",
+    "summary": "Shankar Kumar was implicated in a cybercrime case involving fraudulent activities using mobile phones. The main accused, Swapnil, was apprehended with incriminating materials, but did not name Shankar in his confession.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

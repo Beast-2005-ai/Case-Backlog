@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0983",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0983",
+    "summary": "1 The main question presented in this case is whether an action under the Jones Act survives the death of the tortfeasor. United States Trust Co., 188 F.2d 776, the Court of Appeals for the Second Circuit answered this question in the affirmative.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

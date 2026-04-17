@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0800",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0800",
+    "summary": "The petitioning Railroad had employed O'Rourke in its Harismus Cove Yard at Jersey City since 1942 as a 'freight brakeman.' He worked as part of a five-man crew making up trains. Their duties included work on the petitioner's car floats that moved freight and passenger cars from and to the Yard b...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

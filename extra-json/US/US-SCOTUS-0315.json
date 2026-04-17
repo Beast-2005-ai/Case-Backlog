@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0315",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0315",
+    "summary": "1 This controversy grows out of the voluntary merger of Chesapeake & Ohio Railway Company and Pere Marquette Railway Company, which companies, together with Alleghany Corporation, sought approval by the Interstate Commerce Commission. Pere Marquette is incorporated under the laws of Michigan, whi...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

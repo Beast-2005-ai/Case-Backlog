@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0769",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0769",
+    "summary": "Board of Education of Topeka et al., and No. Elliott et al., the appellants challenge, respectively, the constitutionality of a statute of Kansas, and a statute and the constitution of South Carolina, which provide for segregation in the schools of these states.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

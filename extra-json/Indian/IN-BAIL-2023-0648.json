@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0648",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0648",
+    "summary": "Muso Kumar @ Dhananjay Kumar and his uncle were accused in a cybercrime case involving forgery and impersonation. The FIR did not specify their role in detail and the allegations were general.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

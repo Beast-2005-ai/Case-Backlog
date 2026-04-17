@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0702",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0702",
+    "summary": "1 In its 1948 revision of the Judicial Code, Congress provided that prisoners in custody under sentence of a federal court may move the sentencing court to vacate, set aside or correct any sentence subject to collateral attack. \u00a7 2255.1 2 Respondent, confined at the McNeil Island penitentiary in ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

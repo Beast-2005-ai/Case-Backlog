@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0607",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0607",
+    "summary": "1 The essential issue raised by this case and its companion, National Labor Relations Board v. 453, infra, is the effect of the Administrative Procedure Act and the legislation colloquially known as the Taft-Hartley Act, 5 U.S.C.A.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

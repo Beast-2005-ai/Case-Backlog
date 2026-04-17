@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0492",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0492",
+    "summary": "1 Acting under the provisions of \u00a7 487 of the Revised Statutes, 35 U.S.C. \u00a7 11, the Commissioner of Patents found after hearings that petitioner, an attorney, had been guilty of gross misconduct, and entered an order barring him from practice before the United States Patent Office.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

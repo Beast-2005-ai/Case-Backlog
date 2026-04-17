@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0542",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0542",
+    "summary": "1 On February 18, 1943, the United States filed a petition in the United States District Court for the District of Massachusetts to condemn certain land and buildings in Springfield, Massachusetts, for use by the Army for a term initially ending June 30, 1943, with a right to renew for additional...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

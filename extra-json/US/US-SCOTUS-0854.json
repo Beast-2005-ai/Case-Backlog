@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0854",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0854",
+    "summary": "Hutton applied to the Interstate Commerce Commission for a permit to operate as a contract carrier by water between points on Long Island Sound, New York Harbor, the Hudson River, the New York State Barge Canal System, the Niagara River, and contiguous ports. In the alternative, he prayed a certi...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

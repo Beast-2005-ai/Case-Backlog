@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0526",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0526",
+    "summary": "1 This habeas corpus proceeding involves a single ultimate question\u2014whether administrative hearings in deportation cases must conform to requirements of the Administrative Procedure Act of June 11, 1946, 60 Stat. 2 Wong Yang Sung, native and citizen of China, was arrested by immigration officials...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

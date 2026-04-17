@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0601",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0601",
+    "summary": "1 Appellants are two members of the religious group known as Jehovah's Vitnesses. At the invitation of local coreligionists, they scheduled Bible talks in the public park of the city of Havre de Grace, Maryland.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

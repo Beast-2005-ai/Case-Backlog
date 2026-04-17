@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0780",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0780",
+    "summary": "1 The respondent is a fugitive from a prison in Alabama. The Governor of that State instituted proceedings for his return, and respondent was arrested in Ohio.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

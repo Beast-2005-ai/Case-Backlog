@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1067",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1067",
+    "summary": "1 Petitioner, an independent contractor in the business of unloading gasoline, was instructed by the consignee to unload a tank car of gasoline which had been hauled by respondent Atlantic Coast Line and which was located at the time on a siding in respondent's freight yards. In order to release ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0605",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0605",
+    "summary": "1 The question presented here is whether the National Labor Relations Board must deduct from back-pay awards to discriminatorily discharged employees sums paid to them as unemployment compensation by a state agency. 2 The Board found that respondent Gullett Gin Company had discharged certain empl...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

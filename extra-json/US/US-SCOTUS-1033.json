@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1033",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-1033",
+    "summary": "1 Petitioner, a native of Tunis, Africa, was ordered deported after a hearing pursuant to \u00a7 242(b) of the Immigration and Nationality Act of 1952, 66 Stat. It was found that he had been convicted in 1938 of violation of the Marihuana Tax Act, 26 U.S.C.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

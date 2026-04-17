@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0908",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0908",
+    "summary": "1 The petitioner, a Delaware corporation, owns and operates its railroad through Pottawattamie County, Iowa. It was authorized by the Interstate Commerce Commission to improve its line of railway in that county and by the Iowa State Commerce Commission to acquire by condemnation any land necessar...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

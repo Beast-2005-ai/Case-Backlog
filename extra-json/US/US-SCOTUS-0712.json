@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0712",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0712",
+    "summary": "1 Petitioner, a railroad fireman, was seriously injured when an engine in which he was riding jumped the track. Alleging that his injuries were due to respondent's negligence, he brought this action for damages under the Federal Employers' Liability Act, 35 Stat.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

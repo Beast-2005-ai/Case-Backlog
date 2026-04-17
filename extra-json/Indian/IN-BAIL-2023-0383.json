@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0383",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0383",
+    "summary": "Dharmender Yadav was arrested in November 2020 while driving a truck loaded with 315 kg of ganja. He claimed to be a professional driver recruited by a third party.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

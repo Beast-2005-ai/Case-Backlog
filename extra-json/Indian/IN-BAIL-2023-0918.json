@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0918",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0918",
+    "summary": "Harjit Kaur was arrested in connection with an attempted robbery at Punjab National Bank, Baba Bakala Sahib. She was accused of conducting recce and providing logistical support to male co-accused.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

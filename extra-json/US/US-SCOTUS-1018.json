@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1018",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1018",
+    "summary": "1 Once more it becomes necessary to determine 'What Congress has made the allowable unit of prosecution,' United States v. 260, under a statute which does not explicitly give the answer.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

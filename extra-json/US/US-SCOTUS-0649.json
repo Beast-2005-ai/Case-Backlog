@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0649",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0649",
+    "summary": "The sole question presented by the petition is the validity of the affirmance by the Court of Appeals of the judgment rendered against the petitioner for costs by the District Court. There being no express statutory authority for the allowance of costs to the respondent, such an award of costs is...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

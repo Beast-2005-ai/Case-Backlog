@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1055",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1055",
+    "summary": "1 On August 7, 1952, the United States Court of Appeals for the Fifth Circuit entered its decree enforcing in full an order of the National Labor Relations Board issued on June 30, 1950, against respondent herein directing it (1) to cease and desist from refusing to bargain collectively with Dist...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

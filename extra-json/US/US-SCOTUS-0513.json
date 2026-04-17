@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0513",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0513",
+    "summary": "1 A taxing district of New Jersey has levied against the intangible personal property of a domestic corporation an assessment for the taxable year 1945 in the amount of 15 per cent of the taxpayer's paid-up capital and surplus, computed without deducting the principal amount of certain United Sta...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

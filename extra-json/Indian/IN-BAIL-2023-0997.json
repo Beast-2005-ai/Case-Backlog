@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0997",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0997",
+    "summary": "Maheshkumar Shantilal Akhani was accused of circulating a video showing a hospital compounder performing surgery that allegedly resulted in a patient's death. The video was used by others to demand ransom from the hospital's owner.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

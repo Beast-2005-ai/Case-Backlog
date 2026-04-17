@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0596",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0596",
+    "summary": "Biru Kumar was implicated in a cybercrime case involving allegations of cheating through mobile phones. The main accused, Swapnil, was apprehended with mobile phones and ATM cards, and named several others.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

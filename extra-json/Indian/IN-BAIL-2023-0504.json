@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0504",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0504",
+    "summary": "The petitioners (Umamaheshwari and Manikandan) challenged the bail granted to Karmegam and Nagamani in two cases involving damage to property, criminal intimidation, and attempt to murder. The accused had allegedly attacked a hotel and apartment building, causing severe property damage and injuries.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

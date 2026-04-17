@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0318",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0318",
+    "summary": "Mustakim was accused in an NDPS case involving the transportation of poppy-straw. Although no contraband was found in his possession, the prosecution alleged financial transactions linked him to co-accused who transported over 450 kg of poppy-straw.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

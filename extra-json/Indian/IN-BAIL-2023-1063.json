@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1063",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1063",
+    "summary": "Satinder Kumar was arrested based on call records linking him to co-accused Ram Lal in a case involving 3.934 kg of charas. The charas was recovered from a bag carried by other co-accused on a motorcycle during a police trap.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

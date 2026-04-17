@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0327",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0327",
+    "summary": "1 October 30, 1936, the petitioner was indicted in the County Court of Erie County, New York, on a charge of 2 'Buying, receiving, concealing and withholding property, knowing the same to have been stolen or appropriated wrongfully in such manner as to constitute larceny, contrary to the Penal La...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

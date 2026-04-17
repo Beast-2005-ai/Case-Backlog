@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0312",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0312",
+    "summary": "Rohan Gawans was arrested in 2017 in connection with an NDPS case involving seizure of 25 kg of Mephedrone allegedly linked to his factory, M/s Rohan Chemicals. The case relied on statements under Section 67 NDPS Act and indirect links through co-accused.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

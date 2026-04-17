@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0824",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0824",
+    "summary": "1 The Court of Appeals has set aside the National Labor Relations Board's order that Rockaway News Supply Co. reinstate one Charles Waugh as a chauffeur and routeman and make him whole for an unlawful discharge.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

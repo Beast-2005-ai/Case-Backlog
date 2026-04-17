@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1030",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1030",
+    "summary": "1 This suit was brought in the Court of Claims for a tax refund. The taxpayer, a New York corporation, kept its books and accounts on the accrual basis and filed its federal income tax returns on the same basis, using the calendar year.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

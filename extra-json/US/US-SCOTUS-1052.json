@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1052",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1052",
+    "summary": "1 Louisiana requires that objections to a grand jury be raised before the expiration of the third judicial day following the end of the grand jury's term or before trial, whichever is earlier.1 In these cases we are asked to decide whether this statute as applied violates the Fourteenth Amendment...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

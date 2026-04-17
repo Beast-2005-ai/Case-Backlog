@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0419",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0419",
+    "summary": "On 11 August 2020, violent protests erupted near K.G. Halli Police Station in Bengaluru after a derogatory Facebook post about Prophet Mohammad.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

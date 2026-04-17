@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0594",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0594",
+    "summary": "1 Petitioner Hans Ackermann filed a motion in the District Court for the Western District of Texas to set aside a judgment entered December 7, 1943, in that court cancelling his certificate of naturalization. The motion was filed March 25, 1948, pursuant to amended Rule 60(b) of the Federal Rules...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

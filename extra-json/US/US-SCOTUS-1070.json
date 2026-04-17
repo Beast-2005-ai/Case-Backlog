@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1070",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1070",
+    "summary": "1 Petitioner Gibson recovered judgment in a personal injuries action against the lockheed Company in a United States District Court. The Court of Appeals for the Fifth Circuit reversed and remanded for a new trial on the ground that four instructions requested by Lockheed and refused by the trial...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

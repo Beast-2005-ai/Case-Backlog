@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1093",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-1093",
+    "summary": "1 Adolphus Henry Collins was killed in an accident near Ehrenburg, Arizona, on September 30, 1953. The accident resulted from the blowout of a tire on an American Buslines' vehicle which Collins was driving on a regular run from Phoenix to Los Angeles.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0800",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0800",
+    "summary": "Shah Mudassir and a co-accused were allegedly members of SIMI and plotted to join a militant training camp in Afghanistan. They were arrested at Secunderabad station and booked under UAPA.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

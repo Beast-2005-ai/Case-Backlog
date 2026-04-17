@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0472",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0472",
+    "summary": "Gautam Jain was accused of assisting co-accused in kidnapping a 13-year-old boy for ransom by providing false documents. The boy was later found murdered and his body was dumped in a canal.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

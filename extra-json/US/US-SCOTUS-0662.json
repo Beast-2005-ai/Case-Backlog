@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0662",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0662",
+    "summary": "1 The Standard Oil Company a New Jersey corporation, appeals from a judgment of the Supreme Court of New Jersey insofar as it declares escheated to the State of New Jersey unpaid dividends declared upon the stock of Standard Oil, and twelve shares of the common stock of the Company. The New Jerse...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

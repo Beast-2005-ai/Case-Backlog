@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0302",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0302",
+    "summary": "Ram Dayal was arrested on 8 August 1991 with 5,100 grams of opium found in an attache case while traveling by bus. He filed multiple bail applications, with the third one prompting a legal reference on the applicability of CrPC provisions to NDPS bail.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

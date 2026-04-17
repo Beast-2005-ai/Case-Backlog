@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0306",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0306",
+    "summary": "1 This case is for all practical purposes a renewal of the litigation recently here in State of Illinois ex rel. 841, and the companion case of People of State of Illinois ex rel.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0663",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0663",
+    "summary": "An eight-year-old boy went missing and was later found to have been kidnapped and murdered by the accused after failing to obtain ransom. The accused was arrested and confessed.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

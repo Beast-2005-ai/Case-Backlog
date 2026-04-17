@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0945",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0945",
+    "summary": "1 The petitioner, Pete Hernandez, was indicted for the murder of one Joe Espinosa by a grand jury in Jackson County, Texas. He was convicted and sentenced to life imprisonment.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

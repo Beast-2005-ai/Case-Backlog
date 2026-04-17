@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0642",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0642",
+    "summary": "Philip Elman, Washington, D.C., for petitioner. Marsh, Miami, Fla., for respondent Charles R.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1107",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1107",
+    "summary": "Dilip Kumar was accused in a case involving the alleged kidnapping and murder of a woman and her child, whose bodies were allegedly thrown in the Ganga river. He was not named in the FIR and no specific role was attributed to him.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

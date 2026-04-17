@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1080",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1080",
+    "summary": "\u00a7 401(2) empowers a court of the United States to punish as contempt 'Misbehavior of any of its officers in their official transactions * * *.'1 Petitioner, a lawyer, sent a questionnaire to a District of Columbia grand jury. For this, the District Court found petitioner guilty of contempt and fi...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

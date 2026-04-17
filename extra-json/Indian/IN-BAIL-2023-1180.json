@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1180",
+    "timestamp": "2023-01-01",
+    "case_type": "Corporate / IP",
+    "title": "High Court Bail Docket IN-BAIL-2023-1180",
+    "summary": "Anshul Goyal was named as one of several accused in a multi-state GST fraud involving the registration of fake firms using stolen identities, including that of journalist Saurabh Dwivedi. The scam involved fraudulent Input Tax Credit claims amounting to over \u20b92645 crore.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

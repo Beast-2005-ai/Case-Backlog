@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0653",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0653",
+    "summary": "1 The National Labor Relations Board entertained a complaint by the Textile Workers Union of America against respondent, Highland Park Manufacturing Company, and ordered respondent to bargain with that Union. At all times relevant to the proceedings, the Textile Workers Union was affiliated with ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

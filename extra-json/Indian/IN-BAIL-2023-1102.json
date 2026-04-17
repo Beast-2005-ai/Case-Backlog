@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1102",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1102",
+    "summary": "The juvenile appellant was accused in a case involving kidnapping for ransom and murder. Though the FIR named multiple accused and recoveries were made, nothing was recovered based on the appellant\u2019s disclosure.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0628",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0628",
+    "summary": "Mahendra Singh was arrested during a cyber police raid on the house of Baldev Yadav based on confidential information. Mobile phones and e-gadgets were recovered from multiple accused including the petitioner.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

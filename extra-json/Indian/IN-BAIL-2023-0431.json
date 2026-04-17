@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0431",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0431",
+    "summary": "The accused, Sanjay Kumar, has been in custody since May 2021 in connection with the death of his wife, allegedly due to dowry harassment. The marriage took place in 2020.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

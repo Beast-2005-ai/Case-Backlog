@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1035",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1035",
+    "summary": "1 This is an action to recover treble damages for alleged violation of the federal antitrust laws. The only question presented is whether the action is barred, in the circumstances of the case, under the doctrine of res judicata.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

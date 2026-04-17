@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0940",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0940",
+    "summary": "3 The Sieracki1 and Pope & Talbot2 cases cited as the basis for the Court's decision do not justify the result announced. They evidence this Court's latest and broadest statement of a shipowner's liability for the unseaworthiness of his ship and its equipment, but they do not reach the instant case.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

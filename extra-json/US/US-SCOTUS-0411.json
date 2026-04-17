@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0411",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0411",
+    "summary": "1 This case here on appeal under 28 U.S.C. \u00a7 1257, raises questions concerning the constitutional power of a state to apply its antitrade restraint law1 to labor union activities, and to enjoin union members from peaceful picketing carried on as an essential and inseparable part of a course of co...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

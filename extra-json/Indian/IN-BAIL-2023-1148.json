@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1148",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1148",
+    "summary": "The FIR was lodged by a Sub-Inspector regarding the recovery of an unidentified dead body. The accused, Imrat, was implicated based on witness statements suggesting his involvement in the murder of a man suspected of kidnapping a six-year-old child.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

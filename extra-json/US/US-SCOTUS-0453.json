@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0453",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0453",
+    "summary": "1 The ultimate question here is whether a federal court, having jurisdiction of a stockholder's derivative action only because the parties are of diverse citizenship, must apply a statute of the forum state which makes the plaintiff, if unsuccessful, liable for all expenses, including attorney's ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

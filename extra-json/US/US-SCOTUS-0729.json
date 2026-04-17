@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0729",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0729",
+    "summary": "1 Acting as his own lawyer,1 the respondent Shirley Collins brought this habeas corpus case in a United States District Court seeking release from a Michigan state prison where he is serving a life sentence for murder. His petition alleges that while he was living in Chicago, Michigan officers fo...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

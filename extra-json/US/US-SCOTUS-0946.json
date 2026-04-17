@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0946",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0946",
+    "summary": "1 The United States instituted this civil proceeding against ten Chicago dairies,1 charging conspiracy to restrain and monopolize the sale of fluid milk to wholesale customers and others in the Chicago area, in violation of the Sherman Act, 15 U.S.C.A. \u00a7\u00a7 1\u20147, 15 note, and price discrimination, i...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

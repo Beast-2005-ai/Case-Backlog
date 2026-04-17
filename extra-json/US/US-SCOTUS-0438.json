@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0438",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0438",
+    "summary": "1 The issue here is whether the 1948 revision of the Judicial Code, Title 28, United States Code, 28 U.S.C.A. \u00a7 1 et seq., extends the doctrine of forum non conveniens to antitrust suits.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0506",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0506",
+    "summary": "PURCELL et al., Plaintiffs in Error,v.QUAKER REALTY COMPANY, LIMITED. Supreme Court of the United States January 10, 1916 Mr.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

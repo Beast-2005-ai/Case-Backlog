@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0809",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0809",
+    "summary": "The petitioner was accused in a cybercrime case under IPC and IT Act sections. She was granted interim bail on 30.09.2024, complied with all conditions including submitting her passport.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

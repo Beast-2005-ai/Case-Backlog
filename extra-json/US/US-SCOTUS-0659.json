@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0659",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0659",
+    "summary": "1 Radio Corporation of America (RCA) and two of its subsidiaries brought this action in a three-judge District Court to enjoin and set aside an order of the Federal Communications Commission prescribing standards for transmission of color television.1 The effect of the challenged order was to rej...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

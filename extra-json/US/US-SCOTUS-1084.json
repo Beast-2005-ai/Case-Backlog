@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1084",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1084",
+    "summary": "1 The United States filed a libel in the District Court for the Eastern District of Louisiana, under \u00a7\u00a7 3116 and 3321 of the Internal Revenue Code of 1939, 53 Stat. 362, 401, 26 U.S.C.A., for the forfeiture of an automobile which had been used to transport nontax-paid whiskey.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

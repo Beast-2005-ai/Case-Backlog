@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0868",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0868",
+    "summary": "Saroj was arrested in a kidnapping case but was not named in the FIR. Her name appeared only in the confessional statement of a co-accused, Pappu, who claimed responsibility for kidnapping a child and returning the child the same day.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

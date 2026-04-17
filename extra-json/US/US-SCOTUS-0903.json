@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0903",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0903",
+    "summary": "1 The United Corporation is a holding company registered under the Public Utility Holding Company Act of 1935, 49 Stat. Section 11(b) of that Act requires each holding company, with exceptions not material here, to limit the operations of the holding company system of which it is a part to a sing...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

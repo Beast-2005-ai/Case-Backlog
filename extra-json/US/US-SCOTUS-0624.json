@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0624",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0624",
+    "summary": "1 The right of a daughter to attack in New York the validity of her deceased father's Florida divorce is before us. The divorce was granted in Florida after the father appeared there and contested the merits.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

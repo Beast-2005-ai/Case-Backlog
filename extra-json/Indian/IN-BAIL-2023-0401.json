@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0401",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0401",
+    "summary": "Mahabul Alam was previously granted bail in an NDPS case despite involvement in possession and trading of illicit psychotropic substances. He was later found involved in two additional NDPS cases while on bail, leading to the State filing for cancellation.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

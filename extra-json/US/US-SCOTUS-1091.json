@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1091",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1091",
+    "summary": "1 The respondent Steve Nelson, an acknowledged member of the Communist Party, was convicted in the Court of Quarter Sessions of Allegheny County, Pennsylvania, of a violation of the Pennsylvania Sedition Act1 and sentenced to imprisonment for twenty years and to a fine of $10,000 and to costs of ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0779",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0779",
+    "summary": "1 Conflicting claims to the proceeds of a policy of National Service Life Insurance frame the controversy before us. Disposition of the cause depends on our interpretation of the National Service Life Insurance Act of 1940, as amended, 38 U.S.C.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

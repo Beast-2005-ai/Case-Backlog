@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0586",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0586",
+    "summary": "1 This is a companion case to Standard Oil Company of New Jersey v. Here, as there, the Government insured petitioner's ship against war risks including 'all consequences of hostilities or warlike operations.' The ordinary marine risks were covered by a Lloyd's policy.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

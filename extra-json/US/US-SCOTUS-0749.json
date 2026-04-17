@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0749",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0749",
+    "summary": "1 On November 5, 1951, we ordered this cause 'continued for such period as will enable counsel for petitioner to secure a determination from the Supreme Court of California as to whether the judgment herein was intended to rest on an adequate independent state ground or whether decision of the fe...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

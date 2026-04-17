@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1006",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1006",
+    "summary": "1 This case grew out of a dispute between petitioner, the International Association of Machinists (IAM), affiliated with the American Federation of Labor, and the Millwrights, affiliated with the United Brotherhood of Carpenters and Joiners (Carpenters), which in turn was affiliated with the Amer...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

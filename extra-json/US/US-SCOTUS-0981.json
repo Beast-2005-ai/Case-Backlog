@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0981",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0981",
+    "summary": "1 This is a case involving priority of federal tax liens and a lien of garnishment. 2 On March 8, 1952, fire destroyed certain property of Adams, engaged in a furniture business in Temple, Bell County, Texas.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

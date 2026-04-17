@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0936",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0936",
+    "summary": "The detenu, Suthan, was involved in multiple criminal cases including murders, attempted murders, and extortion. He was branded a 'Goonda' under the Tamil Nadu Prevention of Dangerous Activities Act.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

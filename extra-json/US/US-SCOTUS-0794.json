@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0794",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0794",
+    "summary": "1 Respondent brought this action under the Copyright Act to recover for infringement of copyright on a work of art entitled 'Cocker-Spaniel in Show Position.' The District Court found the copyright, of which respondent was assignee, valid and infringed and awarded statutory damages of $5,000, wit...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

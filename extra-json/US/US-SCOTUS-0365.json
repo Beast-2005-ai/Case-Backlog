@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0365",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0365",
+    "summary": "1 The questions presented chiefly involve the scope and application of the statute which authorizes a citizen to prosecute or defend actions in federal courts 'without being required to prepay fees or costs or for the printing of the record in the appellate court * * * upon filing in said court a...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

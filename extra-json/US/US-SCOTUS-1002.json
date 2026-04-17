@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1002",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1002",
+    "summary": "1 This case presents another question concerning the processing of conscientious objector claims under the Universal Military Training and Service Act. Petitioner contends that the failure of the Department of Justice to furnish him with a fair re sume of all adverse information in the Federal Bu...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

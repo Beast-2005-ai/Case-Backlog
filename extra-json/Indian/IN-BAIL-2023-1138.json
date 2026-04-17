@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1138",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1138",
+    "summary": "The accused was alleged to have committed domestic violence and was suspected of being a Bangladeshi national possibly involved in anti-national activities. However, he possessed valid Indian identity documents, and no incriminating material was produced by the State.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

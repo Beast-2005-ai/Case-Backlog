@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1021",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1021",
+    "summary": "Viren Nitin Barne was accused of participating in a fraudulent data-entry job scam in which the informant was induced to sign bogus agreements and later extorted through legal threats and abusive messages. Though Viren was not the main accused, small transactions were traced to his account.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0942",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0942",
+    "summary": "1 The motions to affirm are granted and the judgments, 116 F.Supp. 3 The case illustrates what I fear is a growing practice of the Court of diluting the Act of Congress which gives us jurisdiction of appeals.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

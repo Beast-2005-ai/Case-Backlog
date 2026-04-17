@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0899",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0899",
+    "summary": "Sri Anup Kiran, as Founder Director of M/s Calcue, allegedly failed to remit Rs. 3.19 crore received as part of a settlement agreement with M/s RTL, which was to be paid to complainant's company, M/s Vehicart.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

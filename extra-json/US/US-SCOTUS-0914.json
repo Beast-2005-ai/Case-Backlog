@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0914",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0914",
+    "summary": "1 The question presented by this writ involves the relative priority of statutory federal and municipal liens to the proceeds of a mortgage foreclosure sale of the property to which the liens attached. 2 Two mortgages on the real property of a corporation located in the City of New Britain, Conne...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

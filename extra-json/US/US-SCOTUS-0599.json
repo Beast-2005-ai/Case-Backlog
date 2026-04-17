@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0599",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0599",
+    "summary": "1 In this case the Federal Trade Commission challenged the right of the Standard Oil Company, under the Robinson-Patman Act,1 to sell gasoline to four comparatively large 'jobber' customers in Detroit at a less price per gallon than it sold like gasoline to many comparatively small service statio...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

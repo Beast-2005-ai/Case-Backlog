@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1106",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1106",
+    "summary": "Manish Kumar was arrested in connection with the alleged kidnapping and murder of a woman and her child, whose bodies were allegedly dumped in the Ganga river. His name surfaced only in the confessional statements of co-accused.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

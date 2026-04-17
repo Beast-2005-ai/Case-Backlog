@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0379",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0379",
+    "summary": "1 This decision applies the federal income tax to gains derived by a debtor from his purchase of his own obligations at a discount and his consequent control over their discharge. It presents the specific question whether a solvent natural person, in straitened financial circumstances, must inclu...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

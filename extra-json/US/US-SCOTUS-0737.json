@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0737",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0737",
+    "summary": "1 In this proceeding, an Alabama circuit court entered an order directing petitioner to certify to the Secretary of State of Alabama the name of respondent as a candidate for nomination for Presidential and Vice-Presidential elector in the primary election of the Democratic Party to be held on Ma...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

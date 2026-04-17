@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0375",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0375",
+    "summary": "1 This action was brought in a Utah state court under the Federal Safety Appliance and Federal Employers' Liability Acts1 to recover damages for the death of Frank Lucus, an employee of the respendent railroad. The decedent's death occurred when a one-man flat-top motorcar crashed into the back e...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

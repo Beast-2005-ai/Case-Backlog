@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0759",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0759",
+    "summary": "1 This is a suit to enjoin enforcement of an order of the Interstate Commerce Commission establishing joint rates over through routes. 978, the through routes in question already exist since the carriers concerned have continuously provided through service over the same through routes at a combin...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

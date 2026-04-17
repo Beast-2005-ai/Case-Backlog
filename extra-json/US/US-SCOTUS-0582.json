@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0582",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0582",
+    "summary": "1 The question presented here is whether a tax lien of the United States is prior in right to an attachment lien where the federal tax lien was recorded subsequent to the date of the attachment lien but prior to the date the attaching creditor obtained judgment. Morrison sued George and Genell St...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

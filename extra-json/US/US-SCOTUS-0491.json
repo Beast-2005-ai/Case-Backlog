@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0491",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0491",
+    "summary": "1 Petitioner brought this action in a Georgia state court claiming damages from the respondent railroad under the Federal Employers' Liability Act. Respondent filed a general demurrer to the complaint on the ground that it failed to 'set forth a cause of action and is otherwise insufficient in la...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

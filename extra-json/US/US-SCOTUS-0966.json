@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0966",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0966",
+    "summary": "1 The question before us is whether a state appellate court violates either the Due Process or the Equal Protection Clause of the Fourteenth Amendment to the Constitution of the United States when it dismisses an appeal from a money judgment as a reasonable measure for safeguarding the collectibi...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

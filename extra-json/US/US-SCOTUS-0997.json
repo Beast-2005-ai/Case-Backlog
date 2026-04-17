@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0997",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0997",
+    "summary": "2 We believe that the judgment of the Court of Appeals of October 20, 1954, 216 F.2d 722, reversing and remanding this cause with instructions to dismiss the indictment was correct. It is not necessary for us to pass on the question presented under its subsequent judgment of November 17, 1954, di...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

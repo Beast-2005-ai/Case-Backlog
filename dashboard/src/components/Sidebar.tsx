@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Scale, BarChart3, PanelLeftClose, PanelLeftOpen, Terminal } from 'lucide-react';
+import { Scale, BarChart3, Terminal, PieChart } from 'lucide-react';
 
 interface SidebarProps {
   collapsed: boolean;
@@ -19,16 +19,14 @@ export function Sidebar({ collapsed, setCollapsed, activePage, setActivePage }: 
       className={`fixed top-0 left-0 h-screen bg-[#161616] text-gray-300 transition-all duration-300 ease-in-out z-50 border-r border-[#2a2a2a] flex flex-col ${isExpanded ? 'w-[280px]' : 'w-[80px]'}`}
     >
       <div className={`p-6 flex items-center justify-between border-b border-[#2a2a2a] h-[80px] ${!isExpanded ? 'justify-center' : ''}`}>
-        {isExpanded && (
+        {isExpanded ? (
           <div className="flex items-center space-x-3 overflow-hidden whitespace-nowrap">
             <div className="p-2 bg-[#222222] border border-[#333] rounded-lg shrink-0">
               <Scale className="text-gray-200" size={18} />
             </div>
             <span className="text-lg font-semibold tracking-tight text-white">Case<span className="text-gray-500">Triage</span></span>
           </div>
-        )}
-        
-        {!isExpanded && (
+        ) : (
            <div className="p-2 bg-[#222222] border border-[#333] rounded-lg shrink-0">
              <Scale className="text-gray-200" size={18} />
            </div>
@@ -36,29 +34,20 @@ export function Sidebar({ collapsed, setCollapsed, activePage, setActivePage }: 
       </div>
 
       <nav className="flex-1 px-4 py-8 space-y-2 overflow-hidden">
-        <button
-          onClick={() => setActivePage('Dashboard')}
-          className={`w-full flex items-center rounded-lg p-3 text-sm font-medium transition-all group ${activePage === 'Dashboard' ? 'bg-[#222222] text-white border border-[#333]' : 'border border-transparent hover:bg-[#1a1a1a] text-gray-500 hover:text-gray-300'}`}
-        >
+        <button onClick={() => setActivePage('Dashboard')} className={`w-full flex items-center rounded-lg p-3 text-sm font-medium transition-all group ${activePage === 'Dashboard' ? 'bg-[#222222] text-white border border-[#333]' : 'border border-transparent hover:bg-[#1a1a1a] text-gray-500 hover:text-gray-300'}`}>
           <BarChart3 className={`shrink-0 transition-all ${activePage === 'Dashboard' ? 'text-white' : 'text-gray-500'} ${isExpanded ? 'mr-4' : 'mr-0'}`} size={18} />
-          {isExpanded && (
-            <div className="flex flex-col items-start whitespace-nowrap overflow-hidden">
-              <span>Dashboard</span>
-            </div>
-          )}
+          {isExpanded && <span>Dashboard</span>}
         </button>
 
-        {/* NEW: Audit Logs Navigation Button */}
-        <button
-          onClick={() => setActivePage('Logs')}
-          className={`w-full flex items-center rounded-lg p-3 text-sm font-medium transition-all group ${activePage === 'Logs' ? 'bg-[#222222] text-white border border-[#333]' : 'border border-transparent hover:bg-[#1a1a1a] text-gray-500 hover:text-gray-300'}`}
-        >
+        <button onClick={() => setActivePage('Logs')} className={`w-full flex items-center rounded-lg p-3 text-sm font-medium transition-all group ${activePage === 'Logs' ? 'bg-[#222222] text-white border border-[#333]' : 'border border-transparent hover:bg-[#1a1a1a] text-gray-500 hover:text-gray-300'}`}>
           <Terminal className={`shrink-0 transition-all ${activePage === 'Logs' ? 'text-white' : 'text-gray-500'} ${isExpanded ? 'mr-4' : 'mr-0'}`} size={18} />
-          {isExpanded && (
-            <div className="flex flex-col items-start whitespace-nowrap overflow-hidden">
-              <span>Audit Logs</span>
-            </div>
-          )}
+          {isExpanded && <span>Audit Logs</span>}
+        </button>
+
+        {/* NEW ANALYTICS TAB */}
+        <button onClick={() => setActivePage('Analytics')} className={`w-full flex items-center rounded-lg p-3 text-sm font-medium transition-all group ${activePage === 'Analytics' ? 'bg-[#222222] text-white border border-[#333]' : 'border border-transparent hover:bg-[#1a1a1a] text-gray-500 hover:text-gray-300'}`}>
+          <PieChart className={`shrink-0 transition-all ${activePage === 'Analytics' ? 'text-white' : 'text-gray-500'} ${isExpanded ? 'mr-4' : 'mr-0'}`} size={18} />
+          {isExpanded && <span>System Analytics</span>}
         </button>
       </nav>
 

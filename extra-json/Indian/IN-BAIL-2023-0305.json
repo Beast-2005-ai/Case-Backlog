@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0305",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0305",
+    "summary": "The accused, Sher Bahadur Singh, was allegedly found with 814 grams of cannabis (charas) near Shangan bridge during a police patrol. He was arrested after allegedly throwing a bag containing the substance upon seeing the police.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

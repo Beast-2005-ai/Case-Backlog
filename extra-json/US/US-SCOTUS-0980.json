@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0980",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0980",
+    "summary": "1 Petitioner seeks review of a conviction under charges that he violated 18 U.S.C. \u00a7 281, a section which punishes employees of the United States who receive outside compensation for any services to be rendered in any matter before a federal department or agency in which the United States is a pa...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

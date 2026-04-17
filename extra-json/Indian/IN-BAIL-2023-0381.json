@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0381",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0381",
+    "summary": "Aleem @ Sadhu was linked to a 2019 case where 5.5 kg of morphine was seized from a co-accused. He was named in a Section 67 NDPS statement as a regular recipient.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

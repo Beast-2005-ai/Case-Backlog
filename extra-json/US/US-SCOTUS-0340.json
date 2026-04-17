@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0340",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0340",
+    "summary": "1 This appeal concerns the power of the State of Oklahoma to levy an inheritance tax on the estate of a restricted Osage Indian. Specifically, the problem is whether property held in trust by the United States for the benefit of the Indian may be included within the taxable estate.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

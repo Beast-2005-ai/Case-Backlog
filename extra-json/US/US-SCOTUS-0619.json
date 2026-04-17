@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0619",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0619",
+    "summary": "1 Petitioner seeks in this suit maintenance and cure from the United States, as owner of S. Petitioner was a messman who went ashore on leave while the vessel was at Naples in 1944.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

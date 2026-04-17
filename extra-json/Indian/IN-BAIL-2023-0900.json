@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0900",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0900",
+    "summary": "Sukhdeo Kumar was accused of involvement in a robbery during which he allegedly shot the informant in the chest when identified. He had been in custody since December 30, 2012, and his bail had previously been denied twice by the High Court.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

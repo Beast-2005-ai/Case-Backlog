@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1053",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1053",
+    "summary": "1 Affronti was tried in the United States District Court for the Western District of Missouri on a ten-count indictment charging him with illegal sales of narcotics. A jury found him guilty on counts two through ten, and a five-year sentence was imposed on each count to be served consecutively.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

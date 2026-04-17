@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0690",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0690",
+    "summary": "The petitioner was accused in a cybercrime-related FIR. He denied involvement and claimed false implication.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

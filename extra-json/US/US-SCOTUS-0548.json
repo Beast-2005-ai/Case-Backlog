@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0548",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0548",
+    "summary": "1 The constitutionality of the strike vote provision of the Michigan labor mediation law1 is before us in this case. Appellants struck against Chrysler Corporation in May, 1948, without conforming to the prescribed state procedure.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

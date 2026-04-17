@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0849",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0849",
+    "summary": "1 By the Suits in Admiralty Act1 the United States consents, under defined conditions, to the filing against it in the District Courts of libels in personam. Libels which concern vessels 'operated by or for the United States' and 'employed as merchant vessels' are authorized.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

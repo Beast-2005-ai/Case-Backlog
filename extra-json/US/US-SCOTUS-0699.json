@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0699",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0699",
+    "summary": "20) was indicted October 2, 1950, for having on or about July 1, 1947, forged the name of the payee on a check drawn on the Treasurer of the United States. 162) was indicted September 29, 1950, for having on or about March 14, 1947, knowingly made a false statement in connection with his applicat...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0727",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0727",
+    "summary": "1 This is a suit in the District Court for New Jersey to enjoin violations of the Sherman Law.1 26 Stat. The defendants were the Far East Conference, a voluntary association, and its constituent members, steamship companies engaged in what is known as the 'outbound Far East trade.' The Conference...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

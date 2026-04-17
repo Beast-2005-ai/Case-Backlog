@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0692",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0692",
+    "summary": "The juvenile petitioner was arrested along with six others in a cybercrime case involving use of mobile phones and SIM cards. All co-accused had already been granted bail.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

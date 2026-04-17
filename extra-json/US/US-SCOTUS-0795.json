@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0795",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0795",
+    "summary": "1 This case arises on an information under \u00a7\u00a7 15 and 16(a) of the Fair Labor Standards Act, 52 Stat. 910, 29 U.S.C., \u00a7\u00a7 215, 216(a), 29 U.S.C.A.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

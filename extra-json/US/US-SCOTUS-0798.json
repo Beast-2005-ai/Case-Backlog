@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0798",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0798",
+    "summary": "1 As this suit in equity was commenced in United States District Court it sought two kinds of specific relief: (1) a declaratory judgment that complainant's carriage of motion picture film and newsreels between points in Utah constitutes interstate commerce; (2) that the Public Service Commission...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

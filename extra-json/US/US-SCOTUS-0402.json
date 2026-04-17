@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0402",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0402",
+    "summary": "manufactures in Kewaunee County, Wisconsin, the products for which it is named. Ninety-five per cent of its output is sold in interstate commerce.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

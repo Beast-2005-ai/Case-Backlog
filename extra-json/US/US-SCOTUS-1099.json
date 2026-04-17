@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1099",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1099",
+    "summary": "1 The question before us is whether, in the case of an employer subject to the National Labor Relations Act, as amended, 29 U.S.C.A. \u00a7 151 et seq., a state court may enjoin peaceful picketing of the employer's premises, undertaken by its employees and their union for the purpose of obtaining reco...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

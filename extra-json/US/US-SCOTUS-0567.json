@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0567",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0567",
+    "summary": "2 The cases arose from suits brought by claimants Singer and Mellie Iran to collect from a statutory bank liquidator claims allegedly entitled to a preference under New York Banking Law, McK.Consol. 2, \u00a7 606, arising from transactions with a Japanese corporation, blocked under Executive Orders Nos.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

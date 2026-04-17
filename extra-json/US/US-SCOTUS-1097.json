@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1097",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1097",
+    "summary": "1 The State of New York imposes a highway use tax upon motor carriers operating heavy vehicles on its public highways. Many such vehicles are purchased and operated under conditional sales agreements, and certain conditional vendors here question the extent to which the State may subordinate the ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

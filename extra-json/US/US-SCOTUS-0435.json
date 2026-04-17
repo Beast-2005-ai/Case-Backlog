@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0435",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0435",
+    "summary": "1 This litigation has a rather involved history. In 1946, while in the employ of respondent rai road, petitioner was seriously injured in an accident at Big Spring, Texas.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0576",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0576",
+    "summary": "1 This case was heretofore held for, and presents the same issues involved in, American Communications Association, C.I.O., et al. Douds, and United Steel-workers of America, et al.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

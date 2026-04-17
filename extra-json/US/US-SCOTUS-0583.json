@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0583",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0583",
+    "summary": "1 The federal estate tax and the federal gift tax, as held in a line of cases ending with Commissioner v. 963, are construed in pari materia, since the purpose of the gift tax is to complement the estate tax by preventing tax-free depletion of the transferor's estate during his lifetime.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

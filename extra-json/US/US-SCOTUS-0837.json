@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0837",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0837",
+    "summary": "1 This case concerns an alien immigrant permanently excluded from the United States on security grounds but stranded in his temporary haven on Ellis Island because other countries will not take him back. The issue is whether the Attorney General's continued exclusion of respondent without a heari...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

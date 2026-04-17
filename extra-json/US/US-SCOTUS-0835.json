@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0835",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0835",
+    "summary": "1 This suit, under \u00a7 9(a) of the Trading with the Enemy Act,1 asks a decree that petitioners have an interest in vested property of Japanese nationals in the hands of the Alien Property Custodian, that he holds the property subject to petitioners' attachment lien and must satisfy their judgment. ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

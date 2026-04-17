@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1029",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1029",
+    "summary": "The detenu was booked in two FIRs for threatening individuals with a knife, committing arson, and extortion. Although granted bail in both cases, authorities detained him under the Telangana PD Act citing him as a habitual offender causing public panic.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

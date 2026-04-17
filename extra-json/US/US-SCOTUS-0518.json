@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0518",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0518",
+    "summary": "1 The facts of this case have been agreed upon by stipulation. On December 15, 1941, respondent taxpayer, a New Jersey corporation, filed a corporate tax return for its fiscal period, January 1, 1941, to September 30, 1941.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

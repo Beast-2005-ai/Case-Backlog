@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0782",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0782",
+    "summary": "1 This action was instituted by the appellants attacking a Kansas statute which authorized segregation in the schools of that State. It was urged that the State of Kansas was without power to enact such legislation, claimed by appellants to be in contravention of the Fourteenth Amendment.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

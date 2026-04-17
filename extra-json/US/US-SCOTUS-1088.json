@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1088",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1088",
+    "summary": "1 Respondent, Hawkeye-Security Insurance Company, filed a motion to quash the return of service of summons on the grounds that the District Court acquired no personal jurisdiction over it and that the power of attorney which it had filed with the Commissioner of Motor Vehicles of the State of Wis...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0572",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0572",
+    "summary": "1 The question before us is the propriety of an order of the District Court for the Canal Zone vacating a foreign attachment of a vessel made in a libel in personam. 2 On March 7, 1948, the libel was filed against Compania Transmaritima Colombiana, S.A., a Colombian corporation, by Swift & Compan...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0820",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0820",
+    "summary": "1 The question here is whether a labor organization engages in an unfair labor practice, within the meaning of \u00a7 8(b)(6) of the National Labor Relations Act, as amended by the Labor Management Relations Act, 1947,1 when it insists that newspaper publishers pay printers for reproducing advertising...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

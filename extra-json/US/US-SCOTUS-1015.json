@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1015",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1015",
+    "summary": "The petitioner's notice of appeal to the Court of Appeals from a judgment of the Distrct Court for the Northern District of New York, together with his appeal bond, was received at the office of the Clerk of the District Court within the 30 days prescribed by 28 U.S.C. In dispatching these papers...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

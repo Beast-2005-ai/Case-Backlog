@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0709",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0709",
+    "summary": "1 Appellant was incorporated in 1833 by a Special Act of the Georgia General Assembly that included a provision for exemption from taxation.1 In 1945, the Georgia Constitution was amended to provide that 'All exemptions from taxation heretofore granted in corporate charters are declared to be hen...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

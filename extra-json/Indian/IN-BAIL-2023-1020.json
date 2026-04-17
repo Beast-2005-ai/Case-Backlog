@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1020",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-1020",
+    "summary": "Chethan Kumar was accused of fraudulently obtaining money from a complainant by falsely representing himself as a general manager of a battery company offering a franchise. He took lakhs of rupees as investment and shop setup costs but allegedly failed to deliver products or respond to queries.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

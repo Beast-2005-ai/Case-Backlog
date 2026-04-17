@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0580",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0580",
+    "summary": "Chitravel was accused of collaborating with a Chinese national to operate a fraudulent investment app scheme under the company Bettech Technologists Pvt. Ltd., which collected money from the public through gaming apps and redirected the funds to China via cryptocurrency.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

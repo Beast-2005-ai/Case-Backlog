@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0293",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0293",
+    "summary": "The applicant, Pramod, was arrested in a murder and robbery case and has been in custody since January 2016. He was allegedly apprehended at the scene with a weapon.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

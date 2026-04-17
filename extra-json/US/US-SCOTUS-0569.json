@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0569",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0569",
+    "summary": "1 The respondent, Kansas City Life Insurance Company, obtained judgment in the Court of Claims against the United States for $22,519.60, with interest from August 8, 1938. This sum was awarded as just compensation for the destruction of the agricultural value of respondent's farm land by the Unit...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

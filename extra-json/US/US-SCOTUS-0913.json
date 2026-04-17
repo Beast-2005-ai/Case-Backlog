@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0913",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0913",
+    "summary": "Section 406(a) authorizes the Civil Aeronautics Board to fix 'fair and reasonable rates of compensation for the transportation of mail by aircraft'.1 Section 406(b) requires the Board to take into consideration, inter alia, 'the need of each such air carrier for compensation for the transportatio...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

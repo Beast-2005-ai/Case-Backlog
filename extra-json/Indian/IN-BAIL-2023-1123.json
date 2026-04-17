@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1123",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-1123",
+    "summary": "Pradeep Kumar Chouhan, operator of a service center, was accused of facilitating fraudulent online transactions in a loan scam. He accepted large sums of money via credit card transfers and provided cash to an associate, charging 14% commission.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

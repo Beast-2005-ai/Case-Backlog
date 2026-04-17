@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0713",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0713",
+    "summary": "1 This suit against New Wrinkle, Inc., and The Kay & Ess Co. was instituted in the United States District Court for the Southern District of Ohio by the United States as a civil proceeding under \u00a7 4 of the Sherman Act.1 Defendants are charged with having violated \u00a7 1 of that law2 by conspiring to...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

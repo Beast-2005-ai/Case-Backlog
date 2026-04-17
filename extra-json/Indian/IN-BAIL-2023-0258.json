@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0258",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0258",
+    "summary": "The applicant Gaurav was arrested on 04 July 2021 for alleged involvement in a robbery case under Section 394 IPC. His name was not mentioned in the FIR.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

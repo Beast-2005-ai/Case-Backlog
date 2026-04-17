@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0341",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0341",
+    "summary": "1 This is a proceeding arising out of a determination by the Tax Commission of the State of New York, sustained by the courts of the State, whereby \u00a7 186-a of the New York Tax Law, Consol. 62, was construed to impose a tax on appellant's gross receipts from transportation between points within th...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

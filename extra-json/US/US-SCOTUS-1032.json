@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1032",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-1032",
+    "summary": "1 These cases were decided on May 17, 1954. The opinions of that date,1 declaring the fundamental principle that racial discrimination in public education is unconstitutional, are incorporated herein by reference.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

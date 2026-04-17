@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0311",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0311",
+    "summary": "The applicant was allegedly involved in a narcotics case involving concealment of drugs in car compartments. The prosecution relied on statements from witnesses Jalaluddin (who died) and Salim (who turned hostile), and a confessional statement by a co-accused.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

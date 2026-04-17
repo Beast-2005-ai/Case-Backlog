@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0354",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0354",
+    "summary": "27, 1946, the Price Administrator filed a petition, in the District Court for the District of Columbia, to institute criminal contempt proceedings against appellee. The petition charged appellee with having made numerous sales of used cars at over-ceiling prices in violation of an injunction prev...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

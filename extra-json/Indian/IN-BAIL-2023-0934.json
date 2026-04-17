@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0934",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0934",
+    "summary": "The accused were granted bail by the Sessions Court in a case involving attempt to murder and other IPC offences. The complainant sought cancellation of bail, citing serious injuries and the accused's history of prior criminal cases.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

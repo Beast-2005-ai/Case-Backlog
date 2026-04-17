@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0672",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0672",
+    "summary": "Harimohan Shivhare was implicated in a cybercrime case where large amounts were fraudulently transferred from a company's bank account through net banking. A total of \u20b91.91 crore was distributed among various accounts.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

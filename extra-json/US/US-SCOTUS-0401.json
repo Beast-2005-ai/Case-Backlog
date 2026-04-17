@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0401",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0401",
+    "summary": "He said the rule was not a matter of legislative command or statutory construction but, rather, a fundamental principle of the English bankruptcy7 system which we copied. Our present statute contains no provision expressly repudiating that principle or allowing an exception in favor of tax claims.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

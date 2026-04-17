@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0720",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0720",
+    "summary": "1 This case calls for an answer to the question whether the Due Process Clause of the Fourteenth Amendment to the Constitution of the United States precludes Ohio from subjecting a foreign corporation to the jurisdiction of its courts in this action in personam. The corporation has been carrying ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0872",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0872",
+    "summary": "1 This is a criminal proceeding prosecuted by information against respondent for refusal to serve certain members of the Negro race at one if its restaurants in the District of Columbia solely on account of the race and color of those persons. The information is in four counts, the first charging...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

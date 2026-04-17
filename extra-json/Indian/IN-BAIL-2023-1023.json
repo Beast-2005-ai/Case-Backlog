@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1023",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1023",
+    "summary": "The applicant was arrested for housebreaking and theft of gold and silver ornaments from a private residence. Based on his confession, stolen items were recovered.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

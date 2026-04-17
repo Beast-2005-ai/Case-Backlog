@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0812",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0812",
+    "summary": "1 In this proceeding, the Government sought the forfeiture of an automobile and of a truck under the provisions of \u00a7 3116 of the Internal Revenue Code, 26 U.S.C.A. \u00a7 3116, in the District Court for the Eastern District of Oklahoma.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

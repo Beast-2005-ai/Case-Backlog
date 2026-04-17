@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1076",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-1076",
+    "summary": "Chanda Kochhar and her husband were arrested by the CBI in connection with a loan fraud case. The court found that she had cooperated throughout the investigation and that her arrest did not comply with legal mandates.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

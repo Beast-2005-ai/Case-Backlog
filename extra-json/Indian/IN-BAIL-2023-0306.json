@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0306",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0306",
+    "summary": "Anil Kumar was named as a co-accused in a narcotics case based on the disclosure statements of two arrested individuals who were found with 38 cough syrup bottles and 250 intoxicant tablets. He was arrested four months later and had phone records showing contact with the arrested accused.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

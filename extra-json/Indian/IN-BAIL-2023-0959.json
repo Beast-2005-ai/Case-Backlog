@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0959",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0959",
+    "summary": "Baldev Dangar was accused of orchestrating land grabbing and extortion by creating forged documents related to disputed agricultural land. He and his associates allegedly threatened and intimidated the complainant to relinquish ownership.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

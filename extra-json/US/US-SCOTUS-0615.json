@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0615",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0615",
+    "summary": "1 The parties to this case are the same gas workers' union, many of the same officers of that union, the same gas companies and the Wisconsin Employment Relations Board involved in No. The instant proceeding began when, at the time of the strike described in No.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

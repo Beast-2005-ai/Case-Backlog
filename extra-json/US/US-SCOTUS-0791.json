@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0791",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0791",
+    "summary": "1 This is an appeal from a decision of the Supreme Court of Oklahoma, Board of Regents v. 301, 237 P.2d 131, 135, upholding the validity of a loyalty oath1 prescribed by Oklahoma statute for all state officers and employees.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

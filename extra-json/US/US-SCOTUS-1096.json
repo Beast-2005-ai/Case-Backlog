@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1096",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1096",
+    "summary": "Harry SLOCHOWER, Appellant, v.The BOARD OF HIGHER EDUCATION OF The CITY OF NEW YORK. As Modified on Denial of Rehearing May 28, 1956.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

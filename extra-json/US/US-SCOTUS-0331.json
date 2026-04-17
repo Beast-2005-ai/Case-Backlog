@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0331",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0331",
+    "summary": "1 This is a suit to enjoin as unconstitutional the enforcement of several South Carolina statutes governing commercial shrimp fishing in the three-mile maritime belt off the coast of that State. Appellants, who initiated the action, are five individual fishermen, all citizens and residents of Geo...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

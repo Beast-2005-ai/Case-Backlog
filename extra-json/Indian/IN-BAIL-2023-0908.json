@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0908",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0908",
+    "summary": "Shashi Kumar Singh was arrested in a \u20b998 lakh bank robbery case in Lalganj, Vaishali. Although initially unnamed, he was implicated through investigation and his own confession, which led to recovery of looted money and property.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

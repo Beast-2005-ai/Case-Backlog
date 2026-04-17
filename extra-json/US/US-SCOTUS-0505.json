@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0505",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0505",
+    "summary": "1 The questions presented relate to the interpretation and validity of terms in a government construction contract providing that in contractual disputes the decisions of the Secretary of War or his authorized representative shall be final and binding. 2 The respondent partnership entered into a ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

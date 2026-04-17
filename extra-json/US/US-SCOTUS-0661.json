@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0661",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0661",
+    "summary": "1 On December 11, 1941, petitioner Zittman, holder of claims against the Deutsche Reichsbank and the Deutsche Golddiskontbank, caused attachment warrants to be issued by the appropriate New York court and levied on accounts maintained by the debtors in New York City with the Chase National Bank. ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

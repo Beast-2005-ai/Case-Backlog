@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0773",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0773",
+    "summary": "1 This is an income tax controversy growing out of the following facts as shown by findings of the Tax Court. In 1937 two taxpayers, petitioners here, decided to liquidate and divide the proceeds of a corporation in which they had equal stock ownership.* Partial distributions made in 1937, 1938, ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

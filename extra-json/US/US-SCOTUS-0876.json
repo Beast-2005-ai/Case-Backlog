@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0876",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0876",
+    "summary": "1508 BURNS et al.v.WILSON, Secretary of Defense et al. Reeves, Washington, D.C., for petitioners.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0510",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0510",
+    "summary": "1 The only issue presented by this case turns on the finality of a judgment for purposes of appeal, a subject on which the volume of judicial writing already is formidable. The Court of Appeals resolved against finality of the decree in question, saying, however, that it did so against the unanim...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

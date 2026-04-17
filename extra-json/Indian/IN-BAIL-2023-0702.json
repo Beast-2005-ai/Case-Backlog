@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0702",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0702",
+    "summary": "The case involves largescale organized cyber fraud through mobile apps 'Power Bank' and 'EZ Plan', promising doubled returns on investments. The accused, Rounak Kumar Bansal, a Chartered Accountant, was alleged to have helped restructure a shell company later used to route fraud proceeds.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

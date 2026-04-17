@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0771",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0771",
+    "summary": "1 Claiming he was the original and sole inventor of a mechanical device, the respondent Kepner asked the United States Patent Office for a patent. Later the petitioner Sanford filed a similar application making the same claim.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

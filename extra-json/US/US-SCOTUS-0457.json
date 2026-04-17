@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0457",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0457",
+    "summary": "166, to resolve a conflict of views between two Courts of Appeals in their interpretation of the rights given to veterans of World War II by \u00a7 8 of the Selective Training and Service Act of 1940, as amended, 54 Stat. Three veterans brought this suit for compensation for the period of a layoff whi...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

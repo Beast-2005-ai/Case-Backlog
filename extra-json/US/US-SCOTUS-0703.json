@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0703",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0703",
+    "summary": "1 Halcyon Lines1 hired the Haenn Ship Ceiling and Refitting Corporation2 to make repairs on Halcyon's ship which was moored in navigable waters. Salvador Baccile, an employee of Haenn, was injured aboard ship while engaged in making these repairs.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

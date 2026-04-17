@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0799",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0799",
+    "summary": "1 These appeals attack new Interstate Commerce Commission rules governing the use of equipment by authorized motor carriers when the equipment is not owned by the carrier but is leased from the owner or obtained by interchange with another authorized carrier. They were prescribed by the Commissio...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

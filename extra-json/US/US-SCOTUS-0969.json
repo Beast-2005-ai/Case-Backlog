@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0969",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0969",
+    "summary": "1 This is a suit for treble damages, 38 Stat. \u00a7 15, brought for violations of \u00a7 2(a) of the Clayton Act, as amended by the Robinson-Patman Act, 49 Stat.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

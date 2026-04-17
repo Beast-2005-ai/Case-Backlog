@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0414",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0414",
+    "summary": "1 In 1942, Congress enacted what is popularly known as the Freight Forwarder Act. This legislation, which appears as Part IV1 of the Interstate Commerce Act, was designed to define freight forwarders, to prescribe certain regulations governing forwarder operations, and to bring this essential tra...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

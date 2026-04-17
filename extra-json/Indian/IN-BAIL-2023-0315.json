@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0315",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0315",
+    "summary": "The petitioner was arrested after being found seated in the back seat of a car where 39,500 tablets of Tramadol Hydrochloride were recovered. The co-accused were allegedly involved in procurement and transportation of the contraband.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

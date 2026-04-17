@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0385",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0385",
+    "summary": "1 This case deals with the question whether \u00a7 67, sub. c of the Bankruptcy Act,1 in determining priorities in the payment of claims, speaks as of the time of filing the petition in bankruptcy.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0408",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0408",
+    "summary": "The juvenile accused Vikas was charged with the brutal murder of his parents and brother, allegedly committed to access money. He stayed with the bodies for two days and used his father's retiral money afterward.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

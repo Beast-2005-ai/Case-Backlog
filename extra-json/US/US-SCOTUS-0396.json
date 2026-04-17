@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0396",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0396",
+    "summary": "1 A South Carolina statute provides that life insurance companies and their agents may not operate an undertaking business, and undertakers may not serve as agents for life insurance companies. 1947.1 Respondents brought action before a three-judge District Court in the Eastern District of South ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

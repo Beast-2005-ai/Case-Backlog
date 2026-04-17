@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1127",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-1127",
+    "summary": "The informant, wife of the applicant, alleged physical and emotional abuse by the applicant and his family, including an incident where her head was banged against a wall. The harassment reportedly stemmed from dissatisfaction over the birth of two daughters.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

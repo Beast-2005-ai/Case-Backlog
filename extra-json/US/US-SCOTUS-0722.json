@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0722",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0722",
+    "summary": "1 Petitioner, a veteran employed as authorization officer in the Regional Office of the Veterans' Administration in New Orleans, was removed from his position. He appealed under \u00a7 14 of the Veterans' Preference Act of 1944, 5 U.S.C.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

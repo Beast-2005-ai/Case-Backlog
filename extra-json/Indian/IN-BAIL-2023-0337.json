@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0337",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0337",
+    "summary": "Ved Prakash was arrested based on the disclosure of co-accused Ram Pal, who was caught with 1 kg heroin. Ram Pal claimed he purchased the heroin from Ved Prakash.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

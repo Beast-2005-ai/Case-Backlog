@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0688",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0688",
+    "summary": "1 The United States brought this action under the Veterans' Emergency Housing Act of 19461 to compel restitution of allegedly excessive prices charged by respondents in the sale of two houses. The District Court entered judgment for respondents, 89 F.Supp.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

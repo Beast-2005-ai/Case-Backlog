@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1039",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1039",
+    "summary": "Shafidad Khan and co-accused were involved in a violent confrontation arising from a land dispute. The complainant party alleged that the accused group, armed with lathis, rods, and an axe, assaulted them after a prior report was lodged regarding a crop theft.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

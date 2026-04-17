@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0704",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0704",
+    "summary": "\u00a7 3477,2 of an assignment of a claim against the United States for property damage. In an effort to escape the prohibition of that Act, respondents joined their assignors, Mrs.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

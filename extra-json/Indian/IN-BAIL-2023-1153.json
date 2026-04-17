@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1153",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1153",
+    "summary": "Anjani Mishra was accused of being involved in a \u20b916.13 crore fraud at District Cooperative Central Bank, Dabhaura. Significant sums were transferred from the Sundry account to her personal bank account.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

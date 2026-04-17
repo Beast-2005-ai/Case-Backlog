@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0287",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0287",
+    "summary": "The applicant, Kailash Babu, was accused in a case involving the brutal murder of a woman with multiple stab wounds and related robbery. Evidence included the recovery of a scissor allegedly used in the crime and stolen money from his bag.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

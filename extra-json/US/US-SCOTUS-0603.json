@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0603",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0603",
+    "summary": "1 This appeal challenges the constitutional validity of two sections of an ordinance of the City of Madison, Wisconsin, regulating the sale of milk and milk products within the municipality's jurisdiction. One section in issue makes it unlawful to sell any milk as pasteurized unless it has been p...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

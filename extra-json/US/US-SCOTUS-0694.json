@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0694",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0694",
+    "summary": "1 Petitioner brought suit under the Jones Act1 to recover damages for the death of her intestate son from injuries sustained during the course of his employment by respondent. The boats are navigated under Coast Guard regulations by personnel licensed by the Department of Commerce.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

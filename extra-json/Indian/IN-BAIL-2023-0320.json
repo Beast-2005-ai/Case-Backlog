@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0320",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0320",
+    "summary": "Sudhir Sharma was accused of participating in the murder of the informant\u2019s son by firearm, allegedly in revenge for a prior killing. He was not present at the scene of the shooting, and the police had already filed a charge-sheet.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

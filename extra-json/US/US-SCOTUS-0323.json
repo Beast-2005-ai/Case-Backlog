@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0323",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0323",
+    "summary": "1 The writ of habeas corpus has played a great role in the history of human freedom. It has been the judicial method of lifting undue restraints upon personal liberty.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

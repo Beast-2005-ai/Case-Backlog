@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0376",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0376",
+    "summary": "1 Under employment practices in the United States, employers have sometimes limited work opportunities to members of unions, sometimes to non-union members, and at other times have employed and kept their workers without regard to whether they were or were not members of a union. Employers are co...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

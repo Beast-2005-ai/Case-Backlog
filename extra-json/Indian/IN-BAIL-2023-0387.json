@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0387",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0387",
+    "summary": "Manish Dua was named in a disclosure statement by a co-accused in a case involving the seizure of 50,000 Tramadol tablets. He allegedly supplied the tablets at the behest of another individual.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0357",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0357",
+    "summary": "1 This action was brought before a three-judge court convened in the Northern District of Illinois under 28 U.S.C. The object of the action is an injunction against the enforcement of a provision which, in 1935, was added to a statute of Illinois and which requires that a petition to form and to ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

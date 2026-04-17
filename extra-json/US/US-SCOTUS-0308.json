@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0308",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0308",
+    "summary": "1 Petitioner, as administratrix, filed a complaint in a California state court under the Federal Employers' Liability Act, 45 U.S.C. \u00a7 51, to recv er damages for the alleged wrongful death of one L.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

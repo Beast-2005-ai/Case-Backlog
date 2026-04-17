@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0998",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0998",
+    "summary": "1 This is another prosecution under 62 Stat. \u00a7 462(a), 50 U.S.C.A.Appendix, \u00a7 462(a), for refusal to submit to induction into the armed services.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

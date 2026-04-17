@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0592",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0592",
+    "summary": "1 Review was granted by this Court to determine whether the Attorney General was justified in refusing to suspend deportation of an alien under \u00a7 19(c), as amended, 62 Stat. 1206, of the Immigration Act of 1917,1 39 Stat.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0813",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0813",
+    "summary": "1 Two questions are presented by this appeal: (1) The validity of the annexation by the City of Louisville, Kentucky, of certain federally owned land on which a Naval Ordnance Plant is located; and (2) The validity of the Louisville occupational tax or license fee ordinance as applied to employee...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

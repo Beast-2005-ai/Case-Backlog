@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0758",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0758",
+    "summary": "2 Ruberoid is one of the nation's largest manufacturers of asphalt and asbestos roofing materials and allied products. The Commission found that Ruberoid, in a number of specific instances, had discriminated among customers in the prices charged them for roofing materials.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

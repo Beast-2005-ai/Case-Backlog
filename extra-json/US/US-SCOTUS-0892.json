@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0892",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0892",
+    "summary": "1 This is a motion by Arkansas to file a complaint against Texas and invoke our original jurisdiction granted by Art. 2 The complaint alleges that the University of Arkansas, acting through its Board of Trustees, and the William Buchanan Foundation, a corporation organized under the laws of Texas...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

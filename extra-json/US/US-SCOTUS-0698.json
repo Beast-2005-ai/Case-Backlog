@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0698",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0698",
+    "summary": "1 Appellee was indicted on eight counts in the District Court for the Eastern District of Wisconsin for violation of \u00a7 213 of the Criminal Code of 1909, 35 Stat. \u00a7 336.* The District Court granted appellee's motion to dismiss the indictment, and the United States appealed directly to this Court, ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

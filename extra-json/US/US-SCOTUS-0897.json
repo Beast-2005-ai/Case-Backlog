@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0897",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0897",
+    "summary": "1 This action by petitioner,* a customer, against respondents, partners in a securities brokerage firm, was brought in the United States District Court for the Southern District of New York, to recover damages under \u00a7 12(2) of the Securities Act of 1933.1 The complaint alleged that on or about Ja...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

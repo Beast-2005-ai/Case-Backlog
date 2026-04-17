@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0608",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0608",
+    "summary": "Raju Ranjan Yadav was arrested in connection with a cyber fraud involving a fake call center impersonating HDFC Life Insurance. He was not named in the FIR but was later arrested after disclosure statements linked him to bank accounts used in the fraud.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

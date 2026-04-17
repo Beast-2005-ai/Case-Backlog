@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0365",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0365",
+    "summary": "Jaku Daud Buchad was implicated in a 2022 case involving smuggling of 56 kg heroin from Pakistan to India via sea. He was not named in the FIR but later arrested based on statements and call records.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

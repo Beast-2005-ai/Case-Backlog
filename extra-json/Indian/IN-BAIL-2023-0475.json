@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0475",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0475",
+    "summary": "Munna Lal, father-in-law of the deceased, applied for anticipatory bail after being implicated in the suicide of his daughter-in-law. The prosecution alleged harassment and dowry demands.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

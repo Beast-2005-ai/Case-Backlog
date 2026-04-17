@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0447",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0447",
+    "summary": "1 This is an appeal to review a decree enjoining the Standard Oil Company of California and its wholly-owned subsidiary, Standard Stations, Inc.,1 from enforcing or entering exclusive supply contracts with any independent dealer in petroleum products and automobile accessories. The use of such co...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0798",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0798",
+    "summary": "The case arose from a large-scale illegal sand mining operation in SBS Nagar, Punjab. Police raided the site based on secret information and seized multiple vehicles, machinery, and sand.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

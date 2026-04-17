@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1065",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1065",
+    "summary": "330, raises an issue of coverage under the Fair Labor Standards Act, as amended by the Portal-to-Portal Act of 1947, 29 U.S.C.A. \u00a7 201 et seq., with respect to work performed before or after the direct or productive labor for which the worker is primarily paid.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

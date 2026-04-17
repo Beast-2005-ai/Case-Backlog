@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1141",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1141",
+    "summary": "Suneshwar Singh Thakur, Assistant Manager at a Cooperative Society, was accused of fraudulently withdrawing money in the names of depositors and not depositing collected funds. He was arrested in August 2015.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

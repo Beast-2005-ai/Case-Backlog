@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1077",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1077",
+    "summary": "2 Petitioner, Frank Costello, was indicted for wilfully attempting to evade payment of income taxes due the United States for the years 1947, 1948 and 1949.1 The charge was that petitioner falsely and fraudulently reported less income than he and his wife actually received during the taxable year...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

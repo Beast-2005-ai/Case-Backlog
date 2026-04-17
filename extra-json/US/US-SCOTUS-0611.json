@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0611",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0611",
+    "summary": "1 Questions of the power of the Interstate Commerce Commission to tighten the restrictions on operations of a railroad's motor-carrier affiliate are raised by this appeal. In the Commission's view the operations must be modified in order to make them truly auxiliary to or supplemental of the rail...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

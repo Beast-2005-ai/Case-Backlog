@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0622",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0622",
+    "summary": "1 This action was brought in the United States District Court for the Northern District of Illinois under \u00a7 4 of the Clayton Act1 to recover treble damages for injuries alleged to have been suffered by reason of a conspiracy in restraint of trade in violation of the Sherman Act, \u00a7 1.2 Plaintiffs,...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

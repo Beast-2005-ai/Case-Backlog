@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0763",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0763",
+    "summary": "1 We are asked to decide whether the President was acting within his constitutional power when he issued an order directing the Secretary of Commerce to take possession of and operate most of the Nation's steel mills. The mill owners argue that the President's order amounts to lawmaking, a legisl...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

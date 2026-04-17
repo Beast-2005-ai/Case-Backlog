@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0856",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0856",
+    "summary": "1 Cheek Wells was killed in Alabama when a grinding wheel with which he was working burst. The wheel had been manufactured by the respondent, a corporation with its principal place of business in Pennsylvania.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0848",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0848",
+    "summary": "1 This is a suit in admiralty against British underwriters on a war-risk policy issued to cover the Calmar Corporation's S.S. Portmar for a voyage, in the winter of 1941\u20141942, from the United States to a port or ports in the Philippine Islands and return to an Atlantic or Pacific port in the Unit...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

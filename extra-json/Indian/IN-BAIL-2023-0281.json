@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0281",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0281",
+    "summary": "Shakeer Khan was arrested for allegedly attempting to commit dacoity in Vijaya Bank, Rajnandgaon along with other co-accused. He has been in jail since 23.12.2015.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

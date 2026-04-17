@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0748",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0748",
+    "summary": "1 On July 28, 1947, the appellant, Swift and Company, filed a complaint, later amended, before the Interstate Commerce Commission against the Atchison, Topeka and Santa Fe and other railroads, alleging that the charges on direct carload shipments of livestock1 from points outside Illinois to its ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

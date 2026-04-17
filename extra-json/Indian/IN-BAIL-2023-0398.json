@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0398",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0398",
+    "summary": "Bhola Singh was named as a supplier of intoxicating tablets based on the disclosure of a co-accused arrested with 410 loose tablets under the NDPS Act. Although not present at the scene, he was implicated based on statements and nominated in the FIR.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

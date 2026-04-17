@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0456",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0456",
+    "summary": "1 It is contended here that the United States as a shipper is barred from challenging in federal courts an Interstate Commerce Commission order which denies the Government a recovery in damages for exaction of an allegedly unlawful railroad rate. Other contentions if sustained would deny federal ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

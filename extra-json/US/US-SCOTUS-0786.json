@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0786",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0786",
+    "summary": "1 The questions in these two income tax cases are so much alike that they can be treated in one opinion. Both taxpayers had moneys embezzled by trusted agents and employees.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

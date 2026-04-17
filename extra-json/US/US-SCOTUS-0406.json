@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0406",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0406",
+    "summary": "1 We brought these cases here because they call for determination of important issues in the administration of admiralty law. They bring for review a decree of the Court of Appeals for the Second Circuit affirming the dismissal of a petition for limited liability brought in the United States Dist...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

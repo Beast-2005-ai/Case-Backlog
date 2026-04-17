@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0762",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0762",
+    "summary": "1 Petitioner, a national both of the United States and of Japan, was indicted for treason, the overt acts relating to his treatment of American prisoners of war. He was convicted of treason after a jury trial, see D.C., 96 F.Supp.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

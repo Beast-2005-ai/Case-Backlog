@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0551",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0551",
+    "summary": "1 The question in each of these cases is whether the Fair Labor Standards Act of 1938, as amended,1 applies to a person employed, by a private contractor at a Government-owned munitions plant operated by the contractor under a cost-plus-a-fixed-fee contract made with the United States. We hold th...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

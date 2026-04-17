@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0946",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0946",
+    "summary": "Fatima Al Amoodi filed a habeas corpus petition challenging the preventive detention of her son Saud Amoodi under the Telangana P.D. The authorities cited his involvement in multiple violent crimes including attempt to murder, extortion, and criminal intimidation.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

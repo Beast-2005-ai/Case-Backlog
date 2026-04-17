@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0484",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0484",
+    "summary": "1 The controversy here concerned the validity of Patent No. 1,906,260, issued to respondent, May 2, 1933, and its alleged infringement by petitioner.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

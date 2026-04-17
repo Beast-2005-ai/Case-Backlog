@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0793",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0793",
+    "summary": "2 The cause grows out of a proceeding initiated by petitioner, the Federal Trade Commission, in 1943. At that time, the Commission issued a three-count complaint against respondent.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

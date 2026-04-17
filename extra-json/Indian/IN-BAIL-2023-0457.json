@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0457",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0457",
+    "summary": "Anand Shrivas was accused in a case concerning an alleged attempt to kidnap a minor. He was not named in the FIR; his name surfaced based on a confidential informant\u2019s information.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

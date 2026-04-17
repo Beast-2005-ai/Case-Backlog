@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0530",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0530",
+    "summary": "1 We have for review a judgment of the Court of Appeals for the Eighth Circuit, reversing petitioner's recovery of an $80,000 judgment against the respondent railroad based on an alleged violation of the Federal Safety Appliance Act1 and the Federal Employers' Liability Act.2 Petitioner was a mem...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

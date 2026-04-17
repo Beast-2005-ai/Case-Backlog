@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0478",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0478",
+    "summary": "1 This case requires our further consideration of the family partnership problem. The Commissioner of Internal Revenue ruled that the entire income from a partnership allegedly entered into by respondent and his four sons must be taxed to respondent,1 and the Tax Court sustained that determination.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

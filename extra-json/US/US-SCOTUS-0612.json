@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0612",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0612",
+    "summary": "1 Petitioner, a Massachusetts corporation, manufactures and sells abrasive machines and supplies. Under consent from the State of Illinois to do business therein, it operates a branch office and warehouse in Chicago from which it makes local sales at retail.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

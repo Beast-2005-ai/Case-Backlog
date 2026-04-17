@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0834",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0834",
+    "summary": "1 In these two cases, the Secretary of the Interior and an association of nonprofit rural electric cooperatives have challenged the authority of the Federal Power Commission to grant to the respondent power company, VEPCO, a license to construct a hydroelectric generating station at Roanoke Rapid...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

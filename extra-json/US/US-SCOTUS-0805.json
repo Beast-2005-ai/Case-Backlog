@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0805",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0805",
+    "summary": "1 The National Labor Relations Board issued a complaint on March 27, 1950, following a charge filed August 3, 1949, by the International Woodworkers of America, Local 6\u20147, against respondent, Dant & Russell, Ltd. The charge was filed in accordance with the procedure of the act, \u00a7 10(b), and was b...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

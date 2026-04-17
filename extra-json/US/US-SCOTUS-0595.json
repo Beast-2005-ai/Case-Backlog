@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0595",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0595",
+    "summary": "1 The issue in this case is the power of a state to fix prices at the wellhead on natural gas produced within its borders and sold interstate. It originates from proceedings before the Oklahoma Corporation Commission which terminated with the promulgation of two orders.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

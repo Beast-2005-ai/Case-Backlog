@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0574",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0574",
+    "summary": "1 In an effort to protect its citizens from 'unfairness, imposition and fraud' in sales of certificates of insurance and other forms of securities, the Virginia 'Blue Sky Law' requires those selling or offering such securities to obtain a permit from the State Corporation Commission.1 Applicants ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0637",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0637",
+    "summary": "1 This is an appeal from a decision of the Court of Appeals of the State of Maryland the effect of which is to deny the appellant a place on the ballot for a municipal election in the City of Baltimore on the ground that she has refused to file an affidavit required by state law. The scope of the...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

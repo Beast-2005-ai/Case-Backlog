@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0978",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0978",
+    "summary": "Kuldeep, a serving Delhi Police constable, was accused along with others of attempting to extort money from a complainant related to a property transaction. He was initially granted bail but re-arrested after Section 395 IPC was added.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

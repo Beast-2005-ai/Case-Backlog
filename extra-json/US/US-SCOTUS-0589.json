@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0589",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0589",
+    "summary": "1 Two courts below have concurred in holding three patent claims to be valid,1 and it is stipulated that, if valid, they have been infringed. We hold that they have not, and that by standards appropriate for a combination patent these claims are invalid.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0898",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0898",
+    "summary": "Jitendera Taneja was accused under Sections 420 and 406 IPC. After his bail was denied by the High Court, he obtained bail from the CJM, Ghaziabad without disclosing the earlier rejection.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

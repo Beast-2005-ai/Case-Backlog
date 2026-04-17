@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0311",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0311",
+    "summary": "1 On December 17, 1943, the petitioner, Timoteo Mariano Andres, was indicted in the United States District Court for the Territory of Hawaii for murder in the first degree. The indictment recited that Andres 'on or about the 23rd day of November, 1943, at Civilian Housing Area No.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

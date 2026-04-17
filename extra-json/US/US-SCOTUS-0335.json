@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0335",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0335",
+    "summary": "855, we recently considered the meaning and effect of \u00a7 12 of the Clayton Act,1 providing for venue and service of process in civil antitrust proceedings against private corporations. This case brings before us another phase of the section's effect in like proceedings.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

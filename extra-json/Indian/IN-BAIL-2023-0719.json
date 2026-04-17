@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0719",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0719",
+    "summary": "Phool Singh was arrested in April 2022 in connection with a case involving kidnapping, assault, and ransom under multiple IPC sections and Arms Act. He had no prior criminal history and sought bail citing extended incarceration and low risk of absconding or influencing witnesses.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0665",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0665",
+    "summary": "Denver Building and Construction Trades Council (the Denver case), 341 U.S. 85, Local 74, United Brotherhood of Carpenters v.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0950",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0950",
+    "summary": "1 The single question in the case is whether the United States may recover indemnity from one of its employees after it has been held liable under the Federal Tort Claims Act,1 60 Stat. \u00a7\u00a7 1346, 2671 et seq., for the negligence of the employee.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0810",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0810",
+    "summary": "1 This is a suit in admiralty against the United States, in which the libellant, petitioner here, sought to recover for its loss of the M. Dona Aurora, which was sunk by enemy action on December 25, 1942.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

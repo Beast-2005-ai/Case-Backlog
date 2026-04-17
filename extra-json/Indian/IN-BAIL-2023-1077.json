@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1077",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-1077",
+    "summary": "Dharmendra @ Bhanja was convicted under Section 392 IPC and sentenced to 5 years' rigorous imprisonment. He filed a third repeat application seeking suspension of sentence.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

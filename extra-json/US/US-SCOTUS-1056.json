@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1056",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1056",
+    "summary": "1 This suit, removed from a Vermont court to the District Court on grounds of diversity of citizenship, was brought for damages for the discharge of petitioner under an employment contract. At the time the contract was made petitioner was a resident of New York.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

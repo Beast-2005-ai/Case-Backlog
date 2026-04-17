@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0427",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0427",
+    "summary": "Imran Khan and others were charged for conspiracy to promote ISIS-inspired terrorist activities through Al-Hind Trust, a front organization. They allegedly held martial arts and weapons training, raised funds, harbored co-conspirators, and transported individuals to target areas.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1075",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1075",
+    "summary": "1 This case involves the construction and constitutional validity of the Act of September 7, 1949, 63 Stat. \u00a7\u00a7 4244\u20144248, 'To provide for the care and custody of insane persons charged with or convicted of offenses against the United States, and for other purposes.' 2 Section 4244 provides a proc...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

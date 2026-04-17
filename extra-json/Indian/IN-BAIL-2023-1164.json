@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1164",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1164",
+    "summary": "Gandhi and others were accused of financial fraud involving the misuse of hire-purchase loans meant for the purchase of four windmills, of which only two were bought. The accused allegedly created false documents to show all four were purchased and misappropriated funds.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

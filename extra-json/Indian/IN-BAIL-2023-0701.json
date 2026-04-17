@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0701",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0701",
+    "summary": "Biru Kumar was named in a cybercrime case where Swapnil was caught with mobile phones and ATM cards. Swapnil named several co-accused, though Biru's name surfaced only in a supervision note during the investigation.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

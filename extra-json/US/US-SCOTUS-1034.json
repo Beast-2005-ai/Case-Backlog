@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1034",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1034",
+    "summary": "1 This suit arose out of a proceeding before the National Railroad Adjustment Board. A dispute had arisen between the Order of Railroad Telegraphers (Telegraphers) and the Illinois Central Railroad Co.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

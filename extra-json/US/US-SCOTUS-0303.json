@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0303",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0303",
+    "summary": "1 Petitioner, who was engaged in litigation in the Illinois courts with one Shamberg, was ordered on a motion for discovery to produce certain documents. He produced them by filing them with the clerk of the Illinois courts.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

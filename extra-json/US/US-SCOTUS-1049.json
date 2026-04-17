@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1049",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1049",
+    "summary": "1 We reverse the judgment of the Court of Appeals, 216 F.2d 772, without reaching the constitutional challenge to that court's jurisdiction to review the denial by the trial court of a motion for a new trial on the ground that the verdict was excessive. Even assuming such appellate power to exist...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

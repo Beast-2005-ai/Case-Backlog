@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0725",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0725",
+    "summary": "1 The Territorial Legislature of Alaska provided for the licensing of commercial fishermen in territorial waters, imposing a $5 license fee on resident fishermen and a $50 fee on nonresidents. The Alaska Fishermen's Union and its Secretary-Treasurer, on behalf of some 3,200 nonresident union memb...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

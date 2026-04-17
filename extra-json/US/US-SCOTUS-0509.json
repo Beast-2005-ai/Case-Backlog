@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0509",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0509",
+    "summary": "1 These cases present the question of whether \u00a7 1 of the Act of May 10, 1920,1 authorizes the deportation of an alien under the following circumstances occurring since that Act took effect: (1) The alien was naturalized; (2) while he was a naturalized citizen he was convicted of a conspiracy to v...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

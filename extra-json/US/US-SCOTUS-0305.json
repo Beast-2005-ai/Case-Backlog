@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0305",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0305",
+    "summary": "1 In the Circuit Court of La Salle County, Illinois, the petitioner, Roy Bute, pleaded guilty to the crime of 'taking indecent liberties with children' as charged in each of two indictments and, on each plea, was sentenced to confinement in the Illinois State Penitentiary for not less than one no...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

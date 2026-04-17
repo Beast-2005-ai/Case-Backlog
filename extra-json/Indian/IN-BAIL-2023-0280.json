@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0280",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0280",
+    "summary": "The case involves a bank robbery where Chandan @ Chandu Majhi was apprehended. Unlike a co-accused who was granted bail, Chandan was identified in a Test Identification Parade and cash was recovered on his statement.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

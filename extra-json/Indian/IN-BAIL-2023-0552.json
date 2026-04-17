@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0552",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0552",
+    "summary": "Shabna Abdulla was implicated in a gold smuggling operation involving 14.7 kg of gold hidden in a refrigerator imported via unaccompanied baggage. She was arrested along with others, and a detention order under COFEPOSA was issued.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

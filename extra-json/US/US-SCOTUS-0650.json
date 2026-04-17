@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0650",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0650",
+    "summary": "1 The principal question here concerns personal liability of a reorganization trustee who, although making no personal profit, permitted key employees to profit from trading in securities of the debtors' subsidiaries. Upon a long record, controlling facts have been found with little disagreement.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

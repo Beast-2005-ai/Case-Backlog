@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0801",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0801",
+    "summary": "Bhunesh was accused of forging an affidavit to falsely implicate a complainant in a fabricated FIR, allegedly as part of a conspiracy to extort money and pressure the complainant to sell land. His first anticipatory bail was withdrawn with an undertaking to surrender, which he failed to honour.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1037",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-1037",
+    "summary": "1 The Court has here under review the decision of a state court rejecting a claim of infirmity in a conviction for murder based on a constitutional ground raised for the first time in an extraordinary proceeding after the conviction had been affirmed on appeal. Respect for the State's administrat...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

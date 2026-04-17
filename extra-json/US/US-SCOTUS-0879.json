@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0879",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0879",
+    "summary": "1161, that racial restrictive covenants could not be enforced in equity against Negro purchasers because such enforcement would constitute state action denying equal protection of the laws to the Negroes, in violation of the Fourteenth Amendment to the Federal Constitution. The question we now ha...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

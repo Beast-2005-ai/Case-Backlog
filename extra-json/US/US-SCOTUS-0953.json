@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0953",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0953",
+    "summary": "1 The principal question for decision is whether the Defense Production Act of 19501 authorized the President to apply administrative action to the enforcement of its wage stabilization provisions. For the reasons hereafter stated, we decide that it did.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

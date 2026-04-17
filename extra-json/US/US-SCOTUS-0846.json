@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0846",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0846",
+    "summary": "1 Invoking the Criminal Appeals Act, 18 U.S.C. \u00a7 3731, the Government appeals from a dismissal of a two-count information charging appellee with violations of the Civil Rights Act, 18 U.S.C.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

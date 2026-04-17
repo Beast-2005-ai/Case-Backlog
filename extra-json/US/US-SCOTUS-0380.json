@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0380",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0380",
+    "summary": "\u00a7 621, provides: 2 'The judge shall confirm a plan if satisfied that\u2014* * * 3 '(4) all payments made or promised by the debtor or by a corporation issuing securities or acquiring property under the plan or by any other person, for services and for costs and expenses in, or in connection with, the ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

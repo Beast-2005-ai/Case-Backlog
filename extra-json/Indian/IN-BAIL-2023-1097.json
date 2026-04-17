@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1097",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1097",
+    "summary": "On July 8, 1999, six armed men entered a shop in Seelampur and committed armed robbery, stealing gold jewelry and cash. Pradeep and others were arrested later based on disclosures in another case.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

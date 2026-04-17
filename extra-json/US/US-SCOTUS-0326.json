@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0326",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0326",
+    "summary": "1 This case first presents the question whether a plaintiff recovering under the Federal Employers' Liability Act, 45 U.S.C.A. \u00a7 51, is entitled to have interest on the verdict for the interval between its return and the entry of judgment, where the Circuit Court of Appeals' mandate which authori...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

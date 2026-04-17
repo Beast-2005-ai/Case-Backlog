@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0554",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0554",
+    "summary": "1 Does the Fourteenth Amendment of the Constitution bar a State from use of the injunction to prohibit picketing of a place of business solely in order to secure compliance with a demand that its employees be in proportion to the racial origin of its then customers? Such is the broad question of ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

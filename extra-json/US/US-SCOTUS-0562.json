@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0562",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0562",
+    "summary": "1 This suit, like its companion United States v. 914, invokes our original jurisdiction under Art.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

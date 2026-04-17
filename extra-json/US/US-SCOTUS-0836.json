@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0836",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0836",
+    "summary": "1 The appellant railroads brought this action in a United States District Court to set aside a rate order of the Interstate Commerce Commission. The order prescribed maximum carload rates for carrying certain kinds of fresh vegetables.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

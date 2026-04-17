@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0729",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0729",
+    "summary": "The case relates to a gang rape incident. The informant alleged that other co-accused committed the rape, but no specific role was attributed to the petitioner.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

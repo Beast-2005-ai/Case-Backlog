@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0776",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0776",
+    "summary": "1 One Cunningham applied to the Interstate Commerce Commission for a certificate of public convenience and necessity to authorize extension of his existing motor carrier route.1 A railroad and eleven motor carriers, including appellee, intervened to oppose. The issues were referred to an examiner...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

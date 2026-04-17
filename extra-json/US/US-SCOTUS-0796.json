@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0796",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0796",
+    "summary": "1 The issue is whether a United States District Court has jurisdiction to award relief to an American corporation against acts of trade-mark infringement and unfair competition consummated in a foreign country by a citizen and resident of the United States. Bulova Watch Company, Inc., a New York ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

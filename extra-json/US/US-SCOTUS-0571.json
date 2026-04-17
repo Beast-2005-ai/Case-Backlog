@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0571",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0571",
+    "summary": "1 The tax consequences of a purchase of convertible bonds are in issue here. In August, 1944, respondent, an individual taxpayer, purchased certain American Telephone and Telegraph Company bonds, each having a face value of $100, at a premium price averaging slightly in excess of $121.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

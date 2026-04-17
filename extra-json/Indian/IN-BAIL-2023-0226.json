@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0226",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0226",
+    "summary": "Arnesh Kumar was accused under Section 498A IPC and Section 4 of the Dowry Prohibition Act by his wife, who alleged harassment and dowry demands by her in-laws and support from the husband. His anticipatory bail was denied by lower courts.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

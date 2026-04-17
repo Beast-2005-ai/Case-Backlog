@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0751",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0751",
+    "summary": "1 These cases present the question whether Congress, in enacting the Public Vessels Act of 1925, 43 Stat. \u00a7 781 et seq., has consented that the United States be sued for 'damages' by or on behalf of members of the civil service component of the crew of military transport vessels.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

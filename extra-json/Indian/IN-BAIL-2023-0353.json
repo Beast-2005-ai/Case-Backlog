@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0353",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0353",
+    "summary": "Novafor Samuel Inoamaobi, a foreign national, was arrested in October 2020 for alleged possession of cocaine and ecstasy based on substances seized in a police trap. The initial forensic report suggested NDPS Act applicability.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

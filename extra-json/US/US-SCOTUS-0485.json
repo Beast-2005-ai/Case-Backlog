@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0485",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0485",
+    "summary": "1 The First National Bank\u2014Detroit, closed its doors in 1933 and, in its liquidation, dividends on proved claims, small in average but large in the aggregate, have remained for some years in the hands of the federal liquidators, unclaimed by their owners. Since this national banking institution wa...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

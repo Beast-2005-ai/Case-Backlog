@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0307",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0307",
+    "summary": "1 The appellee Scophony, Limited, is a British corporation which has its offices and principal place of business in London, England. The question is whether that company 'transacted business' and was 'found' within the Southern District of New York under \u00a7 12 of the Clayton Act,1 so that it could...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

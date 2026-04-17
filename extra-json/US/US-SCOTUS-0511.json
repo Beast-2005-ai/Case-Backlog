@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0511",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0511",
+    "summary": "1 May the United States exclude without hearing, solely upon a finding by the Attorney General that her admission would be prejudicial to the interests of the United States, the alien wife of a citizen who had served honorably in the armed forces of the United States during World War II? The Dist...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

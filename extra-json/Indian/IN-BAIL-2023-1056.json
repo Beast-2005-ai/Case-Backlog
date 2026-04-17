@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1056",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1056",
+    "summary": "Inder Singh was arrested after being found driving a Scooty containing 576 capsules of Tramadol (SPASMO-PROXYVON PLUS and SPAS-PARVION PLUS), which were recovered during a police check. He claimed he was falsely implicated and that the co-accused Arun Dhiman had purchased the drugs.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

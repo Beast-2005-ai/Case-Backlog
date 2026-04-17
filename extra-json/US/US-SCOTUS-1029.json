@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1029",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1029",
+    "summary": "1 Petitioner was convicted for contempt of Congress under 2 U.S.C. \u00a7 192, in the District Court of the District of Columbia.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1197",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1197",
+    "summary": "Amaluddin Dewan was arrested in a case of kidnapping for ransom involving a minor boy. He was not named in the FIR but was implicated based on the confessional statements of co-accused.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

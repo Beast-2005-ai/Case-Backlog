@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0678",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0678",
+    "summary": "Mohit Kumar Kannojia and others were accused of cybercrime involving fraudulent withdrawals of \u20b94.8 crore using cloned or unauthorized ATM/PTM cards. The accused belonged mostly to Kanpur and were allegedly part of a well-planned conspiracy.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

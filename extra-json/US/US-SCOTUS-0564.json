@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0564",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0564",
+    "summary": "851, present different aspects of this general question: To what extent does the Equal Protection Clause of the Fourteenth Amendment limit the power of a state to distinguish between students of different races in professional and graduate education in a state university? Broader issues have been...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

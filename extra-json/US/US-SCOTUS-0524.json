@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0524",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0524",
+    "summary": "1 Respondent was convicted of selling and of possessing and concealing forged and altered obligations of the United States with intent to defraud. The question presented here is the reasonableness of a search without a search warrant of a place of business consisting of a one-room office, inciden...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

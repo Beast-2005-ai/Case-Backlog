@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0994",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0994",
+    "summary": "1 The question in the case is whether the Securities and Exchange Commission has jurisdiction to pass on a fee to be paid by Electric Bond & Share Co. in connection with a reorganization plan filed by its subsidiary, Electric Power & Light Corp., under \u00a7 11(e) of the Public Utility Holding Compan...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

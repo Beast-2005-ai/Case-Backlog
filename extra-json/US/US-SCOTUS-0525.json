@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0525",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0525",
+    "summary": "1 Petitioner was convicted of murder in a Georgia state court. His sentence was death by electrocution.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

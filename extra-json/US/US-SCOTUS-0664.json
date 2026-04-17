@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0664",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0664",
+    "summary": "Crockett, Jr., Washington, D.C., Abraham J. Isserman, Los Angeles, Cal., for petitioners.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

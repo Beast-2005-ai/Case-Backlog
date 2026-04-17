@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0565",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0565",
+    "summary": "1 The question here is whether the rules and practices of the Southern Railway Company, which divide each dining car so as to allot ten tables exclusively to white passengers and one table exclusively to Negro passengers, and which call for a curtain or partition between that table and the others...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

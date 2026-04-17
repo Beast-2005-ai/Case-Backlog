@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1078",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1078",
+    "summary": "Petitioner was convicted on four counts of wilfully attempting to evade and defeat federal income taxes. When this case was first here we knew nothing about the facts concerning the phase of the case now before us.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

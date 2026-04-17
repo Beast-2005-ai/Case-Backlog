@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0655",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0655",
+    "summary": "1 Respondents, Maryland and Delaware corporations, are distributors of gin and whiskey. They sell their products to wholesalers in Louisiana, who in turn sell to retailers.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

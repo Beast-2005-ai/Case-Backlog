@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1072",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1072",
+    "summary": "1 The question presented in this case is whether under the Natural Gas Act, 52 Stat. \u00a7 717 et seq., a regulated natural gas company furnishing gas to a distributing company under a long-term contract may, without the consent of the distributing company, change the rate specified in the contract s...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

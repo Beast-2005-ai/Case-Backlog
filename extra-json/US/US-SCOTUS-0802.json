@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0802",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0802",
+    "summary": "1 Acting under \u00a7 10(c) of the Labor Management Relations Act, 1947 (the Taft-Hartley Act), 61 Stat. \u00a7 160(c), the National Labor Relations Board ordered the reinstatement of eleven discriminatorily discharged employees of the Seven-Up Bottling Company, with back pay 'to be computed upon a quarter...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

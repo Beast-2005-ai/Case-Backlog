@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0610",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0610",
+    "summary": "1 This case arises out of an investigation by the regularly convened grand jury of the United States District Court for the District of Colorado. The books and records of the Communist Party of Denver were sought as necessary to that inquiry and were the subject of questioning by the grand jury.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

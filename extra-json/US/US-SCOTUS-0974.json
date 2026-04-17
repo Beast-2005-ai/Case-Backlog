@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0974",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0974",
+    "summary": "1 This is the second in the group of four cases involving income tax prosecutions under the net worth method of proof. In this case petitioner was indicted for the years 1944 through 1947, and convicted on all counts except the first, covering the year 1944.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

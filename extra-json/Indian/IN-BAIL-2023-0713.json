@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0713",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0713",
+    "summary": "Jaichand Pandey was accused in a kidnapping-for-ransom case under Section 364A IPC, registered in 2021. He was not named in the FIR, and both the informant and victim later stated he was not present or involved.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

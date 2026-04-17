@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1166",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-1166",
+    "summary": "Santosh Jayram Bhagat was arrested in 2014 in connection with an attempted dacoity at an ATM center in Nashik. He and his associates were found hiding and later apprehended after a chase.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

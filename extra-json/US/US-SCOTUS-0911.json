@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0911",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0911",
+    "summary": "1 In May 1950, petitioner was indicted in the United States District Court for the Western District of Missouri for purchasing and possessing one grain of heroin. Claiming that the heroin capsule had been obtained through an unlawful search and seizure, petitioner moved to suppress it.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

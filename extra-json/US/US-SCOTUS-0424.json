@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0424",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0424",
+    "summary": "1 The Fifth Amendment to the Constitution provides that a person shall not 'be twice put in jeopardy of life or limb' for the same offense. The petitioner, now in prison under a court-martial conviction for a serious offense, contends he is entitled to his freedom because another court-martial ha...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

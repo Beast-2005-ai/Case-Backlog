@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0350",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0350",
+    "summary": "6 Since 1933 the Missouri Pacific, the New Orleans, Texas and Mexico Railway Co. and a number of affiliated railroad corporations have been in reorganization under the Bankruptcy Act, 11 U.S.C.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

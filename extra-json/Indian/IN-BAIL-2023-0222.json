@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0222",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0222",
+    "summary": "Dharmendra Singh was arrested for the alleged dowry death of his wife within 14 months of marriage. Initial applications for bail had been rejected, but after 16 months in custody and examination of material witnesses including the doctor, his bail plea was reconsidered.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

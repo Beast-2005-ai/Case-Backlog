@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0602",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0602",
+    "summary": "1 Petitioner was summoned to appear before a federal district grand jury in Denver, Colorado. Both before that body and before the district judge where he was later taken, petitioner declined to answer questions concerning the activities and records of the Communist Party of Colorado, claiming hi...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

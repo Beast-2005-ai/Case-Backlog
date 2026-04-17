@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1011",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-1011",
+    "summary": "509, present questions concerning the proper interpretation of the general savings clause of the Immigration and Nationality Act of 1952, 66 Stat. This clause, \u00a7 405 of the Act, provides as follows: 2 '(a) Nothing contained in this Act, unless otherwise specifically provided therein, shall be con...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0431",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0431",
+    "summary": "1 Petitioner after jury trial was found guilty of disorderly conduct in violation of a city ordinance of Chicago1 and fined. The case grew out of an address he delivered in an auditorium in Chicago under the auspices of the Christian Veterans of America.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

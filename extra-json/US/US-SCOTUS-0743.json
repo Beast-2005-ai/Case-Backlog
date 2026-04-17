@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0743",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0743",
+    "summary": "1 Respondents are cargo owners1 who shipped goods on the steamship Nathaniel Bacon owned by petitioner, the United States, and operated as a common carrier of goods for hire. It collided with the Esso Belgium and respondents' cargo was damaged.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

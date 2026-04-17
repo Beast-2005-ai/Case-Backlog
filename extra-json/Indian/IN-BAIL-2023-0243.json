@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0243",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0243",
+    "summary": "Harwinder Singh @ Bhinda was accused in a violent incident involving snatching a Fortuner car at gunpoint, followed by a police chase and exchange of fire. During the encounter, some co-accused were injured and later died.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

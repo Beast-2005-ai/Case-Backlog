@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1122",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1122",
+    "summary": "Yogaraja, was accused in a case involving the kidnapping and alleged child marriage of a girl. He was accused of transporting the girl on his motorcycle as part of a larger group aiding the principal accused who married the girl in a temple.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

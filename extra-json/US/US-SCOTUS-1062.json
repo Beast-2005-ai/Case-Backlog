@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1062",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1062",
+    "summary": "1 Because of conflicting constructions by the Courts of Appeals for the Second and Third Circuits of \u00a7 235(a) of the Immigration and Nationality Act of 1952, 66 Stat. \u00a7\u00a7 1101 et seq., 1225(a), we brought these cases here.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

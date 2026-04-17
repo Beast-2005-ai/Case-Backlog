@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0527",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0527",
+    "summary": "1 An information was filed against the respondent Geraldine Little in the Municipal Court for the District of Columbia charging that she had interfered with a District Health Department inspector in the performance of his official duties. The evidence showed that respondent had told the health of...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

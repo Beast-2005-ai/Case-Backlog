@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1005",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-1005",
+    "summary": "1 This suit was instituted in the District Court to have an Oklahoma law, 59 Okl.Stat.Ann. 13, \u00a7\u00a7 1\u20148, declared unconstitutional and to enjoin state officials from enforcing it, 28 U.S.C.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

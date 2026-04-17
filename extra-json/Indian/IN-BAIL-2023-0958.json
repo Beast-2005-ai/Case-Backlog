@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0958",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0958",
+    "summary": "Kirti Shantilal Gandhi and his son were accused of sheltering a murder accused, Samir Shah, who was involved in the custodial death of an employee. The deceased was allegedly kidnapped, confined, and beaten to death for suspected financial fraud.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

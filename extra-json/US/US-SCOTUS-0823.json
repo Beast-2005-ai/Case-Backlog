@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0823",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0823",
+    "summary": "Admitting that he was lawfully inducted into the Army, he asks the courts, by habeas corpus, to discharge him because he has not been assigned to the specialized duties nor given the commissioned rank to which he claims to be entitled by the circumstances of his induction. The petitioner had pass...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

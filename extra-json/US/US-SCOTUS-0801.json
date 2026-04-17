@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0801",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0801",
+    "summary": "1 The question presented is whether under the circumstances of this case reorganization of the respondent railroad under \u00a7 77 of the Bankruptcy Act1 destroyed and barred enforcement of liens which New York City had imposed on specific parcels of the railroad's real estate for street, sewer and ot...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

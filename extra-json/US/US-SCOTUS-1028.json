@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1028",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-1028",
+    "summary": "1 On November 20, 1950, the petitioner was indicted under 2 U.S.C. \u00a7 192, for refusing to answer thirty-two questions put to him by a subcommittee of the Committee on Un-American Activities of the House of Representatives.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

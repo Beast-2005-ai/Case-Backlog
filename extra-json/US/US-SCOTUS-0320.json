@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0320",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0320",
+    "summary": "1 The action is for treble damages incurred by virtue of alleged violation of the Sherman Act, \u00a7\u00a7 1 and 2. 1824, from affirmance by the Circuit Court of Appeals, 9 Cir., 159 F.2d 71, of a judgment of the District Court, 64 F.Supp.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

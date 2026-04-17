@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0632",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0632",
+    "summary": "1 Section 205(e) of the Emergency Price Control Act of 1942, as amended, authorized the Price Administrator under certain circumstances to institute damage actions against sellers of commodities who charged more than prescribed ceiling prices.1 Pursuant to this section, the consolidated cases now...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

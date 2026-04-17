@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0696",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0696",
+    "summary": "1 The C-O-Two Fire Equipment Company, the respondent here, owns two patents, one issued on November 23, 1948, and the other reissued on August 23, 1949, for squeezegrip values and discharge heads for portable fire extinguishers. C-O-Two, incorporated in Delaware, has offices in Newark, New Jersey.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0828",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0828",
+    "summary": "1 The City of Pawtucket, Rhode Island, has an ordinance which reads as follows: 2 'Sec. No person shall address any political or religious meeting in any public park; but this section shall not be construed to prohibit any political or religious club or society from visiting any public park in a ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

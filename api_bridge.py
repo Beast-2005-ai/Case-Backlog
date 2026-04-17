@@ -26,6 +26,7 @@ CONFIG_FILE = os.path.join(BASE_DIR, "system_config.json")
 
 os.makedirs(os.path.join(JSON_FOLDER, "US"), exist_ok=True)
 os.makedirs(os.path.join(JSON_FOLDER, "Indian"), exist_ok=True)
+os.makedirs(os.path.join(JSON_FOLDER, "International"), exist_ok=True)
 
 def write_log(action, details=""):
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -33,11 +34,9 @@ def write_log(action, details=""):
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(log_entry)
 
-# --- CONFIGURATION MANAGER LOGIC (UPDATED FOR MULTIPLE ACTIVES) ---
 def init_config():
     if not os.path.exists(CONFIG_FILE):
         with open(CONFIG_FILE, 'w', encoding='utf-8') as f:
-            # We now use an array to allow multiple simultaneous configs
             json.dump({"active_ids": [], "configs": []}, f, indent=4)
 init_config()
 
@@ -47,38 +46,34 @@ class ConfigPayload(BaseModel):
 
 @app.get("/config")
 def get_config():
-    with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
-        return json.load(f)
+    with open(CONFIG_FILE, 'r', encoding='utf-8') as f: return json.load(f)
 
 @app.post("/config")
 def save_config(payload: ConfigPayload):
-    with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    # --- STRICT BACKEND VALIDATION ---
+    if not payload.name.strip():
+        return {"status": "error", "message": "Profile name cannot be empty."}
     
+    if not payload.keywords or len(payload.keywords) == 0:
+        return {"status": "error", "message": "Profile must contain at least one valid keyword."}
+
+    with open(CONFIG_FILE, 'r', encoding='utf-8') as f: data = json.load(f)
     new_id = f"config_{str(uuid.uuid4().hex)[:8]}"
-    new_config = {
-        "id": new_id,
-        "name": payload.name,
-        "keywords": payload.keywords
-    }
+    new_config = { "id": new_id, "name": payload.name, "keywords": payload.keywords }
     
     if "configs" not in data: data["configs"] = []
     if "active_ids" not in data: data["active_ids"] = []
     
     data["configs"].append(new_config)
-    data["active_ids"].append(new_id) # Auto-activate new config
+    data["active_ids"].append(new_id) 
     
-    with open(CONFIG_FILE, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4)
-        
+    with open(CONFIG_FILE, 'w', encoding='utf-8') as f: json.dump(data, f, indent=4)
     write_log("CONFIG SAVED", f"Created and activated new AI profile: {payload.name}")
     return {"status": "success", "active_ids": data["active_ids"]}
 
 @app.put("/config/toggle/{config_id}")
 def toggle_config(config_id: str):
-    with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-    
+    with open(CONFIG_FILE, 'r', encoding='utf-8') as f: data = json.load(f)
     if "active_ids" not in data: data["active_ids"] = []
         
     if config_id in data["active_ids"]:
@@ -88,28 +83,20 @@ def toggle_config(config_id: str):
         data["active_ids"].append(config_id)
         action = "Activated"
         
-    with open(CONFIG_FILE, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4)
-        
+    with open(CONFIG_FILE, 'w', encoding='utf-8') as f: json.dump(data, f, indent=4)
     write_log("CONFIG TOGGLED", f"{action} AI Profile ID: {config_id}")
     return {"status": "success", "active_ids": data["active_ids"]}
 
 @app.delete("/config/{config_id}")
 def delete_config(config_id: str):
-    with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-        
+    with open(CONFIG_FILE, 'r', encoding='utf-8') as f: data = json.load(f)
     data["configs"] = [c for c in data.get("configs", []) if c["id"] != config_id]
-    if config_id in data.get("active_ids", []):
-        data["active_ids"].remove(config_id)
+    if config_id in data.get("active_ids", []): data["active_ids"].remove(config_id)
         
-    with open(CONFIG_FILE, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4)
-        
+    with open(CONFIG_FILE, 'w', encoding='utf-8') as f: json.dump(data, f, indent=4)
     write_log("CONFIG DELETED", f"Deleted AI Profile ID: {config_id}")
     return {"status": "success"}
 
-# --- KEEP YOUR EXISTING ENDPOINTS BELOW ---
 @app.get("/queue")
 def get_queue():
     processed_data = []
@@ -124,12 +111,12 @@ def get_queue():
                     filename = parts[0].replace("Case: ", "").strip()
                     verdict = json.loads(parts[1])
                     ai_verdicts[filename] = verdict
-                except:
-                    continue
+                except: continue
 
     if os.path.exists(JSON_FOLDER):
         for root, dirs, files in os.walk(JSON_FOLDER):
-            current_region = "US" if "US" in root else ("India" if "Indian" in root else "Global")
+            current_region = "US" if "US" in root else ("India" if "Indian" in root else "International")
+            
             for filename in files:
                 if filename.endswith('.json'):
                     filepath = os.path.join(root, filename)
@@ -157,11 +144,10 @@ def get_queue():
                         processed_data.append({
                             "id": case_id, "region": current_region, "title": real_title,
                             "priority_score": round(random.uniform(30.00, 49.99), 2),
-                            "justification": "Pending AI deep-analysis in background queue...",
+                            "justification": "Pending AI deep-analysis...",
                             "summary": real_summary, "type": real_type,
                             "status": "Pending"
                         })
-
     return sorted(processed_data, key=lambda x: x['priority_score'], reverse=True)
 
 @app.post("/upload")
@@ -183,21 +169,35 @@ async def upload_case(file: UploadFile = File(...)):
                     except: pass
     
     text_lower = text.lower()
-    is_india = any(kw in text_lower for kw in ["ipc", "crpc", "high court", "delhi", "maharashtra", "bail app"])
-    region_folder = "Indian" if is_india else "US"
+    
+    is_india = any(kw in text_lower for kw in ["ipc", "crpc", "high court", "delhi", "maharashtra", "bail app", "india"])
+    is_us = any(kw in text_lower for kw in ["united states", "us district court", "scotus", "federal court", "usa", "california", "texas", "new york"])
+    
+    if is_india:
+        region_folder = "Indian"
+        region_flag = "India"
+        prefix = "IN-UPLOAD"
+    elif is_us:
+        region_folder = "US"
+        region_flag = "USA"
+        prefix = "US-UPLOAD"
+    else:
+        region_folder = "International"
+        region_flag = "International"
+        prefix = "INT-UPLOAD"
+    
     case_type = "Civil Litigation"
     if any(w in text_lower for w in ['divorce', 'child', 'marriage']): case_type = "Family Law"
     elif any(w in text_lower for w in ['patent', 'copyright', 'tax', 'corporate']): case_type = "Corporate / IP"
     elif any(w in text_lower for w in ['murder', 'assault', 'bail', 'custody']): case_type = "Criminal Defense"
 
     unique_id = str(uuid.uuid4().hex)[:6].upper()
-    prefix = "IN-UPLOAD" if is_india else "US-UPLOAD"
     case_id = f"{prefix}-2026-{unique_id}"
     
     formatted_case = {
         "case_id": case_id, "timestamp": "2026-03-29", "case_type": case_type,
         "title": f"Direct Client Upload Docket {case_id}", "summary": clean_text, 
-        "flags": {"region": "India" if is_india else "USA", "direct_upload": True}
+        "flags": {"region": region_flag, "direct_upload": True}
     }
     
     save_path = os.path.join(JSON_FOLDER, region_folder, f"{case_id}.json")

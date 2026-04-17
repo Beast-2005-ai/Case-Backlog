@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1059",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-1059",
+    "summary": "Nishant Rawat was arrested after a parcel addressed to him was found containing 10 LSD blots (0.17 grams, commercial quantity). The parcel was seized along with 27 others based on secret information received by NCB.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

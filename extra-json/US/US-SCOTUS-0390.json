@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0390",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0390",
+    "summary": "1 While participating as counsel in the trial of a cause the petitioner, Joe J. Fisher, was adjudged guilty of contempt committed in the presence of the court by the District Court of Jasper County, Texas.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

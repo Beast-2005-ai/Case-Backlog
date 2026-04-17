@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0645",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0645",
+    "summary": "Dinesh Paswan was implicated in a cybercrime case under several IPC and IT Act sections. The allegations against him were general in nature with no specific role attributed.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

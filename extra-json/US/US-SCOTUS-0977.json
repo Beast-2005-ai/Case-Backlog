@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0977",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0977",
+    "summary": "1 Petitioner, who is in a Texas prison under a life sentence imposed by a Texas court, brought this petition for writ of habeas corpus in the Federal District Court. His claim is that he was denied the due process of law guaranteed by the Fourteenth Amendment because he was tried and convicted of...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

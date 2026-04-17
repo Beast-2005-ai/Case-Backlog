@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0574",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0574",
+    "summary": "Mam Chand @ Bhola Ram was arrested in a case under Section 19/54 of the Rajasthan Excise Act involving alleged liquor smuggling. The main accused from whom recovery was made were already granted bail.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1085",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1085",
+    "summary": "1 The State of New Jersey imposes on each domestic corporation 'an annual franchise tax * * * for the privilege of having or exercising its corporate franchise' in the State.1 This tax, as applied to appellant, is measured by the corporation's 'net worth,' which is defined as the sum of the corpo...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

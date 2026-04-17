@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0880",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0880",
+    "summary": "1 These cases were argued immediately following No. They concern the Wartime Suspension of Limitations Act which we found inapplicable to the offenses stated in the Bridges indictment.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

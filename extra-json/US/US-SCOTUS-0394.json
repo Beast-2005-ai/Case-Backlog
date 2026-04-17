@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0394",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0394",
+    "summary": "1 This is a workmen's compensation case, under the Longshoremen's and Harbor Workers' Compensation Act, 44 Stat. A narrow and difficult question of statutory construction confronts us.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

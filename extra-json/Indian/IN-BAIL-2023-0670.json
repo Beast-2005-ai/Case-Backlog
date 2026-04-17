@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0670",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0670",
+    "summary": "Jahangir Mian was arrested in connection with a cyber crime case where a police raid on his house resulted in recovery of ATM cards and passbooks. He was suspected of cyber crime involvement and had a prior case in Orissa but was not sent up for trial.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

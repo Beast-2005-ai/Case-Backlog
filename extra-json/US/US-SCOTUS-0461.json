@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0461",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0461",
+    "summary": "1613 INTERSTATE OIL PIPE LINE CO.v.STONE, Chairman State Tax Commission. Appeal from the Supreme Court of the State of Mississippi.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

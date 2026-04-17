@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1105",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1105",
+    "summary": "Ram Babu Singh was accused of kidnapping a child in 2013. The FIR was lodged after a delay of six days.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

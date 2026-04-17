@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0463",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0463",
+    "summary": "Williamson, Aiken, S.C., for petitioner. 1 On Sunday morning, April 28, 1946, Edward L.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0614",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0614",
+    "summary": "1 The State of Maryland imposes on steam railroad companies a franchise tax, measured by gross receipts, apportioned to the length of their lines within the State.1 Appellant Canton Railroad Company, a Maryland corporation, challenges the validity of the tax under the Import-Export Clause of the ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

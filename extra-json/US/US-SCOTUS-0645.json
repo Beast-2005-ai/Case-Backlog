@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0645",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0645",
+    "summary": "Davis, Washington, D.C., for petitioner. Burr Tracy Ansell, Washington, D.C., for respondent.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

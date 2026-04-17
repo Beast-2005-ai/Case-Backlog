@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1024",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-1024",
+    "summary": "The complainant, while returning home, was intercepted near Aditya Hotel by the applicant and a co-accused who allegedly snatched her gold chain and fled on a motorcycle. The applicant was arrested and confessed during interrogation.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0429",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0429",
+    "summary": "1 The American Foreign Service at Stockholm issued to petitioner an immigration visa to come to the United States as a Swedish quota immigrant. On the ground that she was a mental defective, authorities of the Immigration and Naturalization Service declined to admit her into this country and orde...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0916",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0916",
+    "summary": "223, is the successor by merger to Chicago and Southern Air Lines (C & S). C & \u00a7 was an air carrier which conducted both domestic and foreign operations prior to the merger.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0912",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0912",
+    "summary": "1 The petitioners, Pereira and Brading, were convicted in the District Court for the Western District of Texas under three counts of an indictment charging violation of the mail fraud statute, 18 U.S.C. \u00a7 1341, violation of the National Stolen Property Act, 18 U.S.C.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

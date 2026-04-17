@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0476",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0476",
+    "summary": "1810 TURNERv.COMMONWEALTH OF PENNSYLVANIA. Rome, Philadelphia, Pa., for petitioner.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

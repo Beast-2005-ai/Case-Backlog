@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0634",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0634",
+    "summary": "1 The facts leading to this controversy are fully set forth in United States v. Alcea Band of Tillamooks, 1946, 329 U.S.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1003",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1003",
+    "summary": "1 This litigation involves two cases with independent factual backgrounds yet presenting the identical issue. The two cases were consolidated for argument before the Court of Appeals for the Third Circuit and were heard en banc.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

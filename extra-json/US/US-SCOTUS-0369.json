@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0369",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0369",
+    "summary": "1 Petitioner is held by the Commonwealth of Pennsylvania in the Western State Penitentiary on sentences totalling a minimum of twenty and a maximum of forty years pronounced pursuant to his pleas of guilty to four indictments charging burglary. 1489, to review a denial by the Supreme Court of Pen...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0896",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0896",
+    "summary": "The accused was charged in a robbery case involving theft of \u20b940,000, 15 new mobile phones, and personal documents. Seven looted phones were recovered from his house, and he was also identified in CCTV footage.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

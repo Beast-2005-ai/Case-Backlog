@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0988",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0988",
+    "summary": "1 This is a civil antitrust action brought by the Government in the United States District Court for the Southern District of New York. The defendants\u2014three corporations and two individuals\u2014are engaged in the business of promoting professional championship boxing contests.1 The Government's compl...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

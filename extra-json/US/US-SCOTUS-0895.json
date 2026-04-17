@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0895",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0895",
+    "summary": "1 This case is here on appeal from a judgment of a three-judge court for the Northern District of California. California Public Utilities Commission, 109 F.Supp.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

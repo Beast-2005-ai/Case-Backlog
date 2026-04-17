@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0903",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0903",
+    "summary": "Adhi Rajaram, a political figure and CMD of Tamil Nadu Fisheries Development Corporation, was accused of orchestrating a brutal assault on advocate K.M. Vijayan to prevent him from appearing before the Supreme Court in a case challenging Tamil Nadu's reservation policy.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0931",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0931",
+    "summary": "1 This appeal challenges a municipal income tax ordinance which excises gross salary and wages of the employed but only net profits of the self-employed, of corporations and of business enterprises. Appellants, who are wage earners, sued in the state courts for a declaratory judgment and injuncti...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

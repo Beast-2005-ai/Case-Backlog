@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0700",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0700",
+    "summary": "1 The Retailers' Sales Tax Act of Tennessee, Tenn.Acts 1947, c. 3, imposes a sales tax on the sale of goods in Tennessee and a use tax on the use within the state of goods purchased elsewhere.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

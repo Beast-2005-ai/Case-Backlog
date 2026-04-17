@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0901",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0901",
+    "summary": "The deceased, Nitin, had given Rs. 71,500 for a promised job for his brother but the cheque he received was dishonoured.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

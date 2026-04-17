@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0419",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0419",
+    "summary": "1 Nye & Nissen is a corporation which during the years covered by the indictment was engaged in the business of purchasing and selling eggs, butter, and cheese in San Francisco. Throughout this period Moncharsh was president of the corporation, one of its directors, and the owner of one-third of ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

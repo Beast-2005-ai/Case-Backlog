@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0535",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0535",
+    "summary": "1 We are called upon to decide whether the Interstate Commerce Commission, in approving a consolidation of railroad facilities under \u00a7 5(2)(f) of the Interstate Commerce Act,1 has the power to extend the period of protection of the interests of the railroad employees beyond four years from the ef...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

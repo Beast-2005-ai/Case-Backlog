@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0923",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0923",
+    "summary": "1 The United States brought this civil action in a Federal District Court charging the defendants (appellees here) with having violated \u00a7 1 of the Sherman Act which forbids combinations or conspiracies in restraint of interstate trade or commerce.* Holding that the complaint failed to state a cau...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

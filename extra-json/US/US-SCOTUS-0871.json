@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0871",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0871",
+    "summary": "1 This case concerns the extent of an interstate carrier's liability for a passenger's baggage loss. Nothnagle, respondent here, purchased a railway ticket from petitioner in Meriden, Connecticut, for a journey to Fall River, Massachusetts, via New Haven, Connecticut.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0904",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0904",
+    "summary": "Ravi Kumar @ Sonu and co-accused Ashwani Dubey were convicted for murdering a TSR driver, Sarvesh Kumar, in furtherance of a robbery on 28 January 2004. The victim was last seen with the accused, and his blood-stained scooter and belongings were later recovered from the accused.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

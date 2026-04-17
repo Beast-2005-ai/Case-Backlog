@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0604",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0604",
+    "summary": "1 New York City has adopted an ordinance which makes it unlawful to hold public worship meetings on the streets without first obtaining a permit from the city police commissioner.1 Appellant, Carl Jacob Kunz, was convicted and fined $10 for violating this ordinance by holding a religious meeting ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

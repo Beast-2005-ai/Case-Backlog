@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-1081",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-1081",
+    "summary": "Gyanendra @ Gyanu Shukla was convicted for armed robbery in which he and a co-accused robbed an S.D.O. 2.5 lakhs using a country-made pistol.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

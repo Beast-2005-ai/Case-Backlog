@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0329",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0329",
+    "summary": "Kapil Dev was accused of being found in possession of 500 grams of heroin. His first bail application was denied due to commercial quantity.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

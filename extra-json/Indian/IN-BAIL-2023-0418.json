@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0418",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0418",
+    "summary": "A mob of 1000\u20131500 persons gathered outside Old Hubballi Police Station on 16 April 2022, allegedly incited by a WhatsApp status with a saffron flag on a mosque dome. They attacked police with stones and clubs, injuring personnel and damaging public and police property.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

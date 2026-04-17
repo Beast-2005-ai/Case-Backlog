@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0719",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0719",
+    "summary": "1 This action for a declaratory judgment on a question of federal constitutional law was prosecuted in the state courts of New Jersey. It sought to declare invalid a statute of that State which provides for the reading, without comment, of five verses of the Old Testament at the opening of each p...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

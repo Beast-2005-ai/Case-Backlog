@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0460",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0460",
+    "summary": "1 The State of Ohio has laid an ad valorem tax against certain intangible property, consisting of notes, accounts receivable and prepaid insurance, owned by foreign corporations. As applied to appellants in these two cases, the tax is challenged as violating the Federal Constitution on serveral g...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

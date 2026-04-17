@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0372",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0372",
+    "summary": "1 Petitioner's primary complaint is that he has been denied the trial 'by an impartial jury' which the Sixth Amendment guarantees. He was convicted of violating the Harrison Narcotics Act,1 By a jury composed entirely of employees of the Federal Government.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0921",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0921",
+    "summary": "Muneer was arrested in July 2023 for alleged involvement in the murder and robbery of a borewell contractor named Thomas Crasta. It is alleged that Muneer and others conspired to murder the victim, disposed of the body in a septic tank, and looted his gold and mobile phone, later selling the items.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

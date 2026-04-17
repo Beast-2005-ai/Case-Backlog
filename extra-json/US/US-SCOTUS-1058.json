@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1058",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1058",
+    "summary": "1 Respondent railroad has, since 1937, engaged in hauling, between Boston, Massachusetts, and other points in New England, loaded trailers of the type ordinarily hauled over the highways by motor carriers. This operation is popularly known as 'piggy-backing.' Trailers to be shipped from Boston ar...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

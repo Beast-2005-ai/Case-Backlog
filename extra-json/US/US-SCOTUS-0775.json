@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0775",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0775",
+    "summary": "1 Respondent, the National Labor Relations Board, issued a complaint against the present bankrupt company alleging unfair labor practices, and, after appropriate proceedings, ordered the bankrupt to pay certain employees back pay which they had lost on account of an unfair labor practice of the b...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

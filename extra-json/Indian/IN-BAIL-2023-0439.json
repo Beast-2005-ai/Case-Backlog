@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0439",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0439",
+    "summary": "Applicant was accused of defrauding the informant by not paying over Rs. 1 crore for 64 truckloads of onions purchased.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0673",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0673",
+    "summary": "Breard, a regional representative of Keystone Readers Service, Inc., a Pennsylvania corporation, was arrested while going from door to door in the City of Alexandria, Louisiana, soliciting subscriptions for nationally known magazines. The arrest was solely on the ground that he had violated an or...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

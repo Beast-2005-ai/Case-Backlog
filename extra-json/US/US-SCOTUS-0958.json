@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0958",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0958",
+    "summary": "1 Five railroads which transport fruits and vegetables into New York and Philadelphia filed with the Interstate Commerce Commission schedules of charges for unloading services performed by them at these points. Various shippers and shipper organizations, State Commissions, and other interested pa...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

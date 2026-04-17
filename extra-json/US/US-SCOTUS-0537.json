@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0537",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0537",
+    "summary": "1 Petitioner Darr, an inmate of the Oklahoma state penitentiary, has been denied federal habeas corpus for failure to exhaust his other available remedies. Therefore the merits of petitioner's claims of imprisonment in violation of the Constitution are not before us.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

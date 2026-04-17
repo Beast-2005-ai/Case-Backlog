@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0444",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0444",
+    "summary": "1 Most broadly stated, the important question presented by this case is the extent to which due process of law, as guaranteed by the Fifth Amendment, requires federal administrative tribunals to accord the right of oral argument to one claiming to be adversely affected by their action, more parti...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

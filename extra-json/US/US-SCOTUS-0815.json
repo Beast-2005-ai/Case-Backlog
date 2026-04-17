@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0815",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0815",
+    "summary": "1 Once more we are called upon to pass on the validity of a tax which falls in some measure upon commerce 'among the several States.' In the situation before us, it is not a tax imposed on interstate commerce as such. It is a tax intended to fall on business done 'within the city' that levies it,...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

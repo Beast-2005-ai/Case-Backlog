@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0581",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0581",
+    "summary": "\u00a7 1252, from dismissal by the District Court of a suit for recovery of $8,701.65 in taxes and interest alleged to be due under \u00a7 7(a)(2) of the Marihuana Tax, Act, 50 Stat. 551, now \u00a7 2590(a)(2) of the Internal Revenue Code.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

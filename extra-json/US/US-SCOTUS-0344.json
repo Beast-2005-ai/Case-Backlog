@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0344",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0344",
+    "summary": "1 The Commonwealth of Pennsylvania holds the petitioner prisoner under a life sentence as an habitual criminal. His claim here, protesting denial by the State Supreme Court of his petition for a writ of habeas corpus, is that the Federal Constitution requires Pennsylvania to release him on due pr...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

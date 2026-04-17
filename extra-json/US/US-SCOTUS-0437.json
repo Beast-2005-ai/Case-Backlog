@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0437",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0437",
+    "summary": "1 In this case a collective bargaining representative was certified, under the National Labor Relations Act,1 to represent all employees working a certain appropriate bargaining unit. Their employer engaged in extended negotiations with this representative as to many matters, including rates of pay.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

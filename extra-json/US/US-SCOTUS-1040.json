@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1040",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1040",
+    "summary": "1 Carroll, the petitioner, was an employee of Hogan, an intervenor, who in turn was a subcontractor doing work for the respondent Lanza, the general contractor. Carroll and Hogan were residents of Missouri; and Carroll's employment contract with Hogan was made in Missouri.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

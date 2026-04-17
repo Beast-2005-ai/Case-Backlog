@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0803",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0803",
+    "summary": "Petitioners were accused in a cybercrime FIR involving fraud and forgery. They were granted interim bail on 09.10.2024, complied with court-imposed conditions including passport submission, and the police confirmed filing of the charge sheet.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

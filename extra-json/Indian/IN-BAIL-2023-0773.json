@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0773",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0773",
+    "summary": "Nonender Singh sought anticipatory bail in a theft case involving iron grills worth \u20b960,000 allegedly stolen by co-accused Bobby, Deepak, and Karan. The stolen material was transported in a van owned by the petitioner, but CCTV and other evidence did not show his involvement in the theft.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

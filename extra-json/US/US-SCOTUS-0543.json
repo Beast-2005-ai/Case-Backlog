@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0543",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0543",
+    "summary": "1 Appellants sought a declaratory judgment that certain sections of the South Carolina statute, Code 1942, \u00a7 3408, as amended by Act April 21, 1948, 45 St. 2059, regulating the fisheries and shrimping industry were unconstitutional and interlocutory and permanent injunctions restraining the state...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

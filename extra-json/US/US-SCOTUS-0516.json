@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0516",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0516",
+    "summary": "1 The question in this case is whether the shipment of obscene phonograph records in interstate commerce is prohibited by \u00a7 245 of the Criminal Code, which makes illegal the interstate shipment of any 'obscene * * * book, pamphlet, picture, motionpicture film, paper, letter, writing, print, or ot...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0502",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0502",
+    "summary": "1 It is principle of American maritime law that ocean carrier freight charges are not earned unless and until the goods are delivered to destination.1 But contractual provisions establishing the shipper's liability for freight regardless of actual delivery have been uniformly held valid,2 and hav...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

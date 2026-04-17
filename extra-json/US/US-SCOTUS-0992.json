@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0992",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0992",
+    "summary": "1 This is a suit by an American seaman against the owner and operator of an ocean freighter, the Mason Lykes, on which he was formerly employed. He based his claim for recovery both on negligence and on breach of the warranty of seaworthiness.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

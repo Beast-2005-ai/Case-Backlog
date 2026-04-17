@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0411",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0411",
+    "summary": "Petitioner was previously granted bail in a case involving the murder of a woman. A second FIR was later filed accusing him of kidnapping and attempting to traffic the deceased woman\u2019s minor daughter.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

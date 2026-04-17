@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0445",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0445",
+    "summary": "1 This case raises two questions: The appealability of an order denying a demand for trial by jury in a federal court, and whether the constitutional right to a jury applies to the trial of an issue of mutual mistake. Petitioner in August of 1947 was carrying insurance with respondent on a hangar...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

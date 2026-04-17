@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0625",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0625",
+    "summary": "1 Respondent Lewis brought this action in the Court of Claims seeking a refund of an alleged overpayment of his 1944 income tax. The facts found by the Court of Claims are: In his 1944 income tax return, respondent reported about $22,000 which he had received that year as an employee's bonus.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

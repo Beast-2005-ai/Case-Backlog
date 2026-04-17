@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0940",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0940",
+    "summary": "Udaybhan Singh Rawat was arrested in connection with a conspiracy to murder Vikram Rawat, who was earlier acquitted in a rape case allegedly falsely lodged at the behest of co-accused. The FIR did not name Udaybhan initially; he was later implicated through witness statements.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

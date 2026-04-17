@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0788",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0788",
+    "summary": "1 Respondent was convicted of violating \u00a7 301(f) of the Federal Food, Drug, and Cosmetic Act, 52 Stat. That section prohibits 'The refusal to permit entry or inspection as authorized by section 704.'1 Section 704, 21 U.S.C.A.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

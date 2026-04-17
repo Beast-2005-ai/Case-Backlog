@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0331",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0331",
+    "summary": "On 15.09.2023, a parcel containing 677 grams of ketamine was intercepted at DHL, New Delhi. The parcel was linked to Girish Bharti through co-accused\u2019s disclosure, recovered packing materials, photocopies of fake IDs, and mobile phone data.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

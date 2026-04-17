@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0255",
+    "timestamp": "2023-01-01",
+    "case_type": "Civil Litigation",
+    "title": "High Court Bail Docket IN-BAIL-2023-0255",
+    "summary": "Waseem was accused of involvement in a 2018 home invasion and robbery in which Maya Devi was killed and her husband injured. Though not named in the FIR, a witness later claimed to have seen Waseem begging near the house a day prior.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0636",
+    "timestamp": "2023-01-01",
+    "case_type": "Family Law",
+    "title": "High Court Bail Docket IN-BAIL-2023-0636",
+    "summary": "The petitioner was accused of being involved in the kidnapping of a newborn baby from a hospital in Bengaluru. The baby had been placed in ICU post-delivery and was later found missing.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

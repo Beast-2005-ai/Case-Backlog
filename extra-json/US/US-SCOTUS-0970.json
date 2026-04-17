@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0970",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0970",
+    "summary": "68 Latham CASTLE, Attorney General of the State of Illinois, et al., Petitioners,v.HAYES FREIGHT LINES, Inc. Davidson, Jr., Springfield, Ill., for petitioner.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

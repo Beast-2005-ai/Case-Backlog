@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0523",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0523",
+    "summary": "1 The question presented is whether trustees, who, in 1944, permanently set aside a charitable contribution from gains realized upon the disposition of capital assets held for more than six months, were entitled, in computing the federal income tax of the trust, to deduct the full amount of the c...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0660",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0660",
+    "summary": "1 Petitioner has been convicted of criminal contempt for refusing to obey a federal court order requiring him to answer certain questions asked in a grand jury investigation. He raises here important issues as to the application of the privilege against self-incrimination under the Fifth Amendmen...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

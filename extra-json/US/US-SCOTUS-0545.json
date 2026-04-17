@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0545",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0545",
+    "summary": "Chris Dixie, Houston, Tex., for petitioner. Greenhill, Houston, Tex., for respondent.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

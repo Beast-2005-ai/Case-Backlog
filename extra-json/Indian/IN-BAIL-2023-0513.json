@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0513",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0513",
+    "summary": "The petitioner, Babu Florence Debora, filed a criminal complaint against her husband and his relatives under Section 498A IPC and Section 4 of the TNPHW Act. Earlier, the accused sought anticipatory bail from the High Court, which was withdrawn after failed mediation.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

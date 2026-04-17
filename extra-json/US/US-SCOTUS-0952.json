@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0952",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0952",
+    "summary": "1 Petitioner, an alien of Mexican birth, first entered the United States in 1918 and has since resided here with only occasional brief visits to his native country. In the course of two questionings, in March 1948, by the Immigration and Naturalization Service, he indicated that he had been a mem...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

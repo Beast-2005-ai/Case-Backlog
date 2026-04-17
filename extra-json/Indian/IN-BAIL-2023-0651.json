@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0651",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0651",
+    "summary": "Tarkeshwar Sen was booked under Sections 406 and 420 IPC in a cyber fraud case registered at the Cyber Crime Police Station in Kurukshetra. He was initially granted interim anticipatory bail and directed to join the investigation.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

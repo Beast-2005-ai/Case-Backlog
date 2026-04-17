@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0844",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0844",
+    "summary": "Chief Justice VINSON announced the order of the Court and an opinion in which Mr. Isserman, respondent herein, was attorney for several of the eleven defendants whose convictions were affirmed by this Court in Dennis v.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

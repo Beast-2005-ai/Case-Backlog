@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0581",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0581",
+    "summary": "Salman Khan was arrested on 03.06.2020 for alleged involvement in the murder of a person named Pooran. The case was based on circumstantial evidence and the confessional statement of another Salman Khan (S/o Rashid Khan), implicating the petitioner.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

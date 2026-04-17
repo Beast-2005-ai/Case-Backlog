@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0403",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0403",
+    "summary": "1 This case presents the question whether the Eight Hour Law1 applies to a contract between the United States and a private contractor for construction work in a foreign country. 2 This Act provides that 'Every contract made to which the United States * * * is a party * * * shall contain a provis...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

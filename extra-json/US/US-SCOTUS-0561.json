@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0561",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0561",
+    "summary": "1 Petitioner is in custody of the State of Michigan under a sentence of life imprisonment for first-degree murder, confirmed upon collateral attack by a judgment of the Supreme Court of Michigan, here challenged. He claims that he was deprived of his right to counsel to the extent that the Due Pr...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

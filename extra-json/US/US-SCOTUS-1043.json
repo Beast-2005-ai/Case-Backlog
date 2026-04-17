@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1043",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1043",
+    "summary": "Lucy and Polly Anne Myers, citizens of Alabama, have been seeking admission to the University of Alabama since September 1952. Adams is Dean of Admissions of the University.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

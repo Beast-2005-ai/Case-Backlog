@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0504",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0504",
+    "summary": "1 The question is whether, under the special circumstances of this case, a native-born American citizen who became an Italian citizen in 1940, and lived in Italy with her Italian husband from 1941 to 1945, nevertheless retained her American citizenship. For the reasons hereinafter stated, we hold...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

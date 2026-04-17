@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0727",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0727",
+    "summary": "Nutan Devi was implicated in a case involving a protest over the kidnapping of a girl named Chunni Kumari. The protest allegedly turned violent with stone pelting and injuries to police personnel.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

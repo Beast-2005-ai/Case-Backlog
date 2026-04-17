@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1017",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-1017",
+    "summary": "1 After administrative hearings, the respondent Pedreiro, an alien, was ordered deported under the Immigration and Nationality Act of 1952.1 He petitioned the District Court for the Southern District of New York to review the deportation order, declare it void and insue a temporary injunction res...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

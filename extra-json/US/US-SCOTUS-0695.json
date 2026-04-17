@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0695",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0695",
+    "summary": "1 Having 'some information that (the petitioner here) was selling narcotics,' three deputy sheriffs of the County of Los Angeles, on the morning of July 1, 1949, made for the two-story dwelling house in which Rochin lived with his mother, common-law wife, brothers and sisters. Finding the outside...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

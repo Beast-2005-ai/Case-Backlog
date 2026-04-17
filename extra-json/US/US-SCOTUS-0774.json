@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0774",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0774",
+    "summary": "1 Respondent applied to petitioner under \u00a7 4(e) of the Federal Power Act, 41 Stat. \u00a7 797(e) for a license to construct, operate, and maintain a hydroelectric project (known as the Bliss development) on the Snake River in southern Idaho.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

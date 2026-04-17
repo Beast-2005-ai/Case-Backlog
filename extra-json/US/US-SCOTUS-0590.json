@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0590",
+    "timestamp": "2020-01-01",
+    "case_type": "Family Law",
+    "title": "Supreme Court Docket US-SCOTUS-0590",
+    "summary": "1 This is a petition for a writ of habeas corpus filed in the District Court on behalf of petitioner challenging the legality of his detention by respondent. Respondent holds Gusik pursuant to a court-martial judgment convicting him of murder while he was stationed in Italy as a member of the Uni...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

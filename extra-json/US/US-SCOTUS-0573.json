@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0573",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0573",
+    "summary": "1 The United States by its Attorney General and its Solicitor General brought this suit against the State of Louisiana, invoking our jurisdiction under Art. 2 of the Constitution which provides 'In all Cases * * * in which a State shall be Party, the supreme Court shall have original Jurisdiction...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

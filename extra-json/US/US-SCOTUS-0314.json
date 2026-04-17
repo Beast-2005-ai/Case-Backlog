@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0314",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0314",
+    "summary": "1 This is a suit brought by the United States in the District Court to prevent and restrain appellees from violating \u00a7\u00a7 1 and 2 of the Sherman Act, 26 Stat. The District Court, finding there was no violation of the Act in any of the respects charged in the complaint, dismissed the complaint on th...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

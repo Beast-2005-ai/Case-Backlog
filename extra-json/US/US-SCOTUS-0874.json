@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0874",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0874",
+    "summary": "1 Section 4(1) of the Securities Act of 1933 exempts 'transactions by an issuer not involving any public offering'1 from the registration requirements of \u00a7 5.2 We must decide whether Ralston Purina's offerings of treasury stock to its 'key employees' are within this exemption. 2 Ralston Purina ma...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

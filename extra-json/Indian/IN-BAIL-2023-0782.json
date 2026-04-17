@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0782",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0782",
+    "summary": "Javedkhan was charged under POTA and IPC for his alleged role in a terrorist conspiracy, including extortion of Rs. 25 lakhs from a petrol pump operator.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

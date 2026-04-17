@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0328",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0328",
+    "summary": "1 This case raises questions concerning the relative rights of war veteran and nonveteran employees to retention in government service when a program of reduction in the number of government civilian employees makes it necessary for some to be chosen for discharge. The acute point of controversy ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

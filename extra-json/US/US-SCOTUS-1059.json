@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-1059",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-1059",
+    "summary": "173 SECRETARY OF AGRICULTURE of the United Statesv.UNITED STATES of America, Interstate Commerce Commission, et al. UTAH POULTRY & FARMERS COOPERATIVE, Armour and Company, and Swift and Company, v.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

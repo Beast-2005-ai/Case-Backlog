@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0708",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0708",
+    "summary": "1 On February 1, 1942, pursuant to the Alien Enemy Act of 1798, as amended,1 the Attorney General of the United States interned petitioner, a German citizen residing in this country. On May 3, 1946, acting under the same statute, the Attorney General directed petitioner's removal to Germany.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

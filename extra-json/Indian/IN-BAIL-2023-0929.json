@@ -1,0 +1,11 @@
+{
+    "case_id": "IN-BAIL-2023-0929",
+    "timestamp": "2023-01-01",
+    "case_type": "Criminal Defense",
+    "title": "High Court Bail Docket IN-BAIL-2023-0929",
+    "summary": "Chironjilal, a head constable, was accused of accepting a bribe of \u20b91,500 for facilitating anticipatory bail in a theft case. A trap was laid and currency notes were recovered from his home.",
+    "flags": {
+        "region": "India",
+        "bail_case": true
+    }
+}

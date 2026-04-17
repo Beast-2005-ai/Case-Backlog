@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0629",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0629",
+    "summary": "1 The United States brings this action under the Housing and Rent Act of 1947, as amended,1 to obtain damages for violations of the Act and restitution of overceiling rentals collected. The question is whether under \u00a7 206(b) of the Act a landlord may be ordered to make restitution of overceiling ...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

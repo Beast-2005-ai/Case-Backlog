@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0784",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0784",
+    "summary": "Fry Roofing Company, manufactures asphalt roofing products in Memphis, Tennessee, and sends them in trucks to customers in nearby states. Some of these trucks are driven by their owners who have allegedly leased them to the petitioner.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

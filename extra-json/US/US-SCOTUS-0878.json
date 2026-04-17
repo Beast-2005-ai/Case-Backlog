@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0878",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0878",
+    "summary": "1 Petitioners were found guilty of felony murder1 by a jury in Westchester County, New York, and sentenced to death. Evidence proffered and heard, subject to rejection or acceptance in the judgment of the jury, included two written confessions by petitioners Cooper and Stein, together with testim...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

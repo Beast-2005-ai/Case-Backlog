@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0993",
+    "timestamp": "2020-01-01",
+    "case_type": "Corporate / IP",
+    "title": "Supreme Court Docket US-SCOTUS-0993",
+    "summary": "1 This case raises questions concerning the power of States to regulate the terms and conditions of marine insurance contracts. 2 Glenn, Frank and Henry Wilburn, merchants in Denison, Texas, bought a small houseboat to use for commercial carriage of passengers on nearby Lake Texoma, an artificial...",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

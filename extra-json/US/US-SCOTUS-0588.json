@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0588",
+    "timestamp": "2020-01-01",
+    "case_type": "Criminal Defense",
+    "title": "Supreme Court Docket US-SCOTUS-0588",
+    "summary": "1 Petitioner, while on active duty with the Army in Germany, was convicted by a general court-martial of rape on a German girl. The sentence of death, originally imposed, was reduced to a term of years.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}

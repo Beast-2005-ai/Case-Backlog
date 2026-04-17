@@ -1,0 +1,11 @@
+{
+    "case_id": "US-SCOTUS-0630",
+    "timestamp": "2020-01-01",
+    "case_type": "Civil Litigation",
+    "title": "Supreme Court Docket US-SCOTUS-0630",
+    "summary": "1 Respondent, a former captain in the Army, was honorably discharged for physical disability and without retirement pay, as the result of a decision by an Army Retiring Board. Respondent applied to the Army Disability Review Board for review of that action.",
+    "flags": {
+        "region": "USA",
+        "supreme_court": true
+    }
+}
