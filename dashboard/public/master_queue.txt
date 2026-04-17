@@ -1,0 +1,72 @@
+[
+  {
+    "id": "CASE-2024-0847",
+    "type": "Criminal Defense",
+    "priorityScore": 94,
+    "summary": "Defendant facing felony charges with arraignment in 48 hours. Requires immediate counsel assignment.",
+    "justification": "Priority elevated due to constitutional right to speedy trial. Defendant is indigent and qualifies for public defense. Arraignment scheduled for March 23, 2026 at 9:00 AM. Charges include armed robbery (2 counts) and assault with deadly weapon. Prior criminal history includes 1 misdemeanor. Risk assessment indicates high flight risk. Immediate legal representation required to ensure due process rights are protected."
+  },
+  {
+    "id": "CASE-2024-0923",
+    "type": "Family Law",
+    "priorityScore": 88,
+    "summary": "Emergency custody hearing scheduled. Child welfare concerns flagged by social services.",
+    "justification": "Case involves allegations of neglect and potential abuse. Child Protective Services has filed emergency motion for temporary custody removal. Hearing scheduled within 72 hours per state statute. Both parents require separate legal representation due to conflicting interests. Court-appointed guardian ad litem recommended. High priority due to imminent risk to minor child's safety and wellbeing."
+  },
+  {
+    "id": "CASE-2024-1056",
+    "type": "Civil Rights",
+    "priorityScore": 82,
+    "summary": "Unlawful detention claim with statute of limitations approaching in 14 days.",
+    "justification": "Plaintiff alleges Fourth Amendment violation during arrest. Video evidence supports claim of excessive force by law enforcement. Statute of limitations expires April 4, 2026. Case has strong merit based on preliminary review of body camera footage and witness statements. Potential for qualified immunity defense requires sophisticated legal analysis. Time-sensitive filing deadline necessitates immediate attorney assignment."
+  },
+  {
+    "id": "CASE-2024-1134",
+    "type": "Immigration",
+    "priorityScore": 79,
+    "summary": "Asylum seeker with deportation hearing in 10 days. Credible fear established.",
+    "justification": "Client fled persecution in country of origin based on political opinion. Initial credible fear interview passed. Deportation proceedings initiated. Hearing scheduled March 31, 2026. Case involves complex issues of international human rights law and country condition evidence. Client has no criminal history. Strong case for asylum relief based on documented persecution. Legal representation critical to prevent wrongful deportation."
+  },
+  {
+    "id": "CASE-2024-1289",
+    "type": "Appellate Review",
+    "priorityScore": 76,
+    "summary": "Notice of appeal filed. Briefing deadline in 21 days for wrongful conviction claim.",
+    "justification": "Defendant convicted of aggravated assault seeks appeal based on ineffective assistance of counsel and newly discovered DNA evidence. Trial counsel failed to call alibi witnesses. Post-conviction DNA testing excludes defendant as contributor to biological evidence. Brief must be filed by April 11, 2026. Case presents strong grounds for reversal. Appellate counsel with criminal defense experience required immediately."
+  },
+  {
+    "id": "CASE-2024-1367",
+    "type": "Housing Dispute",
+    "priorityScore": 71,
+    "summary": "Wrongful eviction case. Tenant facing lockout within 7 days without proper notice.",
+    "justification": "Landlord initiated eviction without required 30-day notice per state housing code. Tenant claims retaliatory eviction after reporting code violations to city inspector. Emergency injunction may be necessary to prevent illegal lockout. Tenant is elderly with disabilities and has limited housing alternatives. Case involves Fair Housing Act protections and state landlord-tenant law. Immediate legal intervention required."
+  },
+  {
+    "id": "CASE-2024-1445",
+    "type": "Employment Law",
+    "priorityScore": 68,
+    "summary": "Wrongful termination with EEOC complaint pending. Retaliation allegations.",
+    "justification": "Employee terminated 3 days after filing workplace discrimination complaint with HR. Clear temporal proximity suggests retaliatory motive. EEOC right-to-sue letter issued. Plaintiff has 90 days to file civil action (deadline May 15, 2026). Evidence includes email documentation of protected activity and suspicious timing of termination. Strong case for Title VII violation. Client experiencing financial hardship and needs prompt legal action."
+  },
+  {
+    "id": "CASE-2024-1523",
+    "type": "Personal Injury",
+    "priorityScore": 64,
+    "summary": "Severe injury claim against municipality. Statute of limitations in 45 days.",
+    "justification": "Plaintiff suffered traumatic brain injury due to inadequately maintained public property. Medical expenses exceed $250,000. Municipality requires notice of claim filing within strict timeframe. Statute of limitations expires May 5, 2026. Liability appears clear based on photographic evidence of hazardous condition and lack of warning signs. Damages are substantial and ongoing. Expert witnesses needed for medical and engineering testimony."
+  },
+  {
+    "id": "CASE-2024-1601",
+    "type": "Juvenile Justice",
+    "priorityScore": 59,
+    "summary": "Minor charged as adult. Transfer hearing scheduled in 30 days.",
+    "justification": "16-year-old defendant facing automatic adult prosecution for serious felony offense. Defense must file motion to transfer to juvenile court. Transfer hearing scheduled April 20, 2026. Case requires juvenile justice expert and mitigation specialist. Defendant has no prior criminal history and strong family support. Psychological evaluation indicates amenability to rehabilitation. Critical that case remain in juvenile system to avoid adult prison sentence."
+  },
+  {
+    "id": "CASE-2024-1778",
+    "type": "Consumer Protection",
+    "priorityScore": 52,
+    "summary": "Predatory lending case with foreclosure sale scheduled in 60 days.",
+    "justification": "Homeowner alleges violations of Truth in Lending Act and state consumer protection statutes. Loan includes hidden fees and excessive interest rate. Foreclosure sale scheduled for May 20, 2026. Preliminary analysis suggests violations of RESPA and TILA disclosure requirements. Client is elderly and may have been victim of elder financial exploitation. Potential for loan modification or rescission. Immediate action needed to halt foreclosure proceedings."
+  }
+]
