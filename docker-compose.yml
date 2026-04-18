@@ -21,6 +21,7 @@ services:
       dockerfile: Dockerfile.backend
     container_name: casetriage_watchdog
     command: python watchdog-orchestrator.py
+    restart: unless-stopped
     depends_on:
       - api_bridge
     volumes:
